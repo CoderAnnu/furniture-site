@@ -11,7 +11,7 @@
 <br /><br />
 
 # Demo :movie_camera:
-![](https://github.com/CoderAnnu/testy/blob/master/Home%20Page%20-%20Furniture%20-%20Google%20Chrome%202023-01-03%2013-11-32.gif?raw=true)
-## View demo [here](https://github.com/CoderAnnu/testy/blob/master/Home%20Page%20-%20Furniture%20-%20Google%20Chrome%202023-01-03%2013-11-32.gif?raw=true).
+![](https://github.com/CoderAnnu/furniture-site/blob/master/Demo/Furniture-site.gif?raw=true)
+## View demo [here](https://github.com/CoderAnnu/furniture-site/blob/master/Demo/Furniture-site.gif?raw=true).
 
 <br />
