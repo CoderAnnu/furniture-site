@@ -12,6 +12,6 @@
 
 # Demo :movie_camera:
 ![](https://github.com/CoderAnnu/testy/blob/master/Home%20Page%20-%20Furniture%20-%20Google%20Chrome%202023-01-03%2013-11-32.gif?raw=true)
-## View live demo [here](https://dev-portfolio-template.netlify.app/).
+## View demo [here](https://github.com/CoderAnnu/testy/blob/master/Home%20Page%20-%20Furniture%20-%20Google%20Chrome%202023-01-03%2013-11-32.gif?raw=true).
 
 <br />
