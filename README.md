@@ -9,9 +9,9 @@
 
 <br />
 <div dir="auto">
-    <h2>Home page </h2>
+    <span>Home page </span>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
-    <h2>Product page </h2>
+    <span>Product page </span>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Product-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Product-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
 </div>
 <br />
