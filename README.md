@@ -7,7 +7,10 @@
 ## i have create simple furniture website without e-commerce, this Website display products and  admin can update product features and there image etc. through the wordpress admin panel, user friendly website is designed to display products.
 
 <br />
-
+<div dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeLight.png"><img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeLight.png" width="48%" alt="" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeDark.png"><img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeDark.png" width="48%" alt="" style="max-width: 100%;"></a>
+</div>
 <br />
 
 # Demo :movie_camera:
