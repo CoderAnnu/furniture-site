@@ -9,10 +9,8 @@
 
 <br />
 <div dir="auto">
-    <span>Home page </span>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
-    <span>Product page </span>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Product-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Product-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
+       <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Product-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Product-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
 </div>
 <br />
 <div dir="auto">
