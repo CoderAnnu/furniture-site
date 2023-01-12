@@ -1,4 +1,5 @@
 # Furniture Website  
+# Furniture Website  
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
@@ -8,8 +9,8 @@
 
 <br />
 <div dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeLight.png"><img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeLight.png" width="48%" alt="" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeDark.png"><img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeDark.png" width="48%" alt="" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/About-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/About-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
+    <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/About-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/About-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a> -->
 </div>
 <br />
 
