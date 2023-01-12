@@ -8,7 +8,7 @@
 
 <br />
 
-<br /><br />
+<br />
 
 # Demo :movie_camera:
 ![](https://github.com/CoderAnnu/furniture-site/blob/master/Demo/Furniture-site.gif?raw=true)
