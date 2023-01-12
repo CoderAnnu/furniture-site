@@ -10,12 +10,12 @@
 <br />
 <div dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/About-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/About-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Product-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Product-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
 </div>
 <br />
 <div dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
-     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Home-Page-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/About-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/About-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
+     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Contact-Furniture.png"><img src="https://raw.githubusercontent.com/CoderAnnu/furniture-site/master/Demo%20%20image/Contact-Furniture.png" width="48%" alt="" style="max-width: 100%;"></a>
 </div>
 <br />
 
