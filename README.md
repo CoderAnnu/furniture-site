@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Furniture-Site
 This is Furniture website based on word press (i have add some custom features in this theme )
 =======
@@ -31,7 +30,3 @@ This is Furniture website based on word press (i have add some custom features i
 ## View demo [here](https://github.com/CoderAnnu/furniture-site/blob/master/Demo/Furniture-site.gif?raw=true).
 
 <br />
-<<<<<<< HEAD
->>>>>>> fa2d50cf4939431e48a44280310c94b606fb2930
-=======
->>>>>>> fa2d50cf4939431e48a44280310c94b606fb2930
