@@ -1,0 +1,21 @@
+.widget_recent_comments {
+  .recentcomments {
+	padding: 10px 0;
+	color: #c3c3c3;
+	&:first-child {
+	  padding-top: 0;
+	}
+	&:last-child {
+	  padding-bottom: 0;
+	}
+	.comment-author-link{
+	  a{
+		color: #b2b2b2;
+	  }
+	}
+  }
+  ul{
+	padding: 35px 25px 35px 35px;
+	background: #fff;
+  }
+}

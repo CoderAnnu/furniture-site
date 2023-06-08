@@ -1,0 +1,22 @@
+.fl-contact-us-widget{
+	.contact-info-div{
+		display: flex;
+		align-items: center;
+		line-height: 1;
+		margin-bottom: 20px;
+		font-size: 12px!important;
+		color: #222222!important;
+		.contact-us-icon{
+			font-size: 16px;
+			color: #666666!important;
+			min-width: 25px;
+		}
+		a{
+			color: #222222!important;
+		}
+	}
+	#fl-contact-widget-map{
+		margin-top: 30px;
+	}
+
+}

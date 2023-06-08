@@ -1,0 +1,11 @@
+.fl_social_widget{
+	.sidebar-social-links{
+		.social-links{
+			display: inline-block;
+			padding-right: 20px;
+			&:last-child{
+				padding-right: 0;
+			}
+		}
+	}
+}

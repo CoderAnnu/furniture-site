@@ -1,0 +1,1 @@
+!function(){const e=window.jQuery,a=e('[name="awb_general[disable_parallax][everywhere]"], [name="awb_general[disable_videos][everywhere]"]');function n(){a.each((function(){const a=e(this),n=a.closest("fieldset").find('[type="checkbox"]').not(this);a.is(":checked")?n.attr("disabled","disabled"):n.removeAttr("disabled")}))}n(),a.on("change",n)}();

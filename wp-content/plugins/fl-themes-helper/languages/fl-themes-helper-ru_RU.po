@@ -1,0 +1,2666 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"Project-Id-Version: Fl Themes Helper\n"
+"POT-Creation-Date: 2019-11-30 00:22+0200\n"
+"PO-Revision-Date: 2020-02-12 12:55+0000\n"
+"Last-Translator: Jane William <lifeontr@gmail.com>\n"
+"Language-Team: Русский\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: fl-themes-helper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: ru_RU\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: afc_custom_fields/icon_picker/acf-fonticonpicker-v5.php:26
+msgid "Icon Picker"
+msgstr ""
+
+#: afc_custom_fields/icon_picker/acf-fonticonpicker-v5.php:63
+msgid "No icons found"
+msgstr ""
+
+#: afc_custom_fields/icon_picker/acf-fonticonpicker-v5.php:72
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:31
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:51
+#: vc_custom/maps-shortcode/vc_single_image_map.php:95
+#: vc_custom/maps-shortcode/vc_single_image_map.php:138
+#: vc_custom/maps-shortcode/vc_single_image_map.php:154
+msgid "None"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:32
+msgid "Image Select"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:61
+msgid "Error! Please enter a higher value"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:110
+msgid "Choices"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:111
+msgid ""
+"Enter your choices one per line <br /> Red <br /> Blue <br /> red : Red <br "
+"/> blue : Blue <br /><span style=\"color:#BC0B0B\">Please note:</span> The "
+"first value of each choices will used as name of image.<br />Like for "
+"\"<strong>Blue</strong>\" or \"<strong>blue : Blue</strong>\", the image "
+"name will be \"<strong>blue.png</strong>\""
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:117
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:171
+msgid "Default Value"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:123
+msgid "Allow Multiple Choices?"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:126
+#: vc_custom/custom_params_option.php:167
+#: vc_custom/custom_params_option.php:268
+#: vc_custom/custom_params_option.php:401
+#: vc_custom/custom_params_option.php:474
+#: vc_custom/custom_params_option.php:514
+#: vc_custom/custom_params_option.php:589
+#: vc_custom/custom_params_option.php:629
+#: vc_custom/custom_params_option.php:719
+#: vc_custom/custom_params_option.php:757
+#: vc_custom/custom_params_option.php:845
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:72
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:102
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:51
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:35
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:94
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:108
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:27
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:98
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:282
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:398
+#: vc_custom/maps-shortcode/vc_single_image_map.php:190
+#: vc_custom/params/fl-responsive-css.php:152
+msgid "Yes"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:127
+#: vc_custom/custom_params_option.php:168
+#: vc_custom/custom_params_option.php:269
+#: vc_custom/custom_params_option.php:402
+#: vc_custom/custom_params_option.php:475
+#: vc_custom/custom_params_option.php:515
+#: vc_custom/custom_params_option.php:590
+#: vc_custom/custom_params_option.php:630
+#: vc_custom/custom_params_option.php:720
+#: vc_custom/custom_params_option.php:758
+#: vc_custom/custom_params_option.php:846
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:73
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:103
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:52
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:36
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:95
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:109
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:28
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:99
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:283
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:399
+#: vc_custom/maps-shortcode/vc_single_image_map.php:191
+#: vc_custom/params/fl-responsive-css.php:151
+msgid "No"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:134
+msgid "Image Path"
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:135
+msgid "Enter folder URL for images <b>based on current theme</b>."
+msgstr ""
+
+#: afc_custom_fields/image_selector/acf-image_select-v5.php:141
+msgid "Image Extension"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:36
+msgid "RGBA Color Picker"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:95
+msgid "Clear"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:96
+#: vc_custom/custom_params_option.php:228
+#: vc_custom/custom_params_option.php:308
+#: vc_custom/custom_params_option.php:435
+#: vc_custom/custom_params_option.php:549
+#: vc_custom/custom_params_option.php:664
+#: vc_custom/custom_params_option.php:694
+#: vc_custom/custom_params_option.php:790
+#: vc_custom/custom_params_option.php:820
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:25
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:49
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:80
+#: vc_custom/params/fl-responsive-css.php:135
+msgid "Default"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:97
+msgid "Select Color"
+msgstr ""
+
+#: afc_custom_fields/rgba-color-master/acf-extended-color-picker-v5.php:98
+msgid "Current Color"
+msgstr ""
+
+#: custom_taxonomy/work.php:11
+msgid "Work"
+msgstr ""
+
+#: custom_taxonomy/work.php:12
+msgid "Work Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:13
+msgid "Add New Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:14 custom_taxonomy/work.php:16
+msgid "Add New Work Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:15
+msgid "Edit Work Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:17
+msgid "View Item"
+msgstr ""
+
+#: custom_taxonomy/work.php:18
+msgid "Search Work"
+msgstr ""
+
+#: custom_taxonomy/work.php:19
+msgid "No work items found"
+msgstr ""
+
+#: custom_taxonomy/work.php:20
+msgid "No work items found in trash"
+msgstr ""
+
+#: custom_taxonomy/work.php:45 custom_taxonomy/work.php:59
+msgid "Work Categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:46
+msgid "Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:47
+msgid "Search Work Categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:48
+msgid "Popular Work Categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:49
+msgid "All Work Categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:50
+msgid "Parent Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:51
+msgid "Parent Work Category:"
+msgstr ""
+
+#: custom_taxonomy/work.php:52
+msgid "Edit Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:53
+msgid "Update Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:54
+msgid "Add New Work Category"
+msgstr ""
+
+#: custom_taxonomy/work.php:55
+msgid "New Work Category Name"
+msgstr ""
+
+#: custom_taxonomy/work.php:56
+msgid "Separate Work categories with commas"
+msgstr ""
+
+#: custom_taxonomy/work.php:57
+msgid "Add or remove Work categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:58
+msgid "Choose from the most used Work categories"
+msgstr ""
+
+#: custom_taxonomy/work.php:85
+msgid "Thumbnail"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:12
+msgid "TGMPA library is required to show plugins"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:33
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:33
+msgid "Install"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:54
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:54
+msgid "Activate"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:71
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:71
+msgid "Update"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:92
+#, php-format
+msgid "Deactivate %2$s"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:92
+msgid "Deactivate"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:119
+msgid "Required Plugin"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:147
+msgid "Version:"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:148
+msgid "By:"
+msgstr ""
+
+#: dashboard/pages/plugin_install.php:155
+#, php-format
+msgid "Available Version: %s"
+msgstr ""
+
+#: function/custom_function.php:12
+msgid "Facebook Username"
+msgstr ""
+
+#: function/custom_function.php:13
+msgid "Google Plus Username"
+msgstr ""
+
+#: function/custom_function.php:14
+msgid "Instagram Username"
+msgstr ""
+
+#: function/custom_function.php:15
+msgid "Pinterest Username"
+msgstr ""
+
+#: function/custom_function.php:16
+msgid "Twitter Username"
+msgstr ""
+
+#: function/custom_function.php:17
+msgid "Behance Username"
+msgstr ""
+
+#: function/custom_function.php:18
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:4
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:38
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:75
+msgid "Phone Number"
+msgstr ""
+
+#: function/custom_function.php:380
+msgid "Home"
+msgstr ""
+
+#: function/custom_function.php:381
+msgid "Blog"
+msgstr ""
+
+#: function/custom_function.php:382
+msgid "Archive"
+msgstr ""
+
+#: function/custom_function.php:383
+msgid "Search results:"
+msgstr ""
+
+#: function/custom_function.php:384
+msgid "Tag"
+msgstr ""
+
+#: function/custom_function.php:385
+msgid "Author"
+msgstr ""
+
+#: function/custom_function.php:386
+msgid "Error 404"
+msgstr ""
+
+#: function/custom_function.php:387
+msgid "Shop"
+msgstr ""
+
+#: function/custom_function.php:543
+msgid "Page"
+msgstr ""
+
+#: function/like/post-like.php:32 function/like/post-like.php:226
+msgid "Like"
+msgstr ""
+
+#: function/like/post-like.php:33 function/like/post-like.php:222
+msgid "Unlike"
+msgstr ""
+
+#: function/like/post-like.php:47
+msgid "Not permitted"
+msgstr ""
+
+#: function/like/post-like.php:365
+msgid "You Like:"
+msgstr ""
+
+#: function/like/post-like.php:391
+msgid "You do not like anything yet."
+msgstr ""
+
+#: vc_custom/custom_params_option.php:138
+#: vc_custom/custom_params_option.php:384
+#: vc_custom/custom_params_option.php:499
+#: vc_custom/custom_params_option.php:613
+#: vc_custom/custom_params_option.php:742
+msgid "CSS Animation"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:141
+#: vc_custom/custom_params_option.php:387
+#: vc_custom/custom_params_option.php:502
+#: vc_custom/custom_params_option.php:616
+#: vc_custom/custom_params_option.php:745
+msgid ""
+"Select type of animation for element to be animated when it \"enters\" the "
+"browsers viewport (Note: works only in modern browsers)."
+msgstr ""
+
+#: vc_custom/custom_params_option.php:175
+msgid "Animation Delay"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:203
+msgid "Custom ID"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:211
+msgid "Custom Classes"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:219
+msgid "CSS"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:221
+#: vc_custom/custom_params_option.php:240
+#: vc_custom/custom_params_option.php:249
+#: vc_custom/custom_params_option.php:447
+#: vc_custom/custom_params_option.php:456
+#: vc_custom/custom_params_option.php:561
+#: vc_custom/custom_params_option.php:570
+#: vc_custom/custom_params_option.php:676
+#: vc_custom/custom_params_option.php:685
+#: vc_custom/custom_params_option.php:702
+#: vc_custom/custom_params_option.php:802
+#: vc_custom/custom_params_option.php:811
+#: vc_custom/custom_params_option.php:828
+msgid "Design Options"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:225
+#: vc_custom/custom_params_option.php:432
+#: vc_custom/custom_params_option.php:546
+#: vc_custom/custom_params_option.php:661
+#: vc_custom/custom_params_option.php:787
+#: vc_custom/params/fl-responsive-css.php:132
+msgid "Background position"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:229
+#: vc_custom/custom_params_option.php:436
+#: vc_custom/custom_params_option.php:550
+#: vc_custom/custom_params_option.php:665
+#: vc_custom/custom_params_option.php:791
+#: vc_custom/params/fl-responsive-css.php:136
+msgid "Left Top"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:230
+#: vc_custom/custom_params_option.php:437
+#: vc_custom/custom_params_option.php:551
+#: vc_custom/custom_params_option.php:666
+#: vc_custom/custom_params_option.php:792
+#: vc_custom/params/fl-responsive-css.php:137
+msgid "Left Middle"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:231
+#: vc_custom/custom_params_option.php:438
+#: vc_custom/custom_params_option.php:552
+#: vc_custom/custom_params_option.php:667
+#: vc_custom/custom_params_option.php:793
+#: vc_custom/params/fl-responsive-css.php:138
+msgid "Left Bottom"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:232
+#: vc_custom/custom_params_option.php:439
+#: vc_custom/custom_params_option.php:553
+#: vc_custom/custom_params_option.php:668
+#: vc_custom/custom_params_option.php:794
+#: vc_custom/params/fl-responsive-css.php:139
+msgid "Center Top"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:233
+#: vc_custom/custom_params_option.php:440
+#: vc_custom/custom_params_option.php:554
+#: vc_custom/custom_params_option.php:669
+#: vc_custom/custom_params_option.php:795
+#: vc_custom/params/fl-responsive-css.php:140
+msgid "Center Middle"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:234
+#: vc_custom/custom_params_option.php:441
+#: vc_custom/custom_params_option.php:555
+#: vc_custom/custom_params_option.php:670
+#: vc_custom/custom_params_option.php:796
+#: vc_custom/params/fl-responsive-css.php:141
+msgid "Center Bottom"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:235
+#: vc_custom/custom_params_option.php:442
+#: vc_custom/custom_params_option.php:556
+#: vc_custom/custom_params_option.php:671
+#: vc_custom/custom_params_option.php:797
+#: vc_custom/params/fl-responsive-css.php:142
+msgid "Right Top"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:236
+#: vc_custom/custom_params_option.php:443
+#: vc_custom/custom_params_option.php:557
+#: vc_custom/custom_params_option.php:672
+#: vc_custom/custom_params_option.php:798
+#: vc_custom/params/fl-responsive-css.php:143
+msgid "Right Middle"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:237
+#: vc_custom/custom_params_option.php:444
+#: vc_custom/custom_params_option.php:558
+#: vc_custom/custom_params_option.php:673
+#: vc_custom/custom_params_option.php:799
+#: vc_custom/params/fl-responsive-css.php:144
+msgid "Right Bottom"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:245
+#: vc_custom/custom_params_option.php:452
+#: vc_custom/custom_params_option.php:566
+#: vc_custom/custom_params_option.php:681
+#: vc_custom/custom_params_option.php:807
+#: vc_custom/params/fl-responsive-css.php:157
+msgid "Minimum height"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:254
+#: vc_custom/custom_params_option.php:461
+#: vc_custom/custom_params_option.php:576
+#: vc_custom/custom_params_option.php:706
+#: vc_custom/custom_params_option.php:832
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:33
+msgid "Responsive Option"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:304
+msgid "Row stretch"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:309
+msgid "Stretch row"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:310
+msgid "Stretch row and content"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:311
+msgid "Stretch row and content (no paddings)"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:313
+msgid ""
+"Select stretching options for row and content (Note: stretched may not work "
+"properly if parent container has \"overflow: hidden\" CSS property)."
+msgstr ""
+
+#: vc_custom/custom_params_option.php:319
+msgid "Row Decor Top"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:331
+#: vc_custom/custom_params_option.php:354
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:39
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:96
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:44
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:240
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:61
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:49
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:90
+msgid "Disable"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:332
+#: vc_custom/custom_params_option.php:355
+msgid "White Left"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:333
+msgid "White Right"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:334
+#: vc_custom/custom_params_option.php:356
+msgid "Main Color Left"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:335
+msgid "Main Color Right"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:342
+msgid "Row Decor Bottom"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:364
+msgid "Overflow"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:374
+msgid "Select overflow"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:375
+msgid "Overflow visible"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:376
+msgid "Overflow hidden"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:377
+msgid "Overflow auto"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:396
+#: vc_custom/custom_params_option.php:509
+#: vc_custom/custom_params_option.php:624
+#: vc_custom/custom_params_option.php:752
+msgid "Custom Delay"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:406
+#: vc_custom/custom_params_option.php:519
+#: vc_custom/custom_params_option.php:634
+#: vc_custom/custom_params_option.php:762
+msgid "\"Checked\"to show custom delay"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:415
+#: vc_custom/custom_params_option.php:528
+#: vc_custom/custom_params_option.php:643
+#: vc_custom/custom_params_option.php:770
+msgid "Animation delay"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:690
+#: vc_custom/custom_params_option.php:816
+msgid "Z-Index"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:994
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:32
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:52
+msgid "Font Awesome"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:995
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:33
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:53
+msgid "Open Iconic"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:996
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:34
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:54
+msgid "Typicons"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:997
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:35
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:55
+msgid "Entypo"
+msgstr ""
+
+#: vc_custom/custom_params_option.php:998
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:36
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:56
+msgid "Linecons"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:4
+msgid "Action Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:6
+#: vc_custom/maps-shortcode/vc_fl_blog_post_map.php:6
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:10
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_map.php:13
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_row_map.php:15
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:6
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:6
+#: vc_custom/maps-shortcode/vc_fl_decor_map.php:10
+#: vc_custom/maps-shortcode/vc_fl_gallery_map.php:7
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:10
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:8
+#: vc_custom/maps-shortcode/vc_fl_header_custom_container_map.php:9
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:9
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:9
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:8
+#: vc_custom/maps-shortcode/vc_fl_list_info_map.php:10
+#: vc_custom/maps-shortcode/vc_fl_list_table_map.php:12
+#: vc_custom/maps-shortcode/vc_fl_number_content_map.php:7
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:7
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:9
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:6
+#: vc_custom/maps-shortcode/vc_fl_semi_circle_progress_container_map.php:11
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:7
+#: vc_custom/maps-shortcode/vc_fl_services_container_map.php:9
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:7
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:8
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:28
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:7
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:11
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:9
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:7
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:74
+#: vc_custom/maps-shortcode/vc_fl_woo_shop_slider_map.php:6
+#: vc_custom/maps-shortcode/vc_single_image_map.php:9
+msgid "Fl Theme"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:14
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:83
+msgid "Button Link"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:19
+msgid "Content Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:22
+msgid "Right Content Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:23
+msgid "Left Content Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:30
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:13
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:29
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:5
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:47
+msgid "Title"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:40
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:20
+#: vc_custom/maps-shortcode/vc_fl_list_info_map.php:29
+#: vc_custom/maps-shortcode/vc_fl_list_row_map.php:15
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slide_map.php:14
+msgid "Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:49
+msgid "Background Image"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:51
+msgid "Recommended image size 438x350 px"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:57
+msgid "Action Image"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:59
+msgid "Recommended image size 692x280 px"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:76
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:80
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:83
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:93
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:105
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:117
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:129
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:83
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:86
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:96
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:108
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:84
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:87
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:106
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:113
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:125
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:137
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:149
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:99
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:103
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:106
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:116
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:128
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:47
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:51
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:54
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:64
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:76
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:243
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:247
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:250
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:260
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:272
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:284
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:64
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:68
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:71
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:81
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:93
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:94
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:97
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:112
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:118
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:130
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:142
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:70
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:83
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:96
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:52
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:56
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:59
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:69
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:81
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:93
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:93
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:97
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:100
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:110
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:122
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:134
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:146
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:158
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:31
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:39
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:49
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:61
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:73
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:85
+msgid "Color Setting"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:92
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:112
+msgid "Action Background Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:104
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:124
+msgid "Button Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:116
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:136
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:127
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:271
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:93
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:68
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:128
+msgid "Title Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_action_content_map.php:128
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:148
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:283
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:48
+msgid "Content Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_blog_post_map.php:4
+msgid "Home Page Blog Posts"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_blog_post_map.php:14
+msgid "Blog Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_blog_post_map.php:17
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:18
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:17
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:27
+msgid "Style One"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_blog_post_map.php:18
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:19
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:18
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:28
+msgid "Style Two"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:5
+msgid "Button"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:15
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:24
+msgid "Button Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:34
+msgid "Button Hover Animation"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:38
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:95
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:43
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:239
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:60
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:48
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:89
+msgid "Enable"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:44
+msgid "Button align"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:48
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:19
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:17
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:29
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:39
+#: vc_custom/maps-shortcode/vc_single_image_map.php:81
+msgid "Left"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:49
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:20
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:18
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:30
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:40
+#: vc_custom/maps-shortcode/vc_single_image_map.php:82
+msgid "Center"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:50
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:21
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:19
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:31
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:41
+#: vc_custom/maps-shortcode/vc_single_image_map.php:83
+msgid "Right"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:55
+msgid "Button Size"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:59
+msgid "Small"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:60
+msgid "Normal"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:61
+msgid "Large"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:63
+msgid "Select button display size."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:68
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:35
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:71
+msgid "Button Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:76
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:28
+msgid "Link"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:95
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:129
+msgid "Background Button"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_button_map.php:107
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:141
+msgid "Hover Background Button"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_map.php:5
+msgid "Car Deals Of The Week"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_row_map.php:4
+msgid "Car Deals Of The Week Row"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_row_map.php:22
+msgid "Car Title"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_row_map.php:29
+msgid "Car Price Suffix"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_row_map.php:37
+msgid "Car Price"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_row_map.php:45
+msgid "Icon Car Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_row_map.php:51
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:52
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:66
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:81
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:96
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:111
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:126
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:141
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:156
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:171
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:186
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:201
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:216
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:17
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:72
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:86
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:101
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:116
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:131
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:146
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:161
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:176
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:191
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:206
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:221
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:236
+msgid "Icon"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_car_detail_of_the_week_row_map.php:61
+msgid "Icon Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:4
+msgid "Contact Info"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:15
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:13
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:25
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:35
+msgid "Text align"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:26
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:21
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:15
+msgid "Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:29
+msgid "Phone Info Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:30
+msgid "Email Info Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:37
+msgid "Phone Text Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:48
+msgid "Phone"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:60
+msgid "Email Text Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_contact_info_map.php:71
+msgid "Email"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:4
+msgid "Counters"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:24
+msgid "Preffix"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:27
+msgid "Enter the preffix for rotate. Use: %, #, ^,& etc."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:33
+msgid "Count"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:43
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:59
+msgid "Suffix"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:47
+msgid "Enter the suffix for rotate. Use: %, #, ^,& etc."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:53
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:40
+msgid "Title text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:58
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:19
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:25
+#: vc_custom/maps-shortcode/vc_fl_list_info_map.php:34
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:44
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:20
+msgid "Enter your text."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:64
+msgid "Animation duration Counter"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:71
+msgid "Standard 2000ms."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:77
+msgid "Animation Refresh Interval"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:84
+msgid "Standard 5."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_counters_map.php:115
+msgid "Counter Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_decor_map.php:6
+msgid "Decor"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gallery_map.php:5
+msgid "Gallery"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gallery_map.php:14
+msgid "Layers of Gallery"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gallery_map.php:19
+msgid "Upload Galley Image:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:6
+msgid "Gap"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:16
+msgid "Gap Setting"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:23
+msgid "Height"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:36
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:83
+msgid ""
+"\n"
+"                                                 <i class=\"fa fa-laptop\">"
+"</i> Desktop : Screen resolutions from 1199px to 991px<br>\n"
+"                                                 <i class=\"fa fa-tablet\">"
+"</i> Tablet : Screen resolutions from 991px to 767px<br>\n"
+"                                                 <i class=\"fa fa-mobile\">"
+"</i> Mobile : Screen resolutions less than 767px"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:48
+msgid "\"Checked\" to enable custom responsive option"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_gap_map.php:60
+msgid "Gap Height Responsive"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:5
+msgid "Google Map"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:15
+msgid "Address"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:26
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:50
+msgid "Light coloured"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:27
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:51
+msgid "Ultra Light"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:28
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:52
+msgid "Light"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:29
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:53
+msgid "Light Blue"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:30
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:54
+msgid "Grey Blue"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:31
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:55
+msgid "Flat"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:32
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:56
+msgid "Pastel"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:33
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:57
+msgid "Green"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:34
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:58
+msgid "Blue"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:35
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:59
+msgid "Pale Dawn"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:36
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:60
+msgid "Dark"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:37
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:61
+msgid "Dark 2"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:38
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:62
+msgid "Map Trendsetter"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:69
+msgid "Map Zoom"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:99
+msgid "Map Height"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:109
+msgid "Map Marker"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:118
+msgid "Scrollwheel Zoom"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:123
+msgid "True"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_google_map_map.php:124
+msgid "False"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_header_custom_container_map.php:5
+msgid "Header Custom Decor Container"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:5
+msgid "Header Decor Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:15
+#: vc_custom/maps-shortcode/vc_fl_number_content_map.php:34
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:37
+msgid "Text Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:63
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:103
+msgid "Text Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_header_decor_text_map.php:75
+msgid "Decor Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:5
+msgid "Hotspot"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:13
+#: vc_custom/maps-shortcode/vc_single_image_map.php:27
+msgid "Image"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:16
+msgid "Don't use characters such as \" , ' \" in content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:39
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:48
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:61
+msgid "Marker"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:45
+msgid "Marker Background"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_hotspot_map.php:58
+msgid "Marker decoration Border Background"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:4
+msgid "Icon Box"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:29
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:49
+msgid "Icon library"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:37
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:57
+msgid "Etline"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:38
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:58
+msgid "Iconmoon"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:39
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:59
+msgid "Linearicons"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:40
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:60
+msgid "Elusive"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:41
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:61
+msgid "Iconic"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:42
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:62
+msgid "Flaticon"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:43
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:63
+msgid "Fl"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:47
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:67
+msgid "Select icon library"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_icon_box_map.php:259
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:60
+msgid "Icon Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_list_info_map.php:5
+msgid "List Info"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_list_info_map.php:15
+msgid "Number Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_list_info_map.php:22
+msgid "Title Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_list_row_map.php:4
+msgid "List Row"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_list_row_map.php:22
+msgid "Content color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_list_row_map.php:29
+msgid "Suffix color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_list_table_map.php:5
+msgid "List"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_number_content_map.php:4
+#: vc_custom/maps-shortcode/vc_fl_number_content_map.php:12
+msgid "Number Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_number_content_map.php:17
+msgid "Number"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_number_content_map.php:25
+msgid "Text Title"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:4
+msgid "Offer Slider"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:12
+msgid "Offer Slide Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:28
+msgid "Icon Text Title"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:46
+msgid "Content Background"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:80
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:21
+msgid "Primary Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_offer_slider_map.php:92
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:20
+msgid "Secondary Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:26
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:51
+msgid "Phone Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:63
+msgid "Phone Text suffix"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:91
+msgid "\"Checked\" to enable custom color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:98
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:106
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:119
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:132
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:36
+msgid "Custom Color Setting"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:116
+msgid "Phone Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_phone_number_map.php:129
+msgid "Phone Background"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:4
+msgid "Resent Car Post"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:14
+msgid "Cars Count"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:27
+msgid "Load More"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:47
+msgid "Button Loading Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:59
+msgid "Button End Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_recent_cars_map.php:117
+msgid "Text Button Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_semi_circle_progress_container_map.php:7
+msgid "Semi Circle Progress Container"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:5
+msgid "Semicircle Progress bar"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:17
+msgid "Color Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:22
+msgid "Custom Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:37
+msgid "Prefix"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:47
+msgid "Progress Value"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:67
+msgid "Track Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_semicircle_progress_bar_map.php:80
+msgid "Track Progress Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_services_container_map.php:5
+msgid "Services Slider Container"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:4
+msgid "Services Slider"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:12
+msgid "Slide Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:17
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:17
+msgid "Services Image"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:22
+msgid "Services Title"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:30
+msgid "Title Link"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:80
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:145
+msgid "Dots Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_services_slider_map.php:92
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:157
+msgid "Dots active and hover Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:6
+msgid "Tabs"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:12
+msgid "Place tabbed content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:20
+msgid "Tab 1"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:21
+msgid "Tab 2"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:26
+msgid "Tab Item"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:35
+msgid "ID"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_tabs_map.php:251
+msgid "Upload Background Image:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:4
+msgid "Team Slider"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:12
+msgid "Team Slider Content"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:22
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slide_map.php:22
+msgid "Name"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:30
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slide_map.php:30
+msgid "Profession"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:38
+msgid "Twitter Link"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:45
+msgid "Facebook"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:52
+msgid "Behance"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:59
+msgid "Instagram"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:66
+msgid "Google +"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:73
+msgid "Youtube"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:109
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:72
+msgid "Name Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:121
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:84
+msgid "Profession Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_team_slider_map.php:133
+msgid "Social Icon Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slide_map.php:5
+msgid "Testimonial Slide"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_testimonial_slider_map.php:5
+msgid "Testimonial Slider"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:5
+msgid "Text Block"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:15
+msgid "Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:26
+#: vc_custom/params/fl-custom-params-text-setting.php:47
+msgid "Font size"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:33
+msgid "You can enter a font size (Example: 19)"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:40
+msgid "Line Height"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:47
+msgid "You can enter a line height (Example: 20)"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:55
+msgid "Letter Spacing"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:62
+msgid "You can enter letter spacing (Example: -0.25)"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:68
+msgid "Text color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:79
+msgid "Custom Text Responsive Option"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:95
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:279
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:395
+msgid "\"Checked\" to enable custom responsive option to text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:108
+msgid "Text Font Size"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:126
+msgid "Text Line Height"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_text_block_map.php:143
+msgid "Text Letter Spacing"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:14
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:81
+msgid "Title Style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:56
+msgid "Subtitle Text"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:70
+msgid "Title Typography"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:72
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:88
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:102
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:111
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:122
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:131
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:143
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:155
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:162
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:181
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:195
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:210
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:224
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:242
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:259
+msgid "Typography"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:76
+msgid "Title Style Font"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:82
+msgid "Bolt"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:83
+msgid "Bolt Two"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:84
+msgid "Semi Bolt"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:85
+msgid "Regular One"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:86
+msgid "Regular Two "
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:106
+msgid "Title Margin top"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:117
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:359
+msgid "Title Margin Bottom"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:135
+msgid "Custom Title Font Family"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:150
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:254
+msgid "Select font family."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:151
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:255
+msgid "Select font style."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:160
+msgid "Subtitle Typography"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:190
+msgid "Subtitle Margin top"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:205
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:479
+msgid "Subtitle Margin Bottom"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:221
+msgid "Subtitle Color"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:234
+msgid "Custom Subtitle Font Family"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:264
+msgid "Custom Title Responsive Option"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:291
+msgid "Title Font Size"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:308
+msgid "Title Line Height"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:325
+msgid "Title Letter Spacing"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:342
+msgid "Title Margin Top"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:376
+msgid "Custom Subtitle Responsive Option"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:411
+msgid "Subtitle Font Size"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:428
+msgid "Subtitle Line Height"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:445
+msgid "Subtitle Letter Spacing"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_title_map.php:462
+msgid "Subtitle Margin Top"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:57
+msgid "Show "
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:71
+msgid "Vehicle Search"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:78
+msgid "Show Booking Time:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:85
+msgid "Booking PICK-UP DATE Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:92
+msgid "Booking DROP-OFF DATE Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:99
+msgid "Show Price Range:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:106
+msgid "Price Block Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:112
+msgid "Show Vehicle Body Type:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:119
+msgid "Show Makers of Vehicle:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:126
+msgid "Makers of Vehicle Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:132
+msgid "Show Model of the Vehicle:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:139
+msgid "Model of the Vehicle Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:145
+msgid "Show Fuel Type:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:152
+msgid "Fuel Type Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:158
+msgid "Show Mileage Range:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:165
+msgid "Mileage Block Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:171
+msgid "Show Year Range:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:178
+msgid "Year Range Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:184
+msgid "Show Transmission Type:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:191
+msgid "Transmission Type Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:197
+msgid "Show Engine Volume:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:204
+msgid "Engine Volume Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:210
+msgid "Show Condition:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:219
+msgid "Condition Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:225
+msgid "Show Purpose:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_vehicle_search_map.php:234
+msgid "Purpose Title:"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_woo_shop_slider_map.php:4
+msgid "Woo Shop Slider"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_woo_shop_slider_map.php:13
+msgid "Product Count"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_fl_woo_shop_slider_map.php:22
+msgid "Selected woo category"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:6
+msgid "Single Image"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:10
+msgid "Simple image with CSS animation"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:15
+msgid "Image source"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:18
+msgid "Media library"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:19
+#: vc_custom/maps-shortcode/vc_single_image_map.php:41
+msgid "External link"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:22
+msgid "Select image source."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:30
+msgid "Select image from media library."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:43
+msgid "Select external link."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:52
+#: vc_custom/maps-shortcode/vc_single_image_map.php:65
+msgid "Image size"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:55
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). Alternatively enter size in pixels (Example: "
+"200x100 (Width x Height))."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:68
+msgid "Enter image size in pixels. Example: 200x100 (Width x Height)."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:77
+msgid "Image alignment"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:86
+msgid "Select image alignment."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:92
+msgid "On click action"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:96
+msgid "Open Magnific Popup"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:97
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:98
+msgid "Custom Link"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:100
+msgid "Select action for click action."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:107
+msgid "Image link"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:109
+msgid ""
+"Enter URL if you want this image to have a link (Note: parameters like "
+"\"mailto:\" are also accepted)."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:118
+msgid "Link Target"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:133
+msgid "Image Hover effects"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:134
+msgid "Select image hover effects."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:139
+msgid "ZoomIn"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:140
+msgid "ZoomOut"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:141
+msgid "GrayScaleIn"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:142
+msgid "GrayScaleOut"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:143
+msgid "BrightnessIn"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:144
+msgid "BrightnessOut"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:145
+msgid "Blur"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:151
+msgid "Image style"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:155
+msgid "Rounded"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:156
+msgid "Shadow"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:157
+msgid "Shadow 3d"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:158
+msgid "Circle"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:160
+msgid "Select image display style."
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:173
+msgid "Image mask"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:187
+msgid "\"Checked\" to enable Image Mask"
+msgstr ""
+
+#: vc_custom/maps-shortcode/vc_single_image_map.php:199
+msgid "Image Mask Color"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-hotspot.php:19
+msgid "Hotspot tooltip content"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-hotspot.php:19
+msgid "Save changes"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-hotspot.php:19
+msgid "Close"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-text-setting.php:58
+msgid "Line height"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-text-setting.php:73
+msgid "Letter spacing"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-text-setting.php:91
+msgid "Font style"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-text-setting.php:99
+msgid "Italic"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-text-setting.php:107
+msgid "Bold"
+msgstr ""
+
+#: vc_custom/params/fl-custom-params-text-setting.php:115
+msgid "Underline"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:40
+msgid "Responsive Options"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:52
+msgid "Mini Desktop"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:62
+msgid "Mini Destop Responsive Option"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:63
+msgid "Screen resolutions from 1199px to 991px"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:65
+msgid "Table Responsive Option"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:66
+msgid "Screen resolutions from 991px to 767px"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:68
+msgid "Mobile Responsive Option"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:69
+msgid "Screen resolutions less than 767px"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:148
+msgid "Hide image"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:162
+#: vc_custom/params/fl-responsive-css.php:169
+msgid "Example: 400px"
+msgstr ""
+
+#: vc_custom/params/fl-responsive-css.php:165
+msgid "Width"
+msgstr ""
+
+#: vc_custom/params/fl_param_products_category.php:32
+#: vc_custom/params/fl_param_products_category.php:34
+#: vc_custom/params/fl_param_works_category.php:32
+#: vc_custom/params/fl_param_works_category.php:34
+msgid "All Categories"
+msgstr ""
+
+#: vc_custom/params/fl_video_link_param.php:16
+msgid "Theme documentation"
+msgstr ""
+
+#: vc_custom/params/fl_video_link_param.php:20
+msgid "Video tutorial"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_blog_post.php:120
+msgid "By"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_blog_post.php:144
+#: vc_custom/vc_templates/vc_fl_blog_post.php:150
+msgid "by"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_recent_cars.php:120
+msgid "Show More"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_recent_cars.php:121
+msgid "All Car Is Loaded"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_recent_cars.php:122
+msgid "Loading..."
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:28
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:179
+msgid "All Makes"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:29
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:217
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:220
+msgid "All Models"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:245
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:246
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:248
+msgid "Vehicle Status"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:249
+msgid "New"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:250
+msgid "Used"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:264
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:266
+msgid "All purposes"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:267
+msgid "Rent"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:268
+msgid "Experience"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:269
+msgid "Sell"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:324
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:326
+msgid "All Fuel Types"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:327
+msgid "Petrol"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:328
+msgid "Diesel"
+msgstr "Тест"
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:329
+msgid "Hybrid"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:330
+msgid "Electric"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:331
+msgid "Petrol+CNG"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:332
+msgid "LPG"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:342
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:344
+msgid "All Transmissions"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:345
+msgid "Automatic"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:346
+msgid "Manual"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:347
+msgid "Semi-Automatic"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:454
+msgid "All"
+msgstr ""
+
+#: vc_custom/vc_templates/vc_fl_vehicle_search.php:471
+msgid "Search"
+msgstr ""
+
+#: widgets/widget-about.php:17
+msgid "A widget that displays a short information about you."
+msgstr ""
+
+#: widgets/widget-about.php:28
+msgid "Fl About Me"
+msgstr ""
+
+#: widgets/widget-about.php:155
+msgid "About Me"
+msgstr ""
+
+#: widgets/widget-about.php:171 widgets/widget-button.php:94
+#: widgets/widget-dealer-info.php:114 widgets/widget-footer-info.php:127
+#: widgets/widget-header-info.php:143 widgets/widget-image.php:107
+#: widgets/widget-login-in.php:253 widgets/widget-popular-post.php:117
+#: widgets/widget-social.php:166
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-about.php:179
+msgid "Author Title:"
+msgstr ""
+
+#: widgets/widget-about.php:183
+msgid "Text:"
+msgstr ""
+
+#: widgets/widget-about.php:187 widgets/widget-social.php:178
+msgid "Facebook Link:"
+msgstr ""
+
+#: widgets/widget-about.php:191 widgets/widget-social.php:170
+msgid "Twitter Link:"
+msgstr ""
+
+#: widgets/widget-about.php:195 widgets/widget-social.php:190
+msgid "Pinterest Link:"
+msgstr ""
+
+#: widgets/widget-about.php:199 widgets/widget-social.php:194
+msgid "Vkontakte Link:"
+msgstr ""
+
+#: widgets/widget-about.php:203 widgets/widget-social.php:174
+msgid "Behance Link:"
+msgstr ""
+
+#: widgets/widget-button.php:15
+msgid "A widget that displays button."
+msgstr ""
+
+#: widgets/widget-button.php:26
+msgid "Custom Button Widget"
+msgstr ""
+
+#: widgets/widget-button.php:98
+msgid "Button Text:"
+msgstr ""
+
+#: widgets/widget-button.php:103
+msgid "Button Link:"
+msgstr ""
+
+#: widgets/widget-dealer-info.php:17
+msgid "A widget that displays a short dealer information"
+msgstr ""
+
+#: widgets/widget-dealer-info.php:28
+msgid "Custom Widget Dealer Info"
+msgstr ""
+
+#: widgets/widget-dealer-info.php:119
+msgid "Hours title:"
+msgstr ""
+
+#: widgets/widget-dealer-info.php:123
+msgid "Hours Info One"
+msgstr ""
+
+#: widgets/widget-dealer-info.php:128
+msgid "Hours Info Two"
+msgstr ""
+
+#: widgets/widget-decor.php:17
+msgid "A widget that displays decor line."
+msgstr ""
+
+#: widgets/widget-decor.php:26
+msgid "Custom Decor Widget"
+msgstr ""
+
+#: widgets/widget-footer-info.php:17
+msgid "A widget that displays a short footer information."
+msgstr ""
+
+#: widgets/widget-footer-info.php:27
+msgid "Custom Footer Info"
+msgstr ""
+
+#: widgets/widget-footer-info.php:131
+msgid "Address:"
+msgstr ""
+
+#: widgets/widget-footer-info.php:135
+msgid "Email:"
+msgstr ""
+
+#: widgets/widget-footer-info.php:139 widgets/widget-header-info.php:147
+msgid "Contact info:"
+msgstr ""
+
+#: widgets/widget-header-info.php:17
+msgid "A widget that displays a short header information."
+msgstr ""
+
+#: widgets/widget-header-info.php:28
+msgid "Custom Header Info"
+msgstr ""
+
+#: widgets/widget-header-info.php:152
+msgid "Email info:"
+msgstr ""
+
+#: widgets/widget-header-info.php:157
+msgid "Working time:"
+msgstr ""
+
+#: widgets/widget-image.php:17
+msgid "A widget that displays image."
+msgstr ""
+
+#: widgets/widget-image.php:26
+msgid "Custom Image"
+msgstr ""
+
+#: widgets/widget-image.php:115
+msgid "Max width image:"
+msgstr ""
+
+#: widgets/widget-login-in.php:17
+msgid "Widget displays login form"
+msgstr ""
+
+#: widgets/widget-login-in.php:28
+msgid "Fl Login Form Me"
+msgstr ""
+
+#: widgets/widget-login-in.php:47 widgets/widget-login-in.php:119
+msgid "Sign in"
+msgstr ""
+
+#: widgets/widget-login-in.php:48
+msgid "Forgot password?"
+msgstr ""
+
+#: widgets/widget-login-in.php:75
+msgid "I lost my password"
+msgstr ""
+
+#: widgets/widget-login-in.php:89
+msgid "Your email"
+msgstr ""
+
+#: widgets/widget-login-in.php:90
+msgid "Login"
+msgstr ""
+
+#: widgets/widget-login-in.php:91
+msgid "Username"
+msgstr ""
+
+#: widgets/widget-login-in.php:92
+msgid "Your password"
+msgstr ""
+
+#: widgets/widget-login-in.php:93
+msgid "Password"
+msgstr ""
+
+#: widgets/widget-login-in.php:94
+msgid "Remember Me"
+msgstr ""
+
+#: widgets/widget-login-in.php:95
+msgid "Remind the password"
+msgstr ""
+
+#: widgets/widget-login-in.php:96
+msgid "Log In"
+msgstr ""
+
+#: widgets/widget-login-in.php:97 widgets/widget-login-in.php:153
+msgid "Register"
+msgstr ""
+
+#: widgets/widget-login-in.php:98
+msgid "Registration confirmation will be emailed to you"
+msgstr ""
+
+#: widgets/widget-login-in.php:151
+msgid "Don't have an account?"
+msgstr ""
+
+#: widgets/widget-login-in.php:166
+msgid "Create account"
+msgstr ""
+
+#: widgets/widget-login-in.php:189
+msgid "Are you a member?"
+msgstr ""
+
+#: widgets/widget-login-in.php:191
+msgid "Login In"
+msgstr ""
+
+#: widgets/widget-login-in.php:215
+msgid "You are logged in as"
+msgstr ""
+
+#: widgets/widget-login-in.php:215
+msgid "Logout"
+msgstr ""
+
+#: widgets/widget-login-in.php:248
+msgid "Login Form"
+msgstr ""
+
+#: widgets/widget-popular-post.php:15
+msgid "A widget that displays your Popular posts with image."
+msgstr ""
+
+#: widgets/widget-popular-post.php:26
+msgid "Fl Popular Posts"
+msgstr ""
+
+#: widgets/widget-popular-post.php:73
+msgid "No Title"
+msgstr ""
+
+#: widgets/widget-popular-post.php:112
+msgid "Popular Posts"
+msgstr ""
+
+#: widgets/widget-popular-post.php:121
+msgid "Posts to show:"
+msgstr ""
+
+#: widgets/widget-social.php:17
+msgid "A widget that displays a social profile icon."
+msgstr ""
+
+#: widgets/widget-social.php:27
+msgid "Custom Social"
+msgstr ""
+
+#: widgets/widget-social.php:182
+msgid "Instagram Link:"
+msgstr ""
+
+#: widgets/widget-social.php:186
+msgid "Youtube Link:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Fl Themes Helper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ": https://themeforest.net/user/themesvk"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Helper plugin for Themes VK and Templines themes.Don't delete this plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Themes VK"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/themesvk"
+msgstr ""

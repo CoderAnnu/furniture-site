@@ -1,0 +1,2458 @@
+{
+  "name": "",
+  "css_prefix_text": "fa ",
+  "fonts_awesome": [
+    {
+      "css": "fa-glass"
+    },
+    {
+      "css": "fa-music"
+    },
+    {
+      "css": "fa-search"
+    },
+    {
+      "css": "fa-envelope-o"
+    },
+    {
+      "css": "fa-heart"
+    },
+    {
+      "css": "fa-star"
+    },
+    {
+      "css": "fa-star-o"
+    },
+    {
+      "css": "fa-user"
+    },
+    {
+      "css": "fa-film"
+    },
+    {
+      "css": "fa-th-large"
+    },
+    {
+      "css": "fa-th"
+    },
+    {
+      "css": "fa-th-list"
+    },
+    {
+      "css": "fa-check"
+    },
+    {
+      "css": "fa-times"
+    },
+    {
+      "css": "fa-search-plus"
+    },
+    {
+      "css": "fa-search-minus"
+    },
+    {
+      "css": "fa-power-off"
+    },
+    {
+      "css": "fa-signal"
+    },
+    {
+      "css": "fa-cog"
+    },
+    {
+      "css": "fa-trash-o"
+    },
+    {
+      "css": "fa-home"
+    },
+    {
+      "css": "fa-file-o"
+    },
+    {
+      "css": "fa-clock-o"
+    },
+    {
+      "css": "fa-road"
+    },
+    {
+      "css": "fa-download"
+    },
+    {
+      "css": "fa-arrow-circle-o-down"
+    },
+    {
+      "css": "fa-arrow-circle-o-up"
+    },
+    {
+      "css": "fa-inbox"
+    },
+    {
+      "css": "fa-play-circle-o"
+    },
+    {
+      "css": "fa-repeat"
+    },
+    {
+      "css": "fa-refresh"
+    },
+    {
+      "css": "fa-list-alt"
+    },
+    {
+      "css": "fa-lock"
+    },
+    {
+      "css": "fa-flag"
+    },
+    {
+      "css": "fa-headphones"
+    },
+    {
+      "css": "fa-volume-off"
+    },
+    {
+      "css": "fa-volume-down"
+    },
+    {
+      "css": "fa-volume-up"
+    },
+    {
+      "css": "fa-qrcode"
+    },
+    {
+      "css": "fa-barcode"
+    },
+    {
+      "css": "fa-tag"
+    },
+    {
+      "css": "fa-tags"
+    },
+    {
+      "css": "fa-book"
+    },
+    {
+      "css": "fa-bookmark"
+    },
+    {
+      "css": "fa-print"
+    },
+    {
+      "css": "fa-camera"
+    },
+    {
+      "css": "fa-font"
+    },
+    {
+      "css": "fa-bold"
+    },
+    {
+      "css": "fa-italic"
+    },
+    {
+      "css": "fa-text-height"
+    },
+    {
+      "css": "fa-text-width"
+    },
+    {
+      "css": "fa-align-left"
+    },
+    {
+      "css": "fa-align-center"
+    },
+    {
+      "css": "fa-align-right"
+    },
+    {
+      "css": "fa-align-justify"
+    },
+    {
+      "css": "fa-list"
+    },
+    {
+      "css": "fa-outdent"
+    },
+    {
+      "css": "fa-indent"
+    },
+    {
+      "css": "fa-video-camera"
+    },
+    {
+      "css": "fa-picture-o"
+    },
+    {
+      "css": "fa-pencil"
+    },
+    {
+      "css": "fa-map-marker"
+    },
+    {
+      "css": "fa-adjust"
+    },
+    {
+      "css": "fa-tint"
+    },
+    {
+      "css": "fa-pencil-square-o"
+    },
+    {
+      "css": "fa-share-square-o"
+    },
+    {
+      "css": "fa-check-square-o"
+    },
+    {
+      "css": "fa-arrows"
+    },
+    {
+      "css": "fa-step-backward"
+    },
+    {
+      "css": "fa-fast-backward"
+    },
+    {
+      "css": "fa-backward"
+    },
+    {
+      "css": "fa-play"
+    },
+    {
+      "css": "fa-pause"
+    },
+    {
+      "css": "fa-stop"
+    },
+    {
+      "css": "fa-forward"
+    },
+    {
+      "css": "fa-fast-forward"
+    },
+    {
+      "css": "fa-step-forward"
+    },
+    {
+      "css": "fa-eject"
+    },
+    {
+      "css": "fa-chevron-left"
+    },
+    {
+      "css": "fa-chevron-right"
+    },
+    {
+      "css": "fa-plus-circle"
+    },
+    {
+      "css": "fa-minus-circle"
+    },
+    {
+      "css": "fa-times-circle"
+    },
+    {
+      "css": "fa-check-circle"
+    },
+    {
+      "css": "fa-question-circle"
+    },
+    {
+      "css": "fa-info-circle"
+    },
+    {
+      "css": "fa-crosshairs"
+    },
+    {
+      "css": "fa-times-circle-o"
+    },
+    {
+      "css": "fa-check-circle-o"
+    },
+    {
+      "css": "fa-ban"
+    },
+    {
+      "css": "fa-arrow-left"
+    },
+    {
+      "css": "fa-arrow-right"
+    },
+    {
+      "css": "fa-arrow-up"
+    },
+    {
+      "css": "fa-arrow-down"
+    },
+    {
+      "css": "fa-share"
+    },
+    {
+      "css": "fa-expand"
+    },
+    {
+      "css": "fa-compress"
+    },
+    {
+      "css": "fa-plus"
+    },
+    {
+      "css": "fa-minus"
+    },
+    {
+      "css": "fa-asterisk"
+    },
+    {
+      "css": "fa-exclamation-circle"
+    },
+    {
+      "css": "fa-gift"
+    },
+    {
+      "css": "fa-leaf"
+    },
+    {
+      "css": "fa-fire"
+    },
+    {
+      "css": "fa-eye"
+    },
+    {
+      "css": "fa-eye-slash"
+    },
+    {
+      "css": "fa-exclamation-triangle"
+    },
+    {
+      "css": "fa-plane"
+    },
+    {
+      "css": "fa-calendar"
+    },
+    {
+      "css": "fa-random"
+    },
+    {
+      "css": "fa-comment"
+    },
+    {
+      "css": "fa-magnet"
+    },
+    {
+      "css": "fa-chevron-up"
+    },
+    {
+      "css": "fa-chevron-down"
+    },
+    {
+      "css": "fa-retweet"
+    },
+    {
+      "css": "fa-shopping-cart"
+    },
+    {
+      "css": "fa-folder"
+    },
+    {
+      "css": "fa-folder-open"
+    },
+    {
+      "css": "fa-arrows-v"
+    },
+    {
+      "css": "fa-arrows-h"
+    },
+    {
+      "css": "fa-bar-chart"
+    },
+    {
+      "css": "fa-twitter-square"
+    },
+    {
+      "css": "fa-facebook-square"
+    },
+    {
+      "css": "fa-camera-retro"
+    },
+    {
+      "css": "fa-key"
+    },
+    {
+      "css": "fa-cogs"
+    },
+    {
+      "css": "fa-comments"
+    },
+    {
+      "css": "fa-thumbs-o-up"
+    },
+    {
+      "css": "fa-thumbs-o-down"
+    },
+    {
+      "css": "fa-star-half"
+    },
+    {
+      "css": "fa-heart-o"
+    },
+    {
+      "css": "fa-sign-out"
+    },
+    {
+      "css": "fa-linkedin-square"
+    },
+    {
+      "css": "fa-thumb-tack"
+    },
+    {
+      "css": "fa-external-link"
+    },
+    {
+      "css": "fa-sign-in"
+    },
+    {
+      "css": "fa-trophy"
+    },
+    {
+      "css": "fa-github-square"
+    },
+    {
+      "css": "fa-upload"
+    },
+    {
+      "css": "fa-lemon-o"
+    },
+    {
+      "css": "fa-phone"
+    },
+    {
+      "css": "fa-square-o"
+    },
+    {
+      "css": "fa-bookmark-o"
+    },
+    {
+      "css": "fa-phone-square"
+    },
+    {
+      "css": "fa-twitter"
+    },
+    {
+      "css": "fa-facebook"
+    },
+    {
+      "css": "fa-github"
+    },
+    {
+      "css": "fa-unlock"
+    },
+    {
+      "css": "fa-credit-card"
+    },
+    {
+      "css": "fa-rss"
+    },
+    {
+      "css": "fa-hdd-o"
+    },
+    {
+      "css": "fa-bullhorn"
+    },
+    {
+      "css": "fa-bell"
+    },
+    {
+      "css": "fa-certificate"
+    },
+    {
+      "css": "fa-hand-o-right"
+    },
+    {
+      "css": "fa-hand-o-left"
+    },
+    {
+      "css": "fa-hand-o-up"
+    },
+    {
+      "css": "fa-hand-o-down"
+    },
+    {
+      "css": "fa-arrow-circle-left"
+    },
+    {
+      "css": "fa-arrow-circle-right"
+    },
+    {
+      "css": "fa-arrow-circle-up"
+    },
+    {
+      "css": "fa-arrow-circle-down"
+    },
+    {
+      "css": "fa-globe"
+    },
+    {
+      "css": "fa-wrench"
+    },
+    {
+      "css": "fa-tasks"
+    },
+    {
+      "css": "fa-filter"
+    },
+    {
+      "css": "fa-briefcase"
+    },
+    {
+      "css": "fa-arrows-alt"
+    },
+    {
+      "css": "fa-users"
+    },
+    {
+      "css": "fa-link"
+    },
+    {
+      "css": "fa-cloud"
+    },
+    {
+      "css": "fa-flask"
+    },
+    {
+      "css": "fa-scissors"
+    },
+    {
+      "css": "fa-files-o"
+    },
+    {
+      "css": "fa-paperclip"
+    },
+    {
+      "css": "fa-floppy-o"
+    },
+    {
+      "css": "fa-square"
+    },
+    {
+      "css": "fa-bars"
+    },
+    {
+      "css": "fa-list-ul"
+    },
+    {
+      "css": "fa-list-ol"
+    },
+    {
+      "css": "fa-strikethrough"
+    },
+    {
+      "css": "fa-underline"
+    },
+    {
+      "css": "fa-table"
+    },
+    {
+      "css": "fa-magic"
+    },
+    {
+      "css": "fa-truck"
+    },
+    {
+      "css": "fa-pinterest"
+    },
+    {
+      "css": "fa-pinterest-square"
+    },
+    {
+      "css": "fa-google-plus-square"
+    },
+    {
+      "css": "fa-google-plus"
+    },
+    {
+      "css": "fa-money"
+    },
+    {
+      "css": "fa-caret-down"
+    },
+    {
+      "css": "fa-caret-up"
+    },
+    {
+      "css": "fa-caret-left"
+    },
+    {
+      "css": "fa-caret-right"
+    },
+    {
+      "css": "fa-columns"
+    },
+    {
+      "css": "fa-sort"
+    },
+    {
+      "css": "fa-sort-desc"
+    },
+    {
+      "css": "fa-sort-asc"
+    },
+    {
+      "css": "fa-envelope"
+    },
+    {
+      "css": "fa-linkedin"
+    },
+    {
+      "css": "fa-undo"
+    },
+    {
+      "css": "fa-gavel"
+    },
+    {
+      "css": "fa-tachometer"
+    },
+    {
+      "css": "fa-comment-o"
+    },
+    {
+      "css": "fa-comments-o"
+    },
+    {
+      "css": "fa-bolt"
+    },
+    {
+      "css": "fa-sitemap"
+    },
+    {
+      "css": "fa-umbrella"
+    },
+    {
+      "css": "fa-clipboard"
+    },
+    {
+      "css": "fa-lightbulb-o"
+    },
+    {
+      "css": "fa-exchange"
+    },
+    {
+      "css": "fa-cloud-download"
+    },
+    {
+      "css": "fa-cloud-upload"
+    },
+    {
+      "css": "fa-user-md"
+    },
+    {
+      "css": "fa-stethoscope"
+    },
+    {
+      "css": "fa-suitcase"
+    },
+    {
+      "css": "fa-bell-o"
+    },
+    {
+      "css": "fa-coffee"
+    },
+    {
+      "css": "fa-cutlery"
+    },
+    {
+      "css": "fa-file-text-o"
+    },
+    {
+      "css": "fa-building-o"
+    },
+    {
+      "css": "fa-hospital-o"
+    },
+    {
+      "css": "fa-ambulance"
+    },
+    {
+      "css": "fa-medkit"
+    },
+    {
+      "css": "fa-fighter-jet"
+    },
+    {
+      "css": "fa-beer"
+    },
+    {
+      "css": "fa-h-square"
+    },
+    {
+      "css": "fa-plus-square"
+    },
+    {
+      "css": "fa-angle-double-left"
+    },
+    {
+      "css": "fa-angle-double-right"
+    },
+    {
+      "css": "fa-angle-double-up"
+    },
+    {
+      "css": "fa-angle-double-down"
+    },
+    {
+      "css": "fa-angle-left"
+    },
+    {
+      "css": "fa-angle-right"
+    },
+    {
+      "css": "fa-angle-up"
+    },
+    {
+      "css": "fa-angle-down"
+    },
+    {
+      "css": "fa-desktop"
+    },
+    {
+      "css": "fa-laptop"
+    },
+    {
+      "css": "fa-tablet"
+    },
+    {
+      "css": "fa-mobile"
+    },
+    {
+      "css": "fa-circle-o"
+    },
+    {
+      "css": "fa-quote-left"
+    },
+    {
+      "css": "fa-quote-right"
+    },
+    {
+      "css": "fa-spinner"
+    },
+    {
+      "css": "fa-circle"
+    },
+    {
+      "css": "fa-reply"
+    },
+    {
+      "css": "fa-github-alt"
+    },
+    {
+      "css": "fa-folder-o"
+    },
+    {
+      "css": "fa-folder-open-o"
+    },
+    {
+      "css": "fa-smile-o"
+    },
+    {
+      "css": "fa-frown-o"
+    },
+    {
+      "css": "fa-meh-o"
+    },
+    {
+      "css": "fa-gamepad"
+    },
+    {
+      "css": "fa-keyboard-o"
+    },
+    {
+      "css": "fa-flag-o"
+    },
+    {
+      "css": "fa-flag-checkered"
+    },
+    {
+      "css": "fa-terminal"
+    },
+    {
+      "css": "fa-code"
+    },
+    {
+      "css": "fa-reply-all"
+    },
+    {
+      "css": "fa-star-half-o"
+    },
+    {
+      "css": "fa-location-arrow"
+    },
+    {
+      "css": "fa-crop"
+    },
+    {
+      "css": "fa-code-fork"
+    },
+    {
+      "css": "fa-chain-broken"
+    },
+    {
+      "css": "fa-question"
+    },
+    {
+      "css": "fa-info"
+    },
+    {
+      "css": "fa-exclamation"
+    },
+    {
+      "css": "fa-superscript"
+    },
+    {
+      "css": "fa-subscript"
+    },
+    {
+      "css": "fa-eraser"
+    },
+    {
+      "css": "fa-puzzle-piece"
+    },
+    {
+      "css": "fa-microphone"
+    },
+    {
+      "css": "fa-microphone-slash"
+    },
+    {
+      "css": "fa-shield"
+    },
+    {
+      "css": "fa-calendar-o"
+    },
+    {
+      "css": "fa-fire-extinguisher"
+    },
+    {
+      "css": "fa-rocket"
+    },
+    {
+      "css": "fa-maxcdn"
+    },
+    {
+      "css": "fa-chevron-circle-left"
+    },
+    {
+      "css": "fa-chevron-circle-right"
+    },
+    {
+      "css": "fa-chevron-circle-up"
+    },
+    {
+      "css": "fa-chevron-circle-down"
+    },
+    {
+      "css": "fa-html5"
+    },
+    {
+      "css": "fa-css3"
+    },
+    {
+      "css": "fa-anchor"
+    },
+    {
+      "css": "fa-unlock-alt"
+    },
+    {
+      "css": "fa-bullseye"
+    },
+    {
+      "css": "fa-ellipsis-h"
+    },
+    {
+      "css": "fa-ellipsis-v"
+    },
+    {
+      "css": "fa-rss-square"
+    },
+    {
+      "css": "fa-play-circle"
+    },
+    {
+      "css": "fa-ticket"
+    },
+    {
+      "css": "fa-minus-square"
+    },
+    {
+      "css": "fa-minus-square-o"
+    },
+    {
+      "css": "fa-level-up"
+    },
+    {
+      "css": "fa-level-down"
+    },
+    {
+      "css": "fa-check-square"
+    },
+    {
+      "css": "fa-pencil-square"
+    },
+    {
+      "css": "fa-external-link-square"
+    },
+    {
+      "css": "fa-share-square"
+    },
+    {
+      "css": "fa-compass"
+    },
+    {
+      "css": "fa-caret-square-o-down"
+    },
+    {
+      "css": "fa-caret-square-o-up"
+    },
+    {
+      "css": "fa-caret-square-o-right"
+    },
+    {
+      "css": "fa-eur"
+    },
+    {
+      "css": "fa-gbp"
+    },
+    {
+      "css": "fa-usd"
+    },
+    {
+      "css": "fa-inr"
+    },
+    {
+      "css": "fa-jpy"
+    },
+    {
+      "css": "fa-rub"
+    },
+    {
+      "css": "fa-krw"
+    },
+    {
+      "css": "fa-btc"
+    },
+    {
+      "css": "fa-file"
+    },
+    {
+      "css": "fa-file-text"
+    },
+    {
+      "css": "fa-sort-alpha-asc"
+    },
+    {
+      "css": "fa-sort-alpha-desc"
+    },
+    {
+      "css": "fa-sort-amount-asc"
+    },
+    {
+      "css": "fa-sort-amount-desc"
+    },
+    {
+      "css": "fa-sort-numeric-asc"
+    },
+    {
+      "css": "fa-sort-numeric-desc"
+    },
+    {
+      "css": "fa-thumbs-up"
+    },
+    {
+      "css": "fa-thumbs-down"
+    },
+    {
+      "css": "fa-youtube-square"
+    },
+    {
+      "css": "fa-youtube"
+    },
+    {
+      "css": "fa-xing"
+    },
+    {
+      "css": "fa-xing-square"
+    },
+    {
+      "css": "fa-youtube-play"
+    },
+    {
+      "css": "fa-dropbox"
+    },
+    {
+      "css": "fa-stack-overflow"
+    },
+    {
+      "css": "fa-instagram"
+    },
+    {
+      "css": "fa-flickr"
+    },
+    {
+      "css": "fa-adn"
+    },
+    {
+      "css": "fa-bitbucket"
+    },
+    {
+      "css": "fa-bitbucket-square"
+    },
+    {
+      "css": "fa-tumblr"
+    },
+    {
+      "css": "fa-tumblr-square"
+    },
+    {
+      "css": "fa-long-arrow-down"
+    },
+    {
+      "css": "fa-long-arrow-up"
+    },
+    {
+      "css": "fa-long-arrow-left"
+    },
+    {
+      "css": "fa-long-arrow-right"
+    },
+    {
+      "css": "fa-apple"
+    },
+    {
+      "css": "fa-windows"
+    },
+    {
+      "css": "fa-android"
+    },
+    {
+      "css": "fa-linux"
+    },
+    {
+      "css": "fa-dribbble"
+    },
+    {
+      "css": "fa-skype"
+    },
+    {
+      "css": "fa-foursquare"
+    },
+    {
+      "css": "fa-trello"
+    },
+    {
+      "css": "fa-female"
+    },
+    {
+      "css": "fa-male"
+    },
+    {
+      "css": "fa-gratipay"
+    },
+    {
+      "css": "fa-sun-o"
+    },
+    {
+      "css": "fa-moon-o"
+    },
+    {
+      "css": "fa-archive"
+    },
+    {
+      "css": "fa-bug"
+    },
+    {
+      "css": "fa-vk"
+    },
+    {
+      "css": "fa-weibo"
+    },
+    {
+      "css": "fa-renren"
+    },
+    {
+      "css": "fa-pagelines"
+    },
+    {
+      "css": "fa-stack-exchange"
+    },
+    {
+      "css": "fa-arrow-circle-o-right"
+    },
+    {
+      "css": "fa-arrow-circle-o-left"
+    },
+    {
+      "css": "fa-caret-square-o-left"
+    },
+    {
+      "css": "fa-dot-circle-o"
+    },
+    {
+      "css": "fa-wheelchair"
+    },
+    {
+      "css": "fa-vimeo-square"
+    },
+    {
+      "css": "fa-try"
+    },
+    {
+      "css": "fa-plus-square-o"
+    },
+    {
+      "css": "fa-space-shuttle"
+    },
+    {
+      "css": "fa-slack"
+    },
+    {
+      "css": "fa-envelope-square"
+    },
+    {
+      "css": "fa-wordpress"
+    },
+    {
+      "css": "fa-openid"
+    },
+    {
+      "css": "fa-university"
+    },
+    {
+      "css": "fa-graduation-cap"
+    },
+    {
+      "css": "fa-yahoo"
+    },
+    {
+      "css": "fa-google"
+    },
+    {
+      "css": "fa-reddit"
+    },
+    {
+      "css": "fa-reddit-square"
+    },
+    {
+      "css": "fa-stumbleupon-circle"
+    },
+    {
+      "css": "fa-stumbleupon"
+    },
+    {
+      "css": "fa-delicious"
+    },
+    {
+      "css": "fa-digg"
+    },
+    {
+      "css": "fa-pied-piper-pp"
+    },
+    {
+      "css": "fa-pied-piper-alt"
+    },
+    {
+      "css": "fa-drupal"
+    },
+    {
+      "css": "fa-joomla"
+    },
+    {
+      "css": "fa-language"
+    },
+    {
+      "css": "fa-fax"
+    },
+    {
+      "css": "fa-building"
+    },
+    {
+      "css": "fa-child"
+    },
+    {
+      "css": "fa-paw"
+    },
+    {
+      "css": "fa-spoon"
+    },
+    {
+      "css": "fa-cube"
+    },
+    {
+      "css": "fa-cubes"
+    },
+    {
+      "css": "fa-behance"
+    },
+    {
+      "css": "fa-behance-square"
+    },
+    {
+      "css": "fa-steam"
+    },
+    {
+      "css": "fa-steam-square"
+    },
+    {
+      "css": "fa-recycle"
+    },
+    {
+      "css": "fa-car"
+    },
+    {
+      "css": "fa-taxi"
+    },
+    {
+      "css": "fa-tree"
+    },
+    {
+      "css": "fa-spotify"
+    },
+    {
+      "css": "fa-deviantart"
+    },
+    {
+      "css": "fa-soundcloud"
+    },
+    {
+      "css": "fa-database"
+    },
+    {
+      "css": "fa-file-pdf-o"
+    },
+    {
+      "css": "fa-file-word-o"
+    },
+    {
+      "css": "fa-file-excel-o"
+    },
+    {
+      "css": "fa-file-powerpoint-o"
+    },
+    {
+      "css": "fa-file-image-o"
+    },
+    {
+      "css": "fa-file-archive-o"
+    },
+    {
+      "css": "fa-file-audio-o"
+    },
+    {
+      "css": "fa-file-video-o"
+    },
+    {
+      "css": "fa-file-code-o"
+    },
+    {
+      "css": "fa-vine"
+    },
+    {
+      "css": "fa-codepen"
+    },
+    {
+      "css": "fa-jsfiddle"
+    },
+    {
+      "css": "fa-life-ring"
+    },
+    {
+      "css": "fa-circle-o-notch"
+    },
+    {
+      "css": "fa-rebel"
+    },
+    {
+      "css": "fa-empire"
+    },
+    {
+      "css": "fa-git-square"
+    },
+    {
+      "css": "fa-git"
+    },
+    {
+      "css": "fa-hacker-news"
+    },
+    {
+      "css": "fa-tencent-weibo"
+    },
+    {
+      "css": "fa-qq"
+    },
+    {
+      "css": "fa-weixin"
+    },
+    {
+      "css": "fa-paper-plane"
+    },
+    {
+      "css": "fa-paper-plane-o"
+    },
+    {
+      "css": "fa-history"
+    },
+    {
+      "css": "fa-circle-thin"
+    },
+    {
+      "css": "fa-header"
+    },
+    {
+      "css": "fa-paragraph"
+    },
+    {
+      "css": "fa-sliders"
+    },
+    {
+      "css": "fa-share-alt"
+    },
+    {
+      "css": "fa-share-alt-square"
+    },
+    {
+      "css": "fa-bomb"
+    },
+    {
+      "css": "fa-futbol-o"
+    },
+    {
+      "css": "fa-tty"
+    },
+    {
+      "css": "fa-binoculars"
+    },
+    {
+      "css": "fa-plug"
+    },
+    {
+      "css": "fa-slideshare"
+    },
+    {
+      "css": "fa-twitch"
+    },
+    {
+      "css": "fa-yelp"
+    },
+    {
+      "css": "fa-newspaper-o"
+    },
+    {
+      "css": "fa-wifi"
+    },
+    {
+      "css": "fa-calculator"
+    },
+    {
+      "css": "fa-paypal"
+    },
+    {
+      "css": "fa-google-wallet"
+    },
+    {
+      "css": "fa-cc-visa"
+    },
+    {
+      "css": "fa-cc-mastercard"
+    },
+    {
+      "css": "fa-cc-discover"
+    },
+    {
+      "css": "fa-cc-amex"
+    },
+    {
+      "css": "fa-cc-paypal"
+    },
+    {
+      "css": "fa-cc-stripe"
+    },
+    {
+      "css": "fa-bell-slash"
+    },
+    {
+      "css": "fa-bell-slash-o"
+    },
+    {
+      "css": "fa-trash"
+    },
+    {
+      "css": "fa-copyright"
+    },
+    {
+      "css": "fa-at"
+    },
+    {
+      "css": "fa-eyedropper"
+    },
+    {
+      "css": "fa-paint-brush"
+    },
+    {
+      "css": "fa-birthday-cake"
+    },
+    {
+      "css": "fa-area-chart"
+    },
+    {
+      "css": "fa-pie-chart"
+    },
+    {
+      "css": "fa-line-chart"
+    },
+    {
+      "css": "fa-lastfm"
+    },
+    {
+      "css": "fa-lastfm-square"
+    },
+    {
+      "css": "fa-toggle-off"
+    },
+    {
+      "css": "fa-toggle-on"
+    },
+    {
+      "css": "fa-bicycle"
+    },
+    {
+      "css": "fa-bus"
+    },
+    {
+      "css": "fa-ioxhost"
+    },
+    {
+      "css": "fa-angellist"
+    },
+    {
+      "css": "fa-cc"
+    },
+    {
+      "css": "fa-ils"
+    },
+    {
+      "css": "fa-meanpath"
+    },
+    {
+      "css": "fa-buysellads"
+    },
+    {
+      "css": "fa-connectdevelop"
+    },
+    {
+      "css": "fa-dashcube"
+    },
+    {
+      "css": "fa-forumbee"
+    },
+    {
+      "css": "fa-leanpub"
+    },
+    {
+      "css": "fa-sellsy"
+    },
+    {
+      "css": "fa-shirtsinbulk"
+    },
+    {
+      "css": "fa-simplybuilt"
+    },
+    {
+      "css": "fa-skyatlas"
+    },
+    {
+      "css": "fa-cart-plus"
+    },
+    {
+      "css": "fa-cart-arrow-down"
+    },
+    {
+      "css": "fa-diamond"
+    },
+    {
+      "css": "fa-ship"
+    },
+    {
+      "css": "fa-user-secret"
+    },
+    {
+      "css": "fa-motorcycle"
+    },
+    {
+      "css": "fa-street-view"
+    },
+    {
+      "css": "fa-heartbeat"
+    },
+    {
+      "css": "fa-venus"
+    },
+    {
+      "css": "fa-mars"
+    },
+    {
+      "css": "fa-mercury"
+    },
+    {
+      "css": "fa-transgender"
+    },
+    {
+      "css": "fa-transgender-alt"
+    },
+    {
+      "css": "fa-venus-double"
+    },
+    {
+      "css": "fa-mars-double"
+    },
+    {
+      "css": "fa-venus-mars"
+    },
+    {
+      "css": "fa-mars-stroke"
+    },
+    {
+      "css": "fa-mars-stroke-v"
+    },
+    {
+      "css": "fa-mars-stroke-h"
+    },
+    {
+      "css": "fa-neuter"
+    },
+    {
+      "css": "fa-genderless"
+    },
+    {
+      "css": "fa-facebook-official"
+    },
+    {
+      "css": "fa-pinterest-p"
+    },
+    {
+      "css": "fa-whatsapp"
+    },
+    {
+      "css": "fa-server"
+    },
+    {
+      "css": "fa-user-plus"
+    },
+    {
+      "css": "fa-user-times"
+    },
+    {
+      "css": "fa-bed"
+    },
+    {
+      "css": "fa-viacoin"
+    },
+    {
+      "css": "fa-train"
+    },
+    {
+      "css": "fa-subway"
+    },
+    {
+      "css": "fa-medium"
+    },
+    {
+      "css": "fa-y-combinator"
+    },
+    {
+      "css": "fa-optin-monster"
+    },
+    {
+      "css": "fa-opencart"
+    },
+    {
+      "css": "fa-expeditedssl"
+    },
+    {
+      "css": "fa-battery-full"
+    },
+    {
+      "css": "fa-battery-three-quarters"
+    },
+    {
+      "css": "fa-battery-half"
+    },
+    {
+      "css": "fa-battery-quarter"
+    },
+    {
+      "css": "fa-battery-empty"
+    },
+    {
+      "css": "fa-mouse-pointer"
+    },
+    {
+      "css": "fa-i-cursor"
+    },
+    {
+      "css": "fa-object-group"
+    },
+    {
+      "css": "fa-object-ungroup"
+    },
+    {
+      "css": "fa-sticky-note"
+    },
+    {
+      "css": "fa-sticky-note-o"
+    },
+    {
+      "css": "fa-cc-jcb"
+    },
+    {
+      "css": "fa-cc-diners-club"
+    },
+    {
+      "css": "fa-clone"
+    },
+    {
+      "css": "fa-balance-scale"
+    },
+    {
+      "css": "fa-hourglass-o"
+    },
+    {
+      "css": "fa-hourglass-start"
+    },
+    {
+      "css": "fa-hourglass-half"
+    },
+    {
+      "css": "fa-hourglass-end"
+    },
+    {
+      "css": "fa-hourglass"
+    },
+    {
+      "css": "fa-hand-rock-o"
+    },
+    {
+      "css": "fa-hand-paper-o"
+    },
+    {
+      "css": "fa-hand-scissors-o"
+    },
+    {
+      "css": "fa-hand-lizard-o"
+    },
+    {
+      "css": "fa-hand-spock-o"
+    },
+    {
+      "css": "fa-hand-pointer-o"
+    },
+    {
+      "css": "fa-hand-peace-o"
+    },
+    {
+      "css": "fa-trademark"
+    },
+    {
+      "css": "fa-registered"
+    },
+    {
+      "css": "fa-creative-commons"
+    },
+    {
+      "css": "fa-gg"
+    },
+    {
+      "css": "fa-gg-circle"
+    },
+    {
+      "css": "fa-tripadvisor"
+    },
+    {
+      "css": "fa-odnoklassniki"
+    },
+    {
+      "css": "fa-odnoklassniki-square"
+    },
+    {
+      "css": "fa-get-pocket"
+    },
+    {
+      "css": "fa-wikipedia-w"
+    },
+    {
+      "css": "fa-safari"
+    },
+    {
+      "css": "fa-chrome"
+    },
+    {
+      "css": "fa-firefox"
+    },
+    {
+      "css": "fa-opera"
+    },
+    {
+      "css": "fa-internet-explorer"
+    },
+    {
+      "css": "fa-television"
+    },
+    {
+      "css": "fa-contao"
+    },
+    {
+      "css": "fa-500px"
+    },
+    {
+      "css": "fa-amazon"
+    },
+    {
+      "css": "fa-calendar-plus-o"
+    },
+    {
+      "css": "fa-calendar-minus-o"
+    },
+    {
+      "css": "fa-calendar-times-o"
+    },
+    {
+      "css": "fa-calendar-check-o"
+    },
+    {
+      "css": "fa-industry"
+    },
+    {
+      "css": "fa-map-pin"
+    },
+    {
+      "css": "fa-map-signs"
+    },
+    {
+      "css": "fa-map-o"
+    },
+    {
+      "css": "fa-map"
+    },
+    {
+      "css": "fa-commenting"
+    },
+    {
+      "css": "fa-commenting-o"
+    },
+    {
+      "css": "fa-houzz"
+    },
+    {
+      "css": "fa-vimeo"
+    },
+    {
+      "css": "fa-black-tie"
+    },
+    {
+      "css": "fa-fonticons"
+    },
+    {
+      "css": "fa-reddit-alien"
+    },
+    {
+      "css": "fa-edge"
+    },
+    {
+      "css": "fa-credit-card-alt"
+    },
+    {
+      "css": "fa-codiepie"
+    },
+    {
+      "css": "fa-modx"
+    },
+    {
+      "css": "fa-fort-awesome"
+    },
+    {
+      "css": "fa-usb"
+    },
+    {
+      "css": "fa-product-hunt"
+    },
+    {
+      "css": "fa-mixcloud"
+    },
+    {
+      "css": "fa-scribd"
+    },
+    {
+      "css": "fa-pause-circle"
+    },
+    {
+      "css": "fa-pause-circle-o"
+    },
+    {
+      "css": "fa-stop-circle"
+    },
+    {
+      "css": "fa-stop-circle-o"
+    },
+    {
+      "css": "fa-shopping-bag"
+    },
+    {
+      "css": "fa-shopping-basket"
+    },
+    {
+      "css": "fa-hashtag"
+    },
+    {
+      "css": "fa-bluetooth"
+    },
+    {
+      "css": "fa-bluetooth-b"
+    },
+    {
+      "css": "fa-percent"
+    },
+    {
+      "css": "fa-gitlab"
+    },
+    {
+      "css": "fa-wpbeginner"
+    },
+    {
+      "css": "fa-wpforms"
+    },
+    {
+      "css": "fa-envira"
+    },
+    {
+      "css": "fa-universal-access"
+    },
+    {
+      "css": "fa-wheelchair-alt"
+    },
+    {
+      "css": "fa-question-circle-o"
+    },
+    {
+      "css": "fa-blind"
+    },
+    {
+      "css": "fa-audio-description"
+    },
+    {
+      "css": "fa-volume-control-phone"
+    },
+    {
+      "css": "fa-braille"
+    },
+    {
+      "css": "fa-assistive-listening-systems"
+    },
+    {
+      "css": "fa-american-sign-language-interpreting"
+    },
+    {
+      "css": "fa-deaf"
+    },
+    {
+      "css": "fa-glide"
+    },
+    {
+      "css": "fa-glide-g"
+    },
+    {
+      "css": "fa-sign-language"
+    },
+    {
+      "css": "fa-low-vision"
+    },
+    {
+      "css": "fa-viadeo"
+    },
+    {
+      "css": "fa-viadeo-square"
+    },
+    {
+      "css": "fa-snapchat"
+    },
+    {
+      "css": "fa-snapchat-ghost"
+    },
+    {
+      "css": "fa-snapchat-square"
+    },
+    {
+      "css": "fa-pied-piper"
+    },
+    {
+      "css": "fa-first-order"
+    },
+    {
+      "css": "fa-yoast"
+    },
+    {
+      "css": "fa-themeisle"
+    },
+    {
+      "css": "fa-google-plus-official"
+    },
+    {
+      "css": "fa-font-awesome"
+    }
+
+  ],
+
+  "font_custom": [
+    {
+      "css": "fl-vc-custom-i-basin-1"
+    },
+    {
+      "css": "fl-vc-custom-i-basin"
+    },
+    {
+       "css": "fl-vc-custom-i-bleach"
+    },
+    {
+      "css": "fl-vc-custom-i-broom-1"
+    },
+    {
+      "css": "fl-vc-custom-i-broom-2"
+    },
+    {
+      "css": "fl-vc-custom-i-broom-3"
+    },
+    {
+      "css": "fl-vc-custom-i-broom"
+    },
+    {
+      "css": "fl-vc-custom-i-bucket"
+    },
+    {
+      "css": "fl-vc-custom-i-button-1"
+    },
+    {
+      "css": "fl-vc-custom-i-button-2"
+    },
+    {
+      "css": "fl-vc-custom-i-button-3"
+    },
+    {
+      "css": "fl-vc-custom-i-button"
+    },
+    {
+      "css": "fl-vc-custom-i-circle"
+    },
+    {
+      "css": "fl-vc-custom-i-clothes-hanger"
+    },
+    {
+      "css": "fl-vc-custom-i-cold"
+    },
+    {
+      "css": "fl-vc-custom-i-detergent-1"
+    },
+    {
+      "css": "fl-vc-custom-i-detergent"
+    },
+    {
+      "css": "fl-vc-custom-i-do-not-dry-1"
+    },
+    {
+      "css": "fl-vc-custom-i-do-not-dry-2"
+    },
+    {
+      "css": "fl-vc-custom-i-do-not-dry"
+    },
+    {
+      "css": "fl-vc-custom-i-do-not-wash"
+    },
+    {
+      "css": "fl-vc-custom-i-dry-1"
+    },
+    {
+      "css": "fl-vc-custom-i-dry-2"
+    },
+    {
+      "css": "fl-vc-custom-i-dry-3"
+    },
+    {
+      "css": "fl-vc-custom-i-dry-4"
+    },
+    {
+      "css": "fl-vc-custom-i-dry-5"
+    },
+    {
+      "css": "fl-vc-custom-i-dry-6"
+    },
+    {
+      "css": "fl-vc-custom-i-dry-7"
+    },
+    {
+      "css": "fl-vc-custom-i-dry-8"
+    },
+    {
+      "css": "fl-vc-custom-i-dry"
+    },
+    {
+      "css": "fl-vc-custom-i-flower"
+    },
+    {
+      "css": "fl-vc-custom-i-fork"
+    },
+    {
+      "css": "fl-vc-custom-i-garbage-1"
+    },
+    {
+      "css": "fl-vc-custom-i-garbage"
+    },
+    {
+      "css": "fl-vc-custom-i-gardening"
+    },
+    {
+      "css": "fl-vc-custom-i-glass"
+    },
+    {
+      "css": "fl-vc-custom-i-hanger"
+    },
+    {
+      "css": "fl-vc-custom-i-heat"
+    },
+    {
+      "css": "fl-vc-custom-i-hose"
+    },
+    {
+      "css": "fl-vc-custom-i-hot-water-1"
+    },
+    {
+      "css": "fl-vc-custom-i-hot-water-2"
+    },
+    {
+      "css": "fl-vc-custom-i-hot-water-3"
+    },
+    {
+      "css": "fl-vc-custom-i-hot-water-4"
+    },
+    {
+      "css": "fl-vc-custom-i-hot-water-5"
+    },
+    {
+      "css": "fl-vc-custom-i-hot-water-6"
+    },
+    {
+      "css": "fl-vc-custom-i-hot-water-7"
+    },
+    {
+      "css": "fl-vc-custom-i-hot-water"
+    },
+    {
+      "css": "fl-vc-custom-i-iron-1"
+    },
+    {
+      "css": "fl-vc-custom-i-iron"
+    },
+    {
+      "css": "fl-vc-custom-i-ironing-1"
+    },
+    {
+      "css": "fl-vc-custom-i-ironing-2"
+    },
+    {
+      "css": "fl-vc-custom-i-ironing"
+    },
+    {
+      "css": "fl-vc-custom-i-laundry"
+    },
+    {
+      "css": "fl-vc-custom-i-maid"
+    },
+    {
+      "css": "fl-vc-custom-i-no-ironing-1"
+    },
+    {
+      "css": "fl-vc-custom-i-no-ironing-2"
+    },
+    {
+      "css": "fl-vc-custom-i-no-ironing"
+    },
+    {
+      "css": "fl-vc-custom-i-paper-towel"
+    },
+    {
+      "css": "fl-vc-custom-i-pin-holder"
+    },
+    {
+      "css": "fl-vc-custom-i-rake-1"
+    },
+    {
+      "css": "fl-vc-custom-i-rake"
+    },
+    {
+      "css": "fl-vc-custom-i-sewing-machine"
+    },
+    {
+      "css": "fl-vc-custom-i-sewing"
+    },
+    {
+      "css": "fl-vc-custom-i-shovel-1"
+    },
+    {
+      "css": "fl-vc-custom-i-shovel"
+    },
+    {
+      "css": "fl-vc-custom-i-solvent-1"
+    },
+    {
+      "css": "fl-vc-custom-i-solvent-2"
+    },
+    {
+      "css": "fl-vc-custom-i-solvent"
+    },
+    {
+      "css": "fl-vc-custom-i-sponge"
+    },
+    {
+      "css": "fl-vc-custom-i-spray"
+    },
+    {
+      "css": "fl-vc-custom-i-sprinkler"
+    },
+    {
+      "css": "fl-vc-custom-i-stars"
+    },
+    {
+      "css": "fl-vc-custom-i-toilet-brush"
+    },
+    {
+      "css": "fl-vc-custom-i-towels"
+    },
+    {
+      "css": "fl-vc-custom-i-vacuum-cleaner"
+    },
+    {
+      "css": "fl-vc-custom-i-washing-machine-1"
+    },
+    {
+      "css": "fl-vc-custom-i-washing-machine-2"
+    },
+    {
+      "css": "fl-vc-custom-i-washing-machine-3"
+    },
+    {
+      "css": "fl-vc-custom-i-washing-machine"
+    },
+    {
+      "css": "fl-vc-custom-i-washing"
+    },
+    {
+      "css": "fl-vc-custom-i-watering"
+    },
+    {
+      "css": "fl-vc-custom-i-wheelbarrow"
+    },
+    {
+      "css": "fl-vc-custom-i-window-cleaner"
+    },
+    {
+      "css": "fl-vc-custom-i-001-sew"
+    },
+    {
+      "css": "fl-vc-custom-i-002-bobbin"
+    },
+    {
+      "css": "fl-vc-custom-i-003-needles"
+    },
+    {
+      "css": "fl-vc-custom-i-004-fabric"
+    },
+    {
+      "css": "fl-vc-custom-i-005-sewing"
+    },
+    {
+      "css": "fl-vc-custom-i-006-leather"
+    },
+    {
+      "css": "fl-vc-custom-i-007-zipper"
+    },
+    {
+      "css": "fl-vc-custom-i-008-mannequin"
+    },
+    {
+      "css": "fl-vc-custom-i-009-crochet"
+    },
+    {
+      "css": "fl-vc-custom-i-010-woolen"
+    },
+    {
+      "css": "fl-vc-custom-i-011-cut"
+    },
+    {
+      "css": "fl-vc-custom-i-012-pin-cushion"
+    },
+    {
+      "css": "fl-vc-custom-i-013-cross-stitch"
+    },
+    {
+      "css": "fl-vc-custom-i-014-hanger"
+    },
+    {
+      "css": "fl-vc-custom-i-015-patch"
+    },
+    {
+      "css": "fl-vc-custom-i-016-button"
+    },
+    {
+      "css": "fl-vc-custom-i-017-safety-pin"
+    },
+    {
+      "css": "fl-vc-custom-i-018-fabric"
+    },
+    {
+      "css": "fl-vc-custom-i-019-bobbin"
+    },
+    {
+      "css": "fl-vc-custom-i-020-sewing"
+    },
+    {
+      "css": "fl-vc-custom-i-021-bobbin"
+    },
+    {
+      "css": "fl-vc-custom-i-022-buttonhole"
+    },
+    {
+      "css": "fl-vc-custom-i-023-thimble"
+    },
+    {
+      "css": "fl-vc-custom-i-024-cutter"
+    },
+    {
+      "css": "fl-vc-custom-i-025-cutter"
+    },
+    {
+      "css": "fl-vc-custom-i-026-cutter"
+    },
+    {
+      "css": "fl-vc-custom-i-027-threader"
+    },
+    {
+      "css": "fl-vc-custom-i-028-thread"
+    },
+    {
+      "css": "fl-vc-custom-i-029-iron"
+    },
+    {
+      "css": "fl-vc-custom-i-030-leather"
+    },
+    {
+      "css": "fl-vc-custom-i-031-leather"
+    },
+    {
+      "css": "fl-vc-custom-i-032-hook"
+    },
+    {
+      "css": "fl-vc-custom-i-033-oil"
+    },
+    {
+      "css": "fl-vc-custom-i-034-needle"
+    },
+    {
+      "css": "fl-vc-custom-i-035-glue"
+    },
+    {
+      "css": "fl-vc-custom-i-036-hat"
+    },
+    {
+      "css": "fl-vc-custom-i-037-skirt"
+    },
+    {
+      "css": "fl-vc-custom-i-038-hook"
+    },
+    {
+      "css": "fl-vc-custom-i-039-cutter"
+    },
+    {
+      "css": "fl-vc-custom-i-040-clothes"
+    },
+    {
+      "css": "fl-vc-custom-i-041-fabric"
+    },
+    {
+      "css": "fl-vc-custom-i-042-fabric"
+    },
+    {
+      "css": "fl-vc-custom-i-043-pedal"
+    },
+    {
+      "css": "fl-vc-custom-i-044-label"
+    },
+    {
+      "css": "fl-vc-custom-i-045-ruler"
+    },
+    {
+      "css": "fl-vc-custom-i-046-ruler"
+    },
+    {
+      "css": "fl-vc-custom-i-047-pin"
+    },
+    {
+      "css": "fl-vc-custom-i-048-chalk"
+    },
+    {
+      "css": "fl-vc-custom-i-049-yarn"
+    },
+    {
+      "css": "fl-vc-custom-i-050-yarn"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-airplane"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-atm"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-bag-1"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-bag-2"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-bag"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-basket"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-box-1"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-box"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-boxes"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-call-center"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-card-payment"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-cashbox"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-coupon"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-courier"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-cryptocurrency"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-delivery-truck"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-discount-1"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-discount"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-free-delivery"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-guarantee"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-hand-1"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-hand"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-insurance"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-location"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-locker"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-manager"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-online-payment"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-online-shop-1"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-online-shop-1"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-online-shop"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-open-box"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-open"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-pay-per-click"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-phone"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-planet"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-purse-1"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-purse"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-review"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-ship"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-shop-1"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-shop"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-shopping-bag"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-shopping-cart"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-shopping-list"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-signboard"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-tag"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-ticket"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-transportation"
+    },
+    {
+      "css": "fl-vc-custom-i-e-commerce-warehouse"
+    }
+  ]
+}

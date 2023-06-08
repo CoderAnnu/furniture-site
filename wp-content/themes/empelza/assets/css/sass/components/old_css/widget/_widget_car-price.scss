@@ -1,0 +1,23 @@
+.auto-price-info{
+  .top-info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    padding: 25px 20px;
+    .price-text{
+        margin-right: 10px;
+    }
+    .price-detail{
+      font-size: 19px;
+      del{
+        font-size: 13px;
+      }
+    }
+  }
+  .bottom-info{
+    padding: 25px 20px;
+    font-size: 12px;
+    text-align: center;
+  }
+}

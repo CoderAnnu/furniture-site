@@ -1,0 +1,1 @@
+function a({app:t,next:n,router:o,to:e}){return"Lite".toLowerCase()!=="pro"||!window.aioseo.license.isActive||!t.$addons.hasMinimumVersion(e.meta.middlewareData.addon)?(n(),o.push({name:e.meta.middlewareData.routeName}).catch(()=>{})):n()}export{a as R};

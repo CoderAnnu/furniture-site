@@ -1,0 +1,2456 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Empelza\n"
+"POT-Creation-Date: 2020-04-17 17:45+0300\n"
+"PO-Revision-Date: 2020-04-17 17:45+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/admin.php:210
+msgid "Sign in"
+msgstr ""
+
+#: admin/admin.php:211
+msgid "Forgot password"
+msgstr ""
+
+#: admin/etc/general.php:34
+msgid "Main Menu"
+msgstr ""
+
+#: admin/etc/general.php:35
+msgid "Mobile Menu"
+msgstr ""
+
+#: admin/etc/general.php:342
+msgid "Please register navigation from"
+msgstr ""
+
+#: admin/etc/general.php:343
+msgid "Appearance > Menus"
+msgstr ""
+
+#: admin/etc/general.php:447
+msgid "Empelza WordPress Theme"
+msgstr ""
+
+#: admin/etc/general.php:453
+msgid ""
+"Click on the Import Demo Data button and wait a bit. Installing demo content "
+"may take more than 10 minutes in some cases."
+msgstr ""
+
+#: admin/inc/comments-walker.php:79
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: admin/inc/comments-walker.php:79
+#, php-format
+msgid "%3$s"
+msgstr ""
+
+#: admin/inc/comments-walker.php:79
+msgid "at"
+msgstr ""
+
+#: admin/inc/comments-walker.php:81
+msgid "(Edit)"
+msgstr ""
+
+#: admin/inc/comments-walker.php:89
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/inc/comments-walker.php:101
+#, php-format
+msgid "%s Reply"
+msgstr ""
+
+#: admin/inc/extras.php:189
+msgid "Password"
+msgstr ""
+
+#: admin/inc/extras.php:189
+msgid "Enter"
+msgstr ""
+
+#: admin/inc/extras.php:189
+msgid "To view this protected post, enter the password below"
+msgstr ""
+
+#: admin/inc/template-tags.php:19
+#, php-format
+msgctxt "post date"
+msgid "%s %s"
+msgstr ""
+
+#: admin/inc/template-tags.php:22
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:90
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:94
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:103
+msgid "sub item"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:118
+msgid "Move up"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:131
+msgid "Move down"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:133
+msgid "Edit Menu Item"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:135
+msgid " "
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:144
+msgid "URL"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:151
+msgid "Navigation Label"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:160
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:165
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:171
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:201
+msgid "edit-menu-item-"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:203
+msgid "Upload Image"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:204
+msgid "Remove Image"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:223
+msgid "Description"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:225
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:231
+msgid "Move"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:232
+msgid "Up one"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:233
+msgid "Down one"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:236
+msgid "To the top"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:243
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:256
+msgid "Remove"
+msgstr ""
+
+#: admin/menu/edit_mega_menu_walker.php:257
+msgid "Cancel"
+msgstr ""
+
+#: admin/menu/mega_menu.php:81
+msgid "Select Icon"
+msgstr ""
+
+#: admin/menu/mega_menu.php:88
+msgid "Image"
+msgstr ""
+
+#: admin/menu/mega_menu.php:97
+msgid "Background position"
+msgstr ""
+
+#: admin/menu/mega_menu.php:100
+msgid "Left top"
+msgstr ""
+
+#: admin/menu/mega_menu.php:101
+msgid "Left center"
+msgstr ""
+
+#: admin/menu/mega_menu.php:102
+msgid "Left bottom"
+msgstr ""
+
+#: admin/menu/mega_menu.php:103
+msgid "Right top"
+msgstr ""
+
+#: admin/menu/mega_menu.php:104
+msgid "Right center"
+msgstr ""
+
+#: admin/menu/mega_menu.php:105
+msgid "Right bottom"
+msgstr ""
+
+#: admin/menu/mega_menu.php:106
+msgid "Center top"
+msgstr ""
+
+#: admin/menu/mega_menu.php:107
+msgid "Center center"
+msgstr ""
+
+#: admin/menu/mega_menu.php:108
+msgid "Center bottom"
+msgstr ""
+
+#: admin/menu/mega_menu.php:116
+msgid "Background repeat"
+msgstr ""
+
+#: admin/menu/mega_menu.php:119
+msgid "No-repeat"
+msgstr ""
+
+#: admin/menu/mega_menu.php:120
+msgid "Repeat"
+msgstr ""
+
+#: admin/menu/mega_menu.php:121
+msgid "Repeat-x"
+msgstr ""
+
+#: admin/menu/mega_menu.php:122
+msgid "Repeat-y"
+msgstr ""
+
+#: admin/menu/mega_menu.php:130
+msgid "Enable mega menu"
+msgstr ""
+
+#: admin/menu/mega_menu.php:133 admin/menu/mega_menu.php:144
+#: admin/theme-dashboard/screens/system_info.php:53
+#: admin/theme-dashboard/screens/system_info.php:63
+msgid "Yes"
+msgstr ""
+
+#: admin/menu/mega_menu.php:134 admin/menu/mega_menu.php:145
+#: admin/theme-dashboard/screens/system_info.php:53
+#: admin/theme-dashboard/screens/system_info.php:63
+msgid "No"
+msgstr ""
+
+#: admin/menu/mega_menu.php:141
+msgid "Enable full-width menu"
+msgstr ""
+
+#: admin/menu/mega_menu.php:152
+msgid "Limit Max columns number"
+msgstr ""
+
+#: admin/menu/mega_menu.php:155
+msgid "None"
+msgstr ""
+
+#: admin/menu/mega_menu.php:156
+msgid "One columns"
+msgstr ""
+
+#: admin/menu/mega_menu.php:157
+msgid "Two columns"
+msgstr ""
+
+#: admin/menu/mega_menu.php:158
+msgid "Three columns"
+msgstr ""
+
+#: admin/menu/mega_menu.php:159
+msgid "Four columns"
+msgstr ""
+
+#: admin/menu/mega_menu.php:160
+msgid "Five columns"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:4
+#: admin/option/acf_option/page/page_option.php:4
+msgid "Page Options"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:11
+msgid "Post Setting"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:27
+msgid "Style Single Blog Page"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:39
+msgid "Style One"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:40
+msgid "Style Two"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:54
+msgid "Background Holder"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:57
+msgid "Recommended image size 1920 x 350 px"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:78
+msgid "Background Holder Decor Image"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:81
+msgid "Recommended image size 1920 x 150 px"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:105
+#: admin/option/acf_option/blog/blog_single_option.php:121
+#: admin/option/acf_option/blog/blog_single_option.php:143
+msgid "Breadcrumbs"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:133
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:39
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:137
+#: admin/option/acf_option/page/page_option.php:41
+msgid "Default"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:134
+#: admin/option/acf_option/blog/blog_single_option.php:196
+#: admin/option/acf_option/page/page_option.php:40
+#: admin/option/acf_option/page/page_option.php:174
+#: admin/option/acf_option/page/page_option.php:508
+#: admin/option/kirki_option/page_heading/page_heading_option.php:76
+#: admin/option/kirki_option/page_heading/page_heading_option.php:166
+#: admin/option/kirki_option/page_heading/page_heading_option.php:257
+#: admin/option/kirki_option/page_heading/page_heading_option.php:339
+#: admin/option/kirki_option/page_heading/page_heading_option.php:429
+msgid "Custom"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:163
+#: admin/option/acf_option/blog/blog_single_option.php:312
+#: admin/option/acf_option/blog/blog_single_option.php:464
+#: admin/option/acf_option/blog/blog_single_option.php:496
+#: admin/option/acf_option/page/page_option.php:70
+#: admin/option/acf_option/page/page_option.php:286
+#: admin/option/acf_option/page/page_option.php:392
+#: admin/option/acf_option/page/page_option.php:585
+#: admin/option/acf_option/page/page_option.php:617
+#: admin/option/acf_option/page/page_option.php:692
+#: admin/option/kirki_option/blog/blog_archive_option.php:99
+#: admin/option/kirki_option/blog/blog_archive_option.php:112
+#: admin/option/kirki_option/navigator/navigator_option.php:151
+#: admin/option/kirki_option/page_heading/page_heading_option.php:24
+#: admin/option/kirki_option/page_heading/page_heading_option.php:114
+#: admin/option/kirki_option/page_heading/page_heading_option.php:205
+#: admin/option/kirki_option/page_heading/page_heading_option.php:296
+#: admin/option/kirki_option/page_heading/page_heading_option.php:377
+#: admin/option/kirki_option/portfolio/portfolio_option.php:75
+msgid "Enable"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:164
+#: admin/option/acf_option/blog/blog_single_option.php:311
+#: admin/option/acf_option/blog/blog_single_option.php:465
+#: admin/option/acf_option/blog/blog_single_option.php:497
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:85
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:180
+#: admin/option/acf_option/page/page_option.php:71
+#: admin/option/acf_option/page/page_option.php:285
+#: admin/option/acf_option/page/page_option.php:391
+#: admin/option/acf_option/page/page_option.php:505
+#: admin/option/acf_option/page/page_option.php:586
+#: admin/option/acf_option/page/page_option.php:618
+#: admin/option/acf_option/page/page_option.php:693
+#: admin/option/kirki_option/blog/blog_archive_option.php:25
+#: admin/option/kirki_option/blog/blog_archive_option.php:100
+#: admin/option/kirki_option/blog/blog_archive_option.php:113
+#: admin/option/kirki_option/blog/blog_archive_option.php:147
+#: admin/option/kirki_option/footer/footer_option.php:33
+#: admin/option/kirki_option/navigator/navigator_option.php:152
+#: admin/option/kirki_option/page_heading/page_heading_option.php:23
+#: admin/option/kirki_option/page_heading/page_heading_option.php:73
+#: admin/option/kirki_option/page_heading/page_heading_option.php:113
+#: admin/option/kirki_option/page_heading/page_heading_option.php:163
+#: admin/option/kirki_option/page_heading/page_heading_option.php:204
+#: admin/option/kirki_option/page_heading/page_heading_option.php:254
+#: admin/option/kirki_option/page_heading/page_heading_option.php:295
+#: admin/option/kirki_option/page_heading/page_heading_option.php:336
+#: admin/option/kirki_option/page_heading/page_heading_option.php:376
+#: admin/option/kirki_option/page_heading/page_heading_option.php:426
+#: admin/option/kirki_option/portfolio/portfolio_option.php:32
+#: admin/option/kirki_option/portfolio/portfolio_option.php:76
+msgid "Disable"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:179
+#: admin/option/acf_option/page/page_option.php:158
+msgid "Header"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:208
+#: admin/option/acf_option/page/page_option.php:186
+msgid "Default Header"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:209
+#: admin/option/acf_option/blog/blog_single_option.php:222
+#: admin/option/acf_option/page/page_option.php:187
+#: admin/option/acf_option/page/page_option.php:198
+msgid "Custom Header"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:242
+#: admin/option/acf_option/page/page_option.php:218
+msgid "Enable Header"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:243
+#: admin/option/acf_option/page/page_option.php:219
+msgid "Disable Header"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:253
+#: admin/option/acf_option/page/page_option.php:228
+msgid "Pre title"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:286
+#: admin/option/acf_option/page/page_option.php:260
+msgid "Title Header Enable Disable Function"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:324
+#: admin/option/acf_option/page/page_option.php:297
+msgid "Custom Title"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:362
+#: admin/option/acf_option/page/page_option.php:406
+msgid "Background Image"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:403
+#: admin/option/acf_option/page/page_option.php:525
+msgid "Content"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:419
+#: admin/option/acf_option/blog/blog_single_option.php:432
+#: admin/option/acf_option/page/page_option.php:541
+#: admin/option/acf_option/page/page_option.php:554
+msgid "Custom Content"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:431
+#: admin/option/acf_option/page/page_option.php:553
+msgid "Default Content"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:444
+#: admin/option/acf_option/page/page_option.php:565
+msgid "Padding Top"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:476
+#: admin/option/acf_option/page/page_option.php:597
+#: admin/option/kirki_option/blog/blog_archive_option.php:106
+msgid "Padding bottom"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:512
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:168
+msgid "Sidebar"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:528
+msgid "Custom sidebar"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:540
+#: admin/option/acf_option/blog/blog_single_option.php:605
+#: admin/option/kirki_option/blog/blog_archive_option.php:161
+#: admin/option/kirki_option/blog/blog_single_option.php:33
+msgid "Default Sidebar"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:541
+msgid "Custom Sidebar"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:552
+msgid "Sidebar Position"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:572
+#: admin/option/kirki_option/blog/blog_single_option.php:18
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:573
+#: admin/option/kirki_option/blog/blog_single_option.php:19
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:574
+#: admin/option/kirki_option/blog/blog_single_option.php:20
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:585
+#: admin/option/kirki_option/blog/blog_archive_option.php:160
+#: admin/option/kirki_option/blog/blog_single_option.php:27
+msgid "Sticky sidebar"
+msgstr ""
+
+#: admin/option/acf_option/blog/blog_single_option.php:606
+#: admin/option/kirki_option/blog/blog_single_option.php:34
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:4
+msgid "Blog Post Options"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:11
+msgid "Blog Setting"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:27
+msgid "Post Style"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:40
+msgid "Default Two"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:41
+#: admin/option/kirki_option/blog/blog_archive_option.php:76
+msgid "Grid"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:53
+msgid "Post per page"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:73
+#: admin/option/kirki_option/blog/blog_archive_option.php:11
+#: admin/option/kirki_option/blog/blog_archive_option.php:19
+msgid "Blog Animation"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:86
+#: admin/option/kirki_option/blog/blog_archive_option.php:26
+#: admin/option/kirki_option/footer/footer_option.php:34
+#: admin/option/kirki_option/portfolio/portfolio_option.php:33
+msgid "fadeIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:87
+#: admin/option/kirki_option/blog/blog_archive_option.php:27
+#: admin/option/kirki_option/footer/footer_option.php:35
+#: admin/option/kirki_option/portfolio/portfolio_option.php:34
+msgid "flipXIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:88
+#: admin/option/kirki_option/blog/blog_archive_option.php:28
+#: admin/option/kirki_option/footer/footer_option.php:36
+#: admin/option/kirki_option/portfolio/portfolio_option.php:35
+msgid "flipYIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:89
+#: admin/option/kirki_option/blog/blog_archive_option.php:29
+#: admin/option/kirki_option/footer/footer_option.php:37
+#: admin/option/kirki_option/portfolio/portfolio_option.php:36
+msgid "flipBounceXIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:90
+#: admin/option/kirki_option/blog/blog_archive_option.php:30
+#: admin/option/kirki_option/footer/footer_option.php:38
+#: admin/option/kirki_option/portfolio/portfolio_option.php:37
+msgid "flipBounceYIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:91
+#: admin/option/kirki_option/blog/blog_archive_option.php:31
+#: admin/option/kirki_option/footer/footer_option.php:39
+#: admin/option/kirki_option/portfolio/portfolio_option.php:38
+msgid "swoopIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:92
+#: admin/option/kirki_option/blog/blog_archive_option.php:32
+#: admin/option/kirki_option/footer/footer_option.php:40
+#: admin/option/kirki_option/portfolio/portfolio_option.php:39
+msgid "raise"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:93
+#: admin/option/kirki_option/blog/blog_archive_option.php:33
+#: admin/option/kirki_option/footer/footer_option.php:41
+#: admin/option/kirki_option/portfolio/portfolio_option.php:40
+msgid "whirlIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:94
+#: admin/option/kirki_option/blog/blog_archive_option.php:34
+#: admin/option/kirki_option/footer/footer_option.php:42
+#: admin/option/kirki_option/portfolio/portfolio_option.php:41
+msgid "shrinkIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:95
+#: admin/option/kirki_option/blog/blog_archive_option.php:35
+#: admin/option/kirki_option/footer/footer_option.php:43
+#: admin/option/kirki_option/portfolio/portfolio_option.php:42
+msgid "expandIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:96
+#: admin/option/kirki_option/blog/blog_archive_option.php:36
+#: admin/option/kirki_option/footer/footer_option.php:44
+#: admin/option/kirki_option/portfolio/portfolio_option.php:43
+msgid "bounceIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:97
+#: admin/option/kirki_option/blog/blog_archive_option.php:37
+#: admin/option/kirki_option/footer/footer_option.php:45
+#: admin/option/kirki_option/portfolio/portfolio_option.php:44
+msgid "bounceUpIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:98
+#: admin/option/kirki_option/blog/blog_archive_option.php:38
+#: admin/option/kirki_option/footer/footer_option.php:46
+#: admin/option/kirki_option/portfolio/portfolio_option.php:45
+msgid "bounceDownIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:99
+#: admin/option/kirki_option/blog/blog_archive_option.php:39
+#: admin/option/kirki_option/footer/footer_option.php:47
+#: admin/option/kirki_option/portfolio/portfolio_option.php:46
+msgid "bounceLeftIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:100
+#: admin/option/kirki_option/blog/blog_archive_option.php:40
+#: admin/option/kirki_option/footer/footer_option.php:48
+#: admin/option/kirki_option/portfolio/portfolio_option.php:47
+msgid "bounceRightIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:101
+#: admin/option/kirki_option/blog/blog_archive_option.php:41
+#: admin/option/kirki_option/footer/footer_option.php:49
+#: admin/option/kirki_option/portfolio/portfolio_option.php:48
+msgid "slideUpIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:102
+#: admin/option/kirki_option/blog/blog_archive_option.php:42
+#: admin/option/kirki_option/footer/footer_option.php:50
+#: admin/option/kirki_option/portfolio/portfolio_option.php:49
+msgid "slideDownIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:103
+#: admin/option/kirki_option/blog/blog_archive_option.php:43
+#: admin/option/kirki_option/footer/footer_option.php:51
+#: admin/option/kirki_option/portfolio/portfolio_option.php:50
+msgid "slideLeftIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:104
+#: admin/option/kirki_option/blog/blog_archive_option.php:44
+#: admin/option/kirki_option/footer/footer_option.php:52
+#: admin/option/kirki_option/portfolio/portfolio_option.php:51
+msgid "slideRightIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:105
+#: admin/option/kirki_option/blog/blog_archive_option.php:45
+#: admin/option/kirki_option/footer/footer_option.php:53
+#: admin/option/kirki_option/portfolio/portfolio_option.php:52
+msgid "slideUpBigIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:106
+#: admin/option/kirki_option/blog/blog_archive_option.php:46
+#: admin/option/kirki_option/footer/footer_option.php:54
+#: admin/option/kirki_option/portfolio/portfolio_option.php:53
+msgid "slideDownBigIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:107
+#: admin/option/kirki_option/blog/blog_archive_option.php:47
+#: admin/option/kirki_option/footer/footer_option.php:55
+#: admin/option/kirki_option/portfolio/portfolio_option.php:54
+msgid "slideLeftBigIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:108
+#: admin/option/kirki_option/blog/blog_archive_option.php:48
+#: admin/option/kirki_option/footer/footer_option.php:56
+#: admin/option/kirki_option/portfolio/portfolio_option.php:55
+msgid "slideRightBigIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:109
+#: admin/option/kirki_option/blog/blog_archive_option.php:49
+#: admin/option/kirki_option/footer/footer_option.php:57
+#: admin/option/kirki_option/portfolio/portfolio_option.php:56
+msgid "perspectiveUpIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:110
+#: admin/option/kirki_option/blog/blog_archive_option.php:50
+#: admin/option/kirki_option/footer/footer_option.php:58
+#: admin/option/kirki_option/portfolio/portfolio_option.php:57
+msgid "perspectiveDownIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:111
+#: admin/option/kirki_option/blog/blog_archive_option.php:51
+#: admin/option/kirki_option/footer/footer_option.php:59
+#: admin/option/kirki_option/portfolio/portfolio_option.php:58
+msgid "perspectiveLeftIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:112
+#: admin/option/kirki_option/blog/blog_archive_option.php:52
+#: admin/option/kirki_option/footer/footer_option.php:60
+#: admin/option/kirki_option/portfolio/portfolio_option.php:59
+msgid "perspectiveRightIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:113
+#: admin/option/kirki_option/blog/blog_archive_option.php:53
+#: admin/option/kirki_option/footer/footer_option.php:61
+#: admin/option/kirki_option/portfolio/portfolio_option.php:60
+msgid "zoomIn"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:114
+#: admin/option/kirki_option/blog/blog_archive_option.php:54
+#: admin/option/kirki_option/footer/footer_option.php:62
+#: admin/option/kirki_option/portfolio/portfolio_option.php:61
+msgid "slideInRightVeryBig"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:115
+#: admin/option/kirki_option/blog/blog_archive_option.php:55
+#: admin/option/kirki_option/footer/footer_option.php:63
+#: admin/option/kirki_option/portfolio/portfolio_option.php:62
+msgid "slideInLeftVeryBig"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:125
+msgid "Blog Pagination"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:138
+msgid "Load More"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:152
+msgid "Sidebar Setting"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:181
+#: admin/option/kirki_option/blog/blog_archive_option.php:145
+msgid "Left"
+msgstr ""
+
+#: admin/option/acf_option/page-blog-template/page_blog_template.php:182
+#: admin/option/kirki_option/blog/blog_archive_option.php:146
+msgid "Right"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:12
+msgid "Navigator"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:28
+msgid "Page Navigator"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:50
+msgid "Menu"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:80
+msgid "Menu Style"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:105
+#: admin/option/kirki_option/navigator/navigator_option.php:14
+msgid "Absolute"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:106
+#: admin/option/kirki_option/navigator/navigator_option.php:15
+msgid "Relative With Top Sidebar"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:115
+msgid "Color"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:145
+#: admin/option/kirki_option/navigator/navigator_option.php:28
+msgid "Light"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:146
+#: admin/option/kirki_option/navigator/navigator_option.php:27
+msgid "Dark"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:334
+msgid "Title Description"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:366
+#: admin/option/kirki_option/page_heading/page_heading_option.php:17
+#: admin/option/kirki_option/page_heading/page_heading_option.php:107
+#: admin/option/kirki_option/page_heading/page_heading_option.php:198
+#: admin/option/kirki_option/page_heading/page_heading_option.php:289
+#: admin/option/kirki_option/page_heading/page_heading_option.php:370
+msgid "Content Header Scroll Opacity"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:443
+msgid "Image Hover Decor"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:480
+msgid "Background Mask Style"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:506
+#: admin/option/kirki_option/page_heading/page_heading_option.php:74
+#: admin/option/kirki_option/page_heading/page_heading_option.php:164
+#: admin/option/kirki_option/page_heading/page_heading_option.php:255
+#: admin/option/kirki_option/page_heading/page_heading_option.php:337
+#: admin/option/kirki_option/page_heading/page_heading_option.php:427
+msgid "Blue Gradient"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:507
+#: admin/option/kirki_option/page_heading/page_heading_option.php:75
+#: admin/option/kirki_option/page_heading/page_heading_option.php:165
+#: admin/option/kirki_option/page_heading/page_heading_option.php:256
+#: admin/option/kirki_option/page_heading/page_heading_option.php:338
+#: admin/option/kirki_option/page_heading/page_heading_option.php:428
+msgid "Purple"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:632
+#: admin/option/acf_option/page/page_option.php:672
+#: admin/option/kirki_option/footer/footer_option.php:4
+msgid "Footer"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:648
+#: admin/option/acf_option/page/page_option.php:661
+msgid "Custom Footer"
+msgstr ""
+
+#: admin/option/acf_option/page/page_option.php:660
+msgid "Default Footer"
+msgstr ""
+
+#: admin/option/activation.php:53
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: admin/option/activation.php:109 admin/theme-dashboard/dashboard.php:90
+msgid "Theme activation"
+msgstr ""
+
+#: admin/option/activation.php:110
+msgid "Your code"
+msgstr ""
+
+#: admin/option/activation.php:110
+msgid "Activation"
+msgstr ""
+
+#: admin/option/activation.php:110 admin/theme-dashboard/dashboard.php:91
+msgid "Theme activated"
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:4
+msgid "404 Page"
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:14
+msgid "Top Text Title"
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:16
+msgid "OOOPS!"
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:21
+msgid "Text Title"
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:23
+msgid "404"
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:29
+msgid "404 Text"
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:31
+msgid "The page you’re looking for cannot be found."
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:36
+msgid "404 Button Text"
+msgstr ""
+
+#: admin/option/kirki_option/404/404_option.php:38
+msgid "Back To Homepage"
+msgstr ""
+
+#: admin/option/kirki_option/background/background_option.php:5
+msgid "Background"
+msgstr ""
+
+#: admin/option/kirki_option/background/background_option.php:14
+msgid "Background page"
+msgstr ""
+
+#: admin/option/kirki_option/background/background_option.php:20
+msgid "Disable background"
+msgstr ""
+
+#: admin/option/kirki_option/background/background_option.php:21
+msgid "Enable background"
+msgstr ""
+
+#: admin/option/kirki_option/background/background_option.php:29
+msgid "Body Background Image"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:3
+msgid "Blog Archive Setting"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:61
+msgid "Blog Post Setting"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:68
+msgid "Blog Style"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:74
+msgid "Standard"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:75
+msgid "Standard Two"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:83
+msgid "Number of Words in Description"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:84
+msgid "Specify the Number of Words for Description blog per post."
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:93
+msgid "Padding top"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:119
+msgid "Pagination Settings"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:120
+msgid "Select the Pagination Type for Blog Archives"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:126
+msgid "Pagination"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:127
+msgid "Load More Button"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:132
+msgid "Blog Archive Sidebar Setting"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:139
+msgid "Sidebar position"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_archive_option.php:154
+msgid "Sidebar sticky"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_single_option.php:4
+msgid "Blog Single Setting"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_single_option.php:11
+msgid "Sidebar Settings"
+msgstr ""
+
+#: admin/option/kirki_option/blog/blog_single_option.php:12
+msgid "Select a sidebar position for Blog pages"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:13
+msgid "Footer Top Content Style"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:17
+msgid "Three Column"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:18
+msgid "Four Column"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:27
+msgid "Widget Animation"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:70
+msgid "Footer Decor Background Image"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:79
+msgid "Copyrights"
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:80
+msgid "Insert the Copyrights text."
+msgstr ""
+
+#: admin/option/kirki_option/footer/footer_option.php:82
+msgid "Copyrights © 2020 Empelza Templines. All rights reserved."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:6
+msgid "Site Logo Light"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:7
+#: admin/option/kirki_option/general/general_option.php:17
+msgid "Upload site logo."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:16
+msgid "Site Logo Dark"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:26
+msgid "Max width Logotype"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:27
+msgid "Site logo width in px."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:43
+msgid "Apikey"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:44
+msgid "Insert Google Maps Apikey."
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:53
+msgid "Search Text"
+msgstr ""
+
+#: admin/option/kirki_option/general/general_option.php:55
+msgid "Hit enter to search or ESC to close"
+msgstr ""
+
+#: admin/option/kirki_option/load_more/load_more_option.php:3
+msgid "Load More Setting"
+msgstr ""
+
+#: admin/option/kirki_option/load_more/load_more_option.php:11
+msgid "Load More Text"
+msgstr ""
+
+#: admin/option/kirki_option/load_more/load_more_option.php:13
+msgid "LOAD MORE"
+msgstr ""
+
+#: admin/option/kirki_option/load_more/load_more_option.php:22
+msgid "Load More Loading Text"
+msgstr ""
+
+#: admin/option/kirki_option/load_more/load_more_option.php:32
+msgid "Blog Last Page Text"
+msgstr ""
+
+#: admin/option/kirki_option/load_more/load_more_option.php:34
+msgid "NO MORE POST"
+msgstr ""
+
+#: admin/option/kirki_option/load_more/load_more_option.php:43
+msgid "Portfolio Last Page Text"
+msgstr ""
+
+#: admin/option/kirki_option/load_more/load_more_option.php:45
+msgid "NO MORE WORKS"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:3
+msgid "Navigation Setting"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:10
+msgid "Navigator Style"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:23
+msgid "Menu Color"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:45
+msgid "Navigation Typography"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:65
+msgid "Mega Menu First Child Font Style"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:86
+msgid "Sub Menu Typography"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:106
+msgid "Mobile Menu Typography"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:126
+msgid "Mobile Sub Menu Typography"
+msgstr ""
+
+#: admin/option/kirki_option/navigator/navigator_option.php:147
+msgid "Search Icon"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:3
+msgid "Heading Setting"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:10
+msgid "Blog Archive Heading"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:31
+#: admin/option/kirki_option/page_heading/page_heading_option.php:384
+msgid "Blog Archive Page Title"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:32
+#: admin/option/kirki_option/page_heading/page_heading_option.php:385
+msgid "Specify the title for Blog archive page"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:34
+#: admin/option/kirki_option/page_heading/page_heading_option.php:124
+msgid "Latest News"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:41
+#: admin/option/kirki_option/page_heading/page_heading_option.php:394
+msgid "Blog Archive Page Description"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:50
+#: admin/option/kirki_option/page_heading/page_heading_option.php:403
+msgid "Archive Blog Image"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:59
+#: admin/option/kirki_option/page_heading/page_heading_option.php:412
+msgid "Archive Blog Image Hover Image Decor"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:67
+#: admin/option/kirki_option/page_heading/page_heading_option.php:420
+msgid "Blog Archive Background Mask Style"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:83
+#: admin/option/kirki_option/page_heading/page_heading_option.php:173
+#: admin/option/kirki_option/page_heading/page_heading_option.php:264
+#: admin/option/kirki_option/page_heading/page_heading_option.php:346
+#: admin/option/kirki_option/page_heading/page_heading_option.php:436
+msgid "Custom Mask Header BG Color"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:100
+msgid "Blog Single Heading"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:121
+msgid "Blog Single Page Title"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:122
+msgid "Specify the title for Blog single page"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:131
+msgid "Blog Single Page Description"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:140
+msgid "Single Blog Image"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:149
+msgid "Single Blog Image Hover Image Decor"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:157
+msgid "Blog Single Background Mask Style"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:191
+msgid "Portfolio Archive Heading"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:212
+msgid "Portfolio Archive Page Title"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:213
+msgid "Specify the title for Portfolio archive page"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:215
+msgid "Portfolio"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:222
+msgid "Portfolio Archive Page Description"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:231
+msgid "Archive Portfolio Image"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:240
+msgid "Archive Portfolio Image Hover Image Decor"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:248
+msgid "Portfolio Archive Background Mask Style"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:282
+msgid "Portfolio Single Heading"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:304
+msgid "Portfolio Single Page Description"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:313
+msgid "Single Portfolio Image"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:322
+msgid "Single Portfolio Image Hover Image Decor"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:330
+msgid "Portfolio Single Background Mask Style"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:363
+msgid "404 Heading"
+msgstr ""
+
+#: admin/option/kirki_option/page_heading/page_heading_option.php:387
+msgid "Page Not Found"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:4
+msgid "Portfolio Setting"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:11
+msgid "Portfolio Style"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:17
+msgid "Style Grid Three Column"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:18
+msgid "Style Grid Four Column"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:19
+msgid "Style Masonry"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:26
+msgid "Portfolio Item Animation"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:69
+msgid "Portfolio Filter"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:84
+msgid "First Filter Text"
+msgstr ""
+
+#: admin/option/kirki_option/portfolio/portfolio_option.php:87
+msgid "All Works"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:8
+msgid "Page Preloader"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:9
+msgid "Page Preloader Seating"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:19
+msgid "Site Preloader"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:28
+msgid "Body Preloader color"
+msgstr ""
+
+#: admin/option/kirki_option/preloader/preloader_option.php:52
+msgid "Preloader progress Background Color"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:3
+msgid "Theme Style"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:11
+msgid "First Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:23
+msgid "First Light Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:35
+msgid "First Light Color Two Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:47
+msgid "Second Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:59
+msgid "Second Light Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:71
+msgid "Second Light Two Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:83
+msgid "Third Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:95
+msgid "Third Color Different Shade Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:107
+msgid "Third Light Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:119
+msgid "Third Light Two Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:132
+msgid "Dark Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:145
+msgid "Fourth Color Setting"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:157
+msgid "Gradient Mask Background"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:161
+msgid "Start Gradient"
+msgstr ""
+
+#: admin/option/kirki_option/style/style_color.php:162
+msgid "End Gradient"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:3
+msgid "Typography"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:12
+msgid "Body"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:35
+msgid "Light Font Style"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:52
+msgid "Regular Font Style"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:69
+msgid "Medium Font Style"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:86
+msgid "Semi Bold Font Style"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:103
+msgid "Bold Font Style"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:120
+msgid "Header Titles"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:141
+msgid "H1 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:162
+msgid "H2 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:183
+msgid "H3 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:204
+msgid "H4 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:225
+msgid "H5 Size"
+msgstr ""
+
+#: admin/option/kirki_option/typography/typography_option.php:246
+msgid "H6 Size"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:326
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:327
+#: admin/theme-dashboard/dashboard.php:136
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:329
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:331
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:332
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:384
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:385
+#: admin/tgm/class-tgm-plugin-activation.php:870
+#: admin/tgm/class-tgm-plugin-activation.php:2594
+#: admin/tgm/class-tgm-plugin-activation.php:3643
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:386
+#: admin/tgm/class-tgm-plugin-activation.php:3222
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:387
+#: admin/tgm/class-tgm-plugin-activation.php:3015
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:389
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:391
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:393
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:394
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:395
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:396
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:540
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:541
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:658
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:702
+msgid "Recommended Plugins"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:977
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:977
+#: admin/tgm/class-tgm-plugin-activation.php:980
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:980
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:1164
+#: admin/tgm/class-tgm-plugin-activation.php:3011
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2334
+msgid "Required"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2337
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2353
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2356
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2359
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2376
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2380
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2382
+msgid "Active"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2388
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2391
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2394
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2403
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2449
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2453
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2457
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2461
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2543
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2551
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2559
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2571
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2594
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2608
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2609
+msgid "Source"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2610
+msgid "Type"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2614
+msgid "Version"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2615
+msgid "Status"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2664
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2669
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2675
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2747
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2780
+msgid "Install"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2786
+msgid "Update"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2789
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2820
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2822
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2863
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2865
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2971
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:2997
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3221
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3561
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3564
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3566
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3570
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3572
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3572
+#: admin/tgm/class-tgm-plugin-activation.php:3580
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3572
+#: admin/tgm/class-tgm-plugin-activation.php:3580
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3573
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3575
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3578
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3580
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3581
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgm/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:53
+msgid "Manage Plugins Below"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:55
+msgid "Manage Plugins"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:89
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:92
+msgid "Theme not activated"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:93
+msgid "Theme Link"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:95
+msgid "Online Documentation"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:97
+msgid "Support Center"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:99
+msgid ""
+"Thank you for purchasing our theme. If you liked the our theme please put 5 "
+"stars rating to it."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:100
+#, php-format
+msgid "Thank you for choosing %s!"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:101
+msgid "More Info"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:102
+msgid "System Information"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:103
+msgid "Requirements"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:104
+msgid "Some Problems"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:105
+msgid "No Problems"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:111
+msgid ""
+"Reminder ! One registration per Website. If registered elsewhere please "
+"remove purchased code that registration first."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:112
+msgid "Your code is:"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:115
+msgid "You can learn how to find your purchase code"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:116
+msgid ""
+"You  will can later deactivate this code if you use dev site and using again "
+"on live version."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:118
+msgid "Theme Support"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:119
+msgid ""
+"If you did not find the question interest in our documentation, found an "
+"error, or if you want to suggest something, you can contact technical "
+"support."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:120
+msgid "Visit Support Center"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:122
+msgid "Theme Documentation"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:123
+msgid ""
+"If you have any problems, you can look at the online documentation of this "
+"topic, if you have not found a question that interests you, visit our "
+"support forum and ask us a question that interests you, we will be happy to "
+"help you"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:126
+msgid "Our Information"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:127
+msgid ""
+"You can find out more about our works or our team just follow one of the "
+"links below."
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:199
+msgid "General "
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:209
+#: admin/theme-dashboard/dashboard.php:210
+#: admin/theme-dashboard/dashboard.php:232
+msgid "System Info"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:227
+msgid "Dashboard"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:238
+msgid "Plugin Install"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:245
+#: admin/theme-dashboard/dashboard.php:281
+msgid "Demo Install"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:251
+msgid "Customize"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:267
+msgid "Welcome"
+msgstr ""
+
+#: admin/theme-dashboard/dashboard.php:280
+msgid "Demo Import"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:22
+msgid "WordPress Version"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:26
+msgid "Theme Name"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:30
+msgid "Theme Version"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:34
+msgid "Theme Slug"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:40
+msgid "PHP Version"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:44
+msgid "MySQL server version"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:48
+msgid "Max Upload File"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:52
+msgid "WP Multisite:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:57
+msgid "Language:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:62
+msgid "Debug mode"
+msgstr ""
+
+#: admin/theme-dashboard/screens/system_info.php:73
+msgid "System Info Dashboard Image"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:50
+msgid "Your support has expired. "
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:53
+msgid ""
+"Unfortunately, your support period is expired but you can renew your support "
+"period  "
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:55
+msgid "Renew Support"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:66
+msgid ""
+"This theme comes with 6 months of free support for every license you "
+"purchase. Support can be extended through subscriptions via ThemeForest. "
+"Envato Elements does not provide technical support for this theme."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:68
+msgid "Get Support"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:84
+msgid ""
+"Thank for activation theme now install theme plugins and you can install the "
+"demo content"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:84
+msgid "Install Theme Plugin"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:93
+msgid "Theme Info Image"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:111
+msgid "PHP Version:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:122
+#, php-format
+msgid "We recommend upgrade php version to at least %s."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:131
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:141
+#, php-format
+msgid ""
+"For normal usage will be enough 128M, but for importing demo we recommend "
+"setting memory to at least %s."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:144
+#, php-format
+msgid "Read more: %s"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:144
+msgid "Increasing memory allocated to PHP."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:154
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:164
+#, php-format
+msgid "We recommend setting max execution time to at least %s."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:166
+#, php-format
+msgid "See more: %s"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:166
+msgid "Increasing max execution to PHP"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:175
+msgid "Child Theme:"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:183
+msgid ""
+"We recommend use child theme to prevent loosing your customizations after "
+"theme update."
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:205
+msgid "Support Dashboard Image"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:222
+msgid "Documentation Dashboard Image"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:239
+msgid "About Us Dashboard Image"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:248
+#: admin/theme-dashboard/screens/welcome.php:249
+#: admin/theme-dashboard/screens/welcome.php:252
+#: admin/theme-dashboard/screens/welcome.php:256
+msgid "Follow Us"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:253
+msgid "Our Twitter"
+msgstr ""
+
+#: admin/theme-dashboard/screens/welcome.php:257
+msgid "Our Portfolio"
+msgstr ""
+
+#: archive-portfolio.php:92 taxonomy-portfolio-category.php:75
+msgid "Add some posts in portfolio section"
+msgstr ""
+
+#: comments.php:47
+msgid " Comment"
+msgstr ""
+
+#: comments.php:49
+msgid " Comments"
+msgstr ""
+
+#: comments.php:52
+msgid "Comments are off for this post."
+msgstr ""
+
+#: comments.php:72
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:78
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:92
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:99
+msgid "Add Comment"
+msgstr ""
+
+#: comments.php:104
+msgid "Your Name *"
+msgstr ""
+
+#: comments.php:107
+msgid "Email Address *"
+msgstr ""
+
+#: comments.php:110
+msgid "Website"
+msgstr ""
+
+#: comments.php:116
+msgid "Enter your comment *"
+msgstr ""
+
+#: comments.php:119
+msgid "Submit comment"
+msgstr ""
+
+#: index.php:71 search.php:71
+#: template-parts/blog-single-page/post-top-info.php:16
+msgid "By"
+msgstr ""
+
+#: index.php:103 search.php:103
+msgid "Read More"
+msgstr ""
+
+#: searchform.php:3 template-parts/content-none.php:32
+msgid "Search..."
+msgstr ""
+
+#: single.php:60
+msgid "Post Pages:"
+msgstr ""
+
+#: template-parts/blog-single-page/post-tags-content.php:6
+msgid "Post Tags: "
+msgstr ""
+
+#: template-parts/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Nothing was found"
+msgstr ""
+
+#: template-parts/content-none.php:26
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-page.php:20 template-parts/content.php:10
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/footer/footer-component/content-search.php:8
+msgid "Search keyword ..."
+msgstr ""
+
+#: template-parts/header/header_content.php:149
+msgid "All posts from:"
+msgstr ""
+
+#: template-parts/header/header_content.php:153
+msgid "All posts from author:"
+msgstr ""
+
+#: template-parts/header/header_content.php:157
+msgid "Tagged to:"
+msgstr ""
+
+#: template-parts/header/header_content.php:161
+msgid "Search results for:"
+msgstr ""
+
+#: template-parts/header/header_content.php:165
+#, php-format
+msgid "Daily Archive: %s"
+msgstr ""
+
+#: template-parts/header/header_content.php:168
+#, php-format
+msgid "Monthly Archive: %s"
+msgstr ""
+
+#: template-parts/header/header_content.php:168
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: template-parts/header/header_content.php:171
+#, php-format
+msgid "Yearly Archive: %s"
+msgstr ""
+
+#: template-parts/header/header_content.php:171
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: template-parts/header/header_content.php:174
+msgid "Archive"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:41
+msgid "Site Logotype"
+msgstr ""
+
+#: template-parts/navigation/navigator_content.php:48
+msgid "Site Logotype Dark"
+msgstr ""
+
+#: template-parts/preloader/preloader.php:14
+msgid "Save Preloader image"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Empelza"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://empelza.templines.org/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Empelza is modern, convenient and highly thought-out WordPress theme with "
+"fascinating design."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Templines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/templines/portfolio"
+msgstr ""

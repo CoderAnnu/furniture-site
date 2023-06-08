@@ -1,0 +1,32 @@
+.widget_tag_cloud {
+  .tagcloud {
+	a {
+	  float: left;
+	  margin-right: 6px;
+	  margin-bottom: 6px;
+	  padding: 11px 20px 9px;
+	  transition: all .3s ease;
+	  text-transform: uppercase;
+	  color: #333!important;
+	  background-color: #fff;
+	  font-size: 10px!important;
+	  line-height: 1;
+	  &:hover{
+		color: #fff!important;
+		transition: all .3s ease;
+		box-shadow: 0 8px 20px 0 rgba(0,0,0,0.5);
+		transform: perspective(100px) translateY(-2px);
+		z-index: 1;
+	  }
+	}
+	&:before{
+	  content: "";
+	  display: table;
+	}
+	&:after{
+	  clear: both;
+	  content: "";
+	  display: table;
+	}
+  }
+}

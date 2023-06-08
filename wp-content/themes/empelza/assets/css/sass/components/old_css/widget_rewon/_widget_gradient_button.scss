@@ -1,0 +1,16 @@
+.fl_gradient_button_widget{
+	.fl-gradient-button-widget{
+		.fl-widget-gradient-btn{
+			line-height: 23px;
+			color: #fff;
+			a{
+				position: absolute;
+				width: 100%;
+				height: 100%;
+				left: 0;
+				top: 0;
+				z-index: 3;
+			}
+		}
+	}
+}

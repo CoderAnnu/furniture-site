@@ -1,0 +1,44 @@
+.widget_nav_menu{
+
+	ul{
+		>li{
+			font-size: 15px;
+			position: relative;
+			list-style: none;
+			span{
+				position: absolute;
+				top: 11px;
+				right: 0;
+				min-width: 23px;
+				display: flex;
+				align-items: center;
+				justify-content: flex-end;
+				line-height: 1;
+				color: #7b7d7f;
+				border-radius: 3px;
+				transition: .3s ease-in;
+				font-size: 13px;
+			}
+		}
+		&.has-submenu {
+			> ul, .sub-nav {
+				li{
+					&:before{
+						top: auto;
+						margin-top: 0;
+						content: '-';
+						position: relative;
+						margin-right: 5px;
+					}
+				}
+				ul{
+					li{
+						&:before{
+							content: '--';
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,93 @@
+//        Main Tools
+// ==============================================
+$html_font_size: 15px;
+$body_line_height: 1.65;
+$body_letter_spacing: 0.004em;
+
+$main_color: #88b44e;
+
+// Color
+$color_white: #fff;
+
+//Light
+$light_color: #f5f8f2;
+$light_color_2: darken($light_color, 1%);
+$light_color_3: darken($light_color, 2%);
+
+// Dark
+$color_dark: #252c30;
+$color_dark_2: lighten($color_dark, 4%);
+$color_dark_3: lighten($color_dark, 8%);
+
+// Border color
+$border_color: rgba(37, 44, 48,0.1);
+
+// Mask color
+$mask_color: rgba(37, 44, 48,0.5);
+
+$fl-theme-colors: (
+       "main-color": #0074d9,
+       "white": $color_white,
+       "dark" : $color_dark,
+       "dark_1" : $color_dark_2,
+       "dark_2" : $color_dark_3,
+       "light" : $light_color,
+       "light_1" : $light_color_2,
+       "light_2" : $light_color_3,
+);
+
+// Font family
+$main_font_family: "Poppins";
+$main_font_family_2: "Montserrat";
+$custom_font_fl_theme: "";
+$fl-theme-font-family: (
+        "header": 		$main_font_family,
+        "body":   		$main_font_family_2,
+		"icon_font":	$custom_font_fl_theme,
+);
+
+
+//        Media
+// ==============================================
+// media variables
+$media_xxs:           '(max-width: 575px)';
+$media_xs:            '(max-width: 767px)';
+$media_sm:            '(min-width: 767px) and (max-width: 991px)';
+$media_md:            '(min-width: 992px) and (max-width: 1199px)';
+$media_lg:            '(min-width: 1200)';
+
+// additional variables
+$media_smaller_xs:    '(max-width: 767px)';
+$media_smaller_sm:    '(max-width: 991px)';
+$media_smaller_md:    '(max-width: 1199px)';
+$media_larger_xs:     '(min-width: 576px)';
+$media_larger_sm:     '(min-width: 768px)';
+$media_larger_md:     '(min-width: 992px)';
+$media_larger_lg:     '(min-width: 1200px)';
+
+// responsive media
+@mixin large() {
+  @media screen and (min-width: 1200px) {
+	@content;
+  }
+}
+
+@mixin md() {
+  @media screen and (min-width: 992px) {
+	@content;
+  }
+}
+
+@mixin sm() {
+  @media screen and (min-width: 767px) {
+	@content;
+  }
+}
+
+@mixin xs() {
+  @media screen and (max-width: 575px) {
+	@content;
+  }
+}
+
+

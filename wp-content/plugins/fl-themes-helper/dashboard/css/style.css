@@ -1,0 +1,556 @@
+/*
+Menu Icon
+*/
+.fl-dashboard{
+	max-width: 1170px!important;
+}
+.ocdi{
+	max-width: 1170px!important;
+}
+
+.fl-dashboard_title{
+	font-size: 30px!important;
+	margin-bottom: 10px!important;
+}
+.fl-dashboard-about{
+	font-size: 14px;
+	margin-bottom: 10px!important;
+}
+
+.fl-admin-btn{
+  margin-right: 3px!important;
+	transition: 400ms ease-in-out!important;
+}
+
+.fl_theme_version{
+	display: inline-block;
+	vertical-align: top;
+	background-color: #fff;
+	border: 1px solid #dcdcdc;
+	padding: 2.5px 8px;
+	font-size: 13px;
+	line-height: 1;
+	border-bottom-width: 2px;
+	border-radius: 3px;
+}
+
+.fl-dashboard-info-box{
+	padding: 0 20px 0 160px;
+	margin-bottom: 35px;
+}
+.fl-dashboard-img{
+	margin: 0;
+	max-width: 100%;
+	height: auto;
+	vertical-align: middle;
+	position: absolute;
+	top: 6px;
+	left: 0;
+	width: 130px!important;
+	padding: 0;
+	background: none;
+	border: none;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+.dashicons-dashboard-icon,
+.dashboard-icon {
+	background-image: url(../img/dashboard-icon.png)!important;
+	background-size: 50%;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+}
+
+
+.fl_link_admin .dashboard-icon {
+	display: inline-block !important;
+	width: 32px !important;
+	height: 32px !important;
+	font-size: 0;
+	vertical-align: bottom;
+}
+
+.fl-dashboard-box{
+	box-sizing: border-box;
+	width: calc(33.3333% - 30px);
+	margin-right: 30px;
+	display: inline-block;
+	margin-bottom: 30px;
+	float: left;
+	box-shadow: 0 4px 6px 0 hsla(0,0%,0%,0.2);
+	background: #fff;
+	position: relative;
+}
+.fl-dashboard-box:nth-child(1){
+	margin-right: 0!important;
+}
+
+
+
+
+/*
+General
+*/
+
+.fl-dashboard .wp-badge{
+	padding: 0;
+	background: none;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+.fl-dashboard mark {
+	background-color: transparent;
+}
+
+.fl-dashboard mark.true {
+	color: #28a745;
+}
+.fl-dashboard mark.false {
+	color: #e74c3c;
+}
+
+.fl-dashboard .fl-dashboard-widget--title-badge.false {
+	background-color: #e74c3c;
+	box-shadow: 0 2px 3px 0 hsla(0,0%,0%,0.2)!important;
+	color: #fff!important;
+}
+
+.fl-dashboard .fl-dashboard-widget--title-badge.true {
+	background-color: #27ae60;
+	box-shadow: 0 2px 3px 0 hsla(0,0%,0%,0.2)!important;
+	color: #fff!important;
+}
+
+.fl-dashboard .fl-dashboard-widget--title-badge {
+	background-color: #e0eff4;
+	color: #8ab6c1;
+}
+
+.fl-dashboard p.small{
+	font-size: 80%;
+	margin: 30px 0;
+	color: #bdbdbd;
+}
+
+.fl-dashboard p.small:last-child{
+	margin-bottom: 0;
+}
+
+.fl-dashboard .button-help{
+	transition: 300ms ease-in-out;
+	color: #fff !important;
+	border-color: #27ae60 !important;
+	background: #27ae60 !important;
+	-webkit-box-shadow: 0 1px 0 #27ae60 !important;
+	box-shadow: 0 1px 0 #27ae60 !important;
+}
+
+.fl-dashboard .button-help:focus,
+.fl-dashboard .button-help:hover,
+.fl-dashboard .button-help.focus,
+.fl-dashboard .button-help.hover{
+	transition: 300ms ease-in-out;
+	background: #28a745 !important;
+	border-color: #28a745 !important;
+	color: #fff !important;	
+}
+
+.fl-drop-content{
+	display: none;
+}
+
+.fl-drop-tether.drop-element.drop-theme-arrows-bounce-dark {
+	max-width: 220px;
+}
+
+.fl-drop-tether.drop-element.drop-theme-arrows-bounce-dark .drop-content {
+	font-size: 12px;
+	padding: 20px;
+}
+
+.fl-drop-tether.drop-element.drop-theme-arrows-bounce-dark .drop-content a {
+	color: rgba(255,255,255,.6);
+}
+
+.fl-drop-tether.drop-element.drop-theme-arrows-bounce-dark .drop-content a:hover{
+	color: #fff;
+}
+
+/*
+Widget
+*/
+
+.fl-dashboard .fl-panels{
+	margin: 50px 0 30px;
+	padding: 0;
+	-moz-column-gap: 30px;
+	-webkit-column-gap: 30px;
+	column-gap: 30px;
+}
+
+.fl-dashboard .fl-dashboard-widget{
+	display: inline-block;
+	padding: 0;
+	margin: 0 0 30px;
+	width: 100%;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+}
+
+
+.fl-dashboard .fl-dashboard-widget--title {
+	position: relative;
+	background: hsl(0,0%,95%);
+	font-size: 16px;
+	font-weight: 600;
+	padding: 25px 30px;
+	border-bottom: none;
+}
+.fl-dashboard .fl-dashboard-widget--title mark.true,.fl-dashboard .fl-dashboard-widget--title mark.true {
+	color: #1f1f1f!important;
+}
+
+.fl-dashboard .fl-dashboard-widget--content{
+	padding: 25px 30px;
+}
+
+.fl-dashboard .fl-dashboard-widget--title-badge {
+	position: absolute;
+	right: 20px;
+	top: 50%;
+	font-size: 12px;
+	font-weight: 400;
+	padding: 4px 12px;
+	border-radius: 3px;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+
+
+
+
+/*
+Widget Requiremenets
+*/
+
+.fl-dashboard .fl-widget-requirements table {
+	margin: 0;
+	border: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.fl-dashboard .fl-widget-requirements table td {
+	padding: 10px 0;
+}
+
+.fl-dashboard .fl-widget-requirements table th,
+.fl-dashboard .fl-widget-requirements table td:first-child {
+	font-weight: 700;
+	padding: 10px 80px 10px 0;
+}
+
+
+/*
+Widget Demoimport
+*/
+
+.fl-dashboard .fl-widget-demoimport p{
+	margin-top: 0;
+}
+
+
+/*
+Widget Help
+*/
+
+.fl-dashboard .fl-widget-support p{
+	margin-top: 0;
+}
+
+.fl-dashboard .fl-widget-support p.small{
+	margin-top: 20px;
+}
+
+/*
+Footer
+*/
+
+.fl-dashboard .fl-thank-you{
+	margin: 30px 0;
+	color: #b2b2b2;
+}
+
+
+
+.fl-drop-parent{
+	cursor: pointer;
+	position: relative;
+}
+
+
+.fl-drop-content{
+	display: none;
+	position: absolute;
+	border-bottom: 5px solid transparent;
+	bottom: 106%;
+	left: -10px;
+	right: 0;
+	width: 310px;
+	z-index: 99;
+	color: #fff;
+}
+
+.fl-drop-content{
+	background: #303030;
+	padding: 15px;
+	border-radius: 5px;
+	font-size: 12px;
+	font-weight: 400;
+}
+.fl-drop-content:after{  
+	position: absolute;
+	content: "";
+	bottom: -16px;
+	left: 15%;
+	margin-bottom: 7px;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 10.3px 8px 0 8px;
+	border-color: #303030 transparent transparent transparent;
+	z-index: 99;
+}
+
+
+.fl-drop-parent:hover .fl-drop-content{
+	display: block;
+}
+
+.fl-dashboard-nav{
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ccc;
+}
+
+.fl-dashboard{
+	position: relative;
+	margin: 25px 40px 0 20px;
+	font-size: 15px;
+}
+
+
+.fl-plugin-list-item{
+	box-sizing: border-box;
+	width: calc(50% - 15px);
+	display: inline-block;
+	margin-bottom: 30px;
+	float: left;
+	margin-right: 30px;
+	box-shadow: 0 4px 6px 0 hsla(0,0%,0%,0.2);
+	padding: 20px 20px 20px 10px;
+	background: #fff;
+	position: relative;
+}
+.fl-plugin-list-item:nth-child(2n+2){
+	margin-right: 0!important;
+}
+
+.fl-plugin-list-item .plugin-required{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	padding: 3px 5px;
+	background: #e74c3c;
+	box-shadow: 0 2px 3px 0 hsla(0,0%,0%,0.2);
+	color: #fff;
+	font-size: 11px;
+}
+
+
+
+.fl-plugin-list-item .plugin-info .fl-img-plugin-wrapper{
+	display: block;
+	width: 150px;
+	margin-right: 20px;
+	float: left;
+	position: relative;
+}
+
+.fl-plugin-list-item .plugin-info .fl-plugin--info h4.plugin--title{
+	margin-bottom: 8px!important;
+}
+.fl-plugin-list-item .plugin-info .fl-plugin--info .plugin--author{
+	font-size: 12px;
+}
+.fl-plugin-list-item .plugin-info .fl-plugin--info .plugin-version{
+	font-size: 12px;
+	margin-right: 3px;
+}
+
+
+
+.fl-plugin-list-item .plugin-info .fl-img-plugin-wrapper .theme-activities .button-primary{
+	margin-right: 3px;
+}
+.fl-plugin-list-item .plugin-info .fl-img-plugin-wrapper img{
+	margin-bottom: 15px;
+}
+.fl-plugin-list-item .plugin-info .fl-img-plugin-wrapper .theme-activities{
+	text-align: center;
+}
+
+
+
+.fl-plugin-list-item .plugin-info .fl-plugin--info{
+	display: block;
+	margin-left: 170px;
+}
+
+
+
+
+
+/*
+Demo Install
+*/
+.fl-theme-preview-wrapper{
+	max-width: 410px;
+	float: left;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	box-shadow: 0 4px 6px 0 hsla(0,0%,0%,0.2);
+	background: #fff;
+	margin-right: 30px;
+}
+
+.fl-preview-bnt{
+	padding: 15px;
+	background: hsl(0,0%,95%);
+	color: #fff;
+	font-size: 15px;
+	min-height: 18px;
+	margin: 0;
+	box-shadow: inset 0 1px 0 rgba(0,0,0,.1);
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+.fl-preview-bnt .fl-preview--link{
+	font-size: 14px!important;
+	padding: 5px!important;
+	height: auto!important;
+	margin: 0 auto!important;
+	display: block!important;
+	text-align: center!important;
+}
+
+.fl-preview--description{
+	margin-left: 440px;
+}
+
+.fl-preview--description .fl-preview-description--text{
+	font-size: 16px;
+	line-height: 26px;
+}
+
+.fl-preview--ul li{
+	padding-left: 20px;
+	margin-bottom: 15px;
+	position: relative;
+	font-size: 13px;
+}
+
+.fl-preview--ul li:before{
+	content: "\f1db";
+	position: absolute;
+	left: 3px;
+	top: 4px;
+	font: normal normal normal 11px/1 FontAwesome;
+}
+
+.fl-demo-install-page{
+	position: relative;
+	margin: 25px 40px 0 20px;
+}
+.fl_demo_title{
+	font-size: 27px!important;
+	color: #32373c!important;
+}
+.fl_demo_title:before{
+	content: "\f317";
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	font-size: 20px;
+	line-height: 1;
+	font-family: "dashicons";
+	text-decoration: inherit;
+	font-weight: 400;
+	font-style: normal;
+	vertical-align: top;
+	text-align: center;
+}
+
+.fl-intro-notice{
+	display: block;
+	line-height: 19px;
+	padding: 11px 15px;
+	font-size: 14px;
+	text-align: left;
+	margin: 25px 0 0 2px;
+	background-color: #fff;
+	border-left: 4px solid #F44336;
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.changelog-content{
+	max-height: 200px;
+	overflow-y: scroll;
+}
+
+
+.ocdi .ocdi__title{
+	display: none!important;
+}
+
+.ocdi .about-description{
+	display: none!important;
+}
+.ocdi .ocdi__intro-notice{
+	display: none!important;
+}
+
+.ocdi .ocdi__intro-notice p{
+	display: none!important;
+}
+
+.ocdi .ocdi__intro-text{
+	display: none!important;
+}
+
+
+
+@media (max-width: 960px) {
+	.fl-plugin-list-item{
+		width: 100%!important;
+		margin-right: 0!important;
+	}
+}
+
+
+.fl-dashboard-nav a{
+font-size: 14px!important;
+}
+

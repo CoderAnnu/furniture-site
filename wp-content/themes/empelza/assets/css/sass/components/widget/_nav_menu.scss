@@ -1,0 +1,87 @@
+.widget_nav_menu{
+  ul{
+    >li{
+      position: relative;
+      list-style: none;
+
+      &.has-submenu {
+        > ul, .sub-nav {
+          display: block;
+          width: 100%;
+          ul{
+            li{
+              &:before{
+                margin-right: 5px;
+                content: '-';
+              }
+            }
+            ul{
+              li{
+                &:before{
+                  content: '--';
+                }
+                ul{
+                  li{
+                    &:before{
+                      content: '---';
+                    }
+                    ul{
+                      li{
+                        &:before{
+                          content: '----';
+                        }
+                        ul{
+                          li{
+                            &:before{
+                              content: '-----';
+                            }
+                            ul{
+                              li{
+                                &:before{
+                                  content: '------';
+                                }
+                                ul{
+                                  li{
+                                    &:before{
+                                      content: '-------';
+                                    }
+                                    ul{
+                                      li{
+                                        &:before{
+                                          content: '---------';
+                                        }
+                                        ul{
+                                          li{
+                                            &:before{
+                                              content: '----------';
+                                            }
+                                            ul{
+                                              li{
+                                                &:before{
+                                                  content: '-----------';
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+
+  }
+}

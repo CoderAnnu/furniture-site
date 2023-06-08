@@ -1,0 +1,251 @@
+/*====================================================================
+==  Gradient Style
+====================================================================*/
+.vc_row-overlay{
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+/*====================================================================
+==  Boxed Row Style
+====================================================================*/
+.vc_row{
+  //Overflow
+  &[data-row-overflow-visible]{
+    overflow: visible!important;
+    z-index: 1;
+  }
+  &[data-row-overflow-visible-auto]{
+    overflow: auto!important;
+  }
+  &[data-row-overflow-visible-hidden]{
+    overflow: hidden!important;
+  }
+}
+
+/*====================================================================
+==  Decor
+====================================================================*/
+.vc_row[data-row-decor]{
+
+  .decor-white-left{
+    -webkit-clip-path: polygon(0 0, 100% 0, 4% 100%);
+    clip-path: polygon(0 0, 100% 0, 4% 100%);
+    right: 9%;
+    height: 52px;
+    position: absolute;
+    top: 0;
+    left: 9%;
+    display: block;
+    background: #fff;
+  }
+  .decor-white-right{
+    clip-path: polygon(0 0, 100% 0, 94% 100%, 0 0);
+    position: absolute;
+    top: 0;
+    right: 84px;
+    left: 84px;
+    display: block;
+    background-color: #fff;
+    height: 47px;
+  }
+
+  .decor-main-cl-left{
+    right: 9%;
+    height: 52px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 4% 100%);
+    clip-path: polygon(0 0, 100% 0, 4% 100%);
+    position: absolute;
+    top: 0;
+    left: 9%;
+    display: block;
+  }
+
+  .decor-main-cl-right{
+    right: 9%;
+    height: 52px;
+    -webkit-clip-path: polygon(0 0, 100% 0, 96% 100%);
+    clip-path: polygon(0 0, 100% 0, 96% 100%);
+    position: absolute;
+    top: 0;
+    left: 9%;
+    display: block;
+  }
+
+
+}
+
+/*====================================================================
+==  Decor Bottom
+====================================================================*/
+.vc_row[data-row-decor-bottom]{
+  .decor-white-bottom-left{
+    -webkit-clip-path: polygon(4% 0, 100% 100%, 0% 100%);
+    clip-path: polygon(4% 0, 100% 100%, 0% 100%);
+    top: auto;
+    bottom: -1px;
+    height: 52px;
+    position: absolute;
+    right: 0;
+    left: 9%;
+    display: block;
+    background: #fff;
+  }
+  .decor-main-cl-bottom-left{
+    clip-path: polygon(0 0, 100% 0, 4% 100%);
+    height: 52px;
+    position: absolute;
+    top: auto;
+    bottom: -52px;
+    right: 0;
+    left: 9%;
+    display: block;
+    background-color: #22abc3;
+  }
+
+}
+
+
+/*====================================================================
+==  Slider List category
+====================================================================*/
+.fl-woo-category-slider-list-container{
+  margin: 0;
+  padding: 0;
+  li{
+    margin: 0;
+    padding: 0 20px;
+    display: inline-flex;
+    a{
+      line-height: 1;
+      position: relative;
+      color: #fff;
+      font-size: 14px;
+      text-transform: uppercase;
+      padding-bottom: 10px;
+      transition: .2s ease-in-out!important;
+      &:before{
+        transition: transform .2s ease-out .2s ,-webkit-transform .2s ease-out .2s;
+        transform: scaleX(1);
+        transform-origin: left;
+        width: 100%;
+        height: 1px;
+        background: rgba(255,255,255,.5);
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        z-index: 1;
+      }
+      &:after{
+        content: '';
+        transform: scaleX(0);
+        transition: transform .2s ease-out,-webkit-transform .2s ease-out;
+        transform-origin: right;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        height: 1px;
+        z-index: 2;
+      }
+      &:hover{
+        transition: .2s ease-in-out!important;
+        &:after{
+          transform: scaleX(1);
+          transform-origin: left;
+        }
+        &:before{
+          transition: transform .2s ease-out ,-webkit-transform .2s ease-out;
+          transform: scaleX(0);
+          transform-origin: right;
+        }
+      }
+    }
+  }
+}
+/*====================================================================
+==  Background position
+====================================================================*/
+.bg-position-left-top, .vc_row-has-fill.bg-position-left-top, .vc_col-has-fill .bg-position-left-top {background-position: left top !important}
+.bg-position-left-center, .vc_row-has-fill.bg-position-left-center, .vc_col-has-fill .bg-position-left-center {background-position: left center !important}
+.bg-position-left-bottom, .vc_row-has-fill.bg-position-left-bottom, .vc_col-has-fill .bg-position-left-bottom {background-position: left bottom !important}
+.bg-position-center-top, .vc_row-has-fill.bg-position-center-top, .vc_col-has-fill .bg-position-center-top {background-position: center top !important}
+.bg-position-center-center, .vc_row-has-fill.bg-position-center-center, .vc_col-has-fill .bg-position-center-center {background-position: center center !important}
+.bg-position-center-bottom, .vc_row-has-fill.bg-position-center-bottom, .vc_col-has-fill .bg-position-center-bottom {background-position: center bottom !important}
+.bg-position-right-top, .vc_row-has-fill.bg-position-right-top, .vc_col-has-fill .bg-position-right-top {background-position: right top !important}
+.bg-position-right-center, .vc_row-has-fill.bg-position-right-center, .vc_col-has-fill .bg-position-right-center {background-position: right center !important}
+.bg-position-right-bottom, .vc_row-has-fill.bg-position-right-bottom, .vc_col-has-fill .bg-position-right-bottom {background-position: right bottom !important}
+
+/*====================================================================
+==  Decor
+====================================================================*/
+.fl-vc-decor-wrapper{
+  display: flex;
+  justify-content: center;
+  .filter-decor{
+    display: inline-block;
+    width: 40px;
+    height: 1px;
+    opacity: .5;
+    background-color: #fff;
+    box-shadow: 25px 5px 0 0 #fff, -25px 5px 0 0 #fff;
+  }
+}
+
+/*====================================================================
+==  Z index
+====================================================================*/
+.z-index-1{
+  z-index: 1;
+  position: relative;
+}
+.z-index-2{
+  z-index: 2;
+  position: relative;
+}
+.z-index-3{
+  z-index: 3;
+  position: relative;
+}
+.z-index-4{
+  z-index: 4;
+  position: relative;
+}
+.z-index-5{
+  z-index: 5;
+  position: relative;
+}
+
+
+.header-button-wrap{
+    position: relative;
+    bottom: 4px;
+}
+
+.kswr-row-background, .kswr-row-element-back{
+  z-index: -1;
+}
+
+/*====================================================================
+==  Animated Image
+====================================================================*/
+.animated-image{
+  img{
+    animation: animation_image 10s linear infinite alternate forwards;
+    transition: all 200ms linear;
+  }
+}
+@keyframes animation_image {
+  0%,100% { border-radius: 63% 37% 54% 46% / 55% 48% 52% 45%; }
+  14% { border-radius: 40% 60% 54% 46% / 49% 60% 40% 51%; }
+  28% { border-radius: 54% 46% 38% 62% / 49% 70% 30% 51%; }
+  42% { border-radius: 61% 39% 55% 45% / 61% 38% 62% 39%; }
+  56% { border-radius: 61% 39% 67% 33% / 70% 50% 50% 30%; }
+  70% { border-radius: 50% 50% 34% 66% / 56% 68% 32% 44%; }
+  84% { border-radius: 46% 54% 50% 50% / 35% 61% 39% 65%; }
+}

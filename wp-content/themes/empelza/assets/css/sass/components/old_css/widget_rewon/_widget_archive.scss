@@ -1,0 +1,30 @@
+.widget_archive{
+  ul{
+	list-style: none;
+	margin: 0;
+	li{
+	  position: relative;
+	  padding-bottom: 13px;
+	  a{
+		font-size: 12px;
+		line-height: 1;
+	  }
+	  span{
+		color: #908c8a;
+		font-weight: 700;
+		position: absolute;
+		top: 0;
+		right: 0;
+		font-size: 12px;
+		line-height: 19px;
+	  }
+	  &:last-child{
+		padding-bottom: 0;
+		border-bottom: none;
+	  }
+	  &:before{
+		content: "";
+	  }
+	}
+  }
+}

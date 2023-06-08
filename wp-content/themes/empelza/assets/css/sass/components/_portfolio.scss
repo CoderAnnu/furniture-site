@@ -1,0 +1,181 @@
+// Portfolio Mask
+.entry-content{
+  position: relative;
+  .portfolio-mask-content{
+    visibility: hidden;
+    opacity: 0;
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: .3s ease .2s;
+    .portfolio-title{
+      text-align: center;
+      width: 100%;
+      margin-bottom: 0;
+      transform: translateY(-10px);
+      transition: .3s ease;
+      opacity: 0;
+      .portfolio-title-link{
+        transition: .3s ease;
+        color: #fff;
+        font-size: 26px;
+        letter-spacing: 0.025em;
+      }
+    }
+
+    .portfolio-category-wrap{
+      width: 100%;
+      text-align: center;
+      margin-top: 10px;
+      text-transform: uppercase;
+      font-size: 14px;
+      a{
+        display: inline-block;
+        transform: translateY(10px);
+        opacity: 0;
+        transition: .3s ease;
+      }
+    }
+  }
+  &:hover{
+    .portfolio-mask-content{
+      opacity: .9;
+      visibility: visible;
+      transition: .3s ease;
+    }
+    .portfolio-title{
+      opacity: 1;
+      transform: translateY(0);
+      transition: transform .3s ease .3s, opacity .3s ease .3s,color .3s ease;
+      a{
+        transition: transform .3s ease .3s, opacity .3s ease .3s,color .3s ease;
+      }
+    }
+    .portfolio-category-wrap{
+      a{
+        opacity: 1;
+        transform: translateY(0);
+        transition: transform .3s ease .4s, opacity .3s ease .4s,color .3s ease;
+      }
+    }
+  }
+}
+// Grid three column
+  .fl-portfolio-three-column-style{
+    margin: 0 -20px;
+    margin-top: -20px;
+    .grid-sizer,
+    .fl-grid-item {
+      width: 33.33333%;
+    }
+    .fl-grid-item{
+      .entry-content{
+        padding: 20px;
+      }
+    }
+  }
+// Grid four column
+  .fl-portfolio-four-column-style{
+    margin: 0 -20px;
+    margin-top: -20px;
+    .grid-sizer,
+    .fl-grid-item {
+      width: 25%;
+    }
+    .fl-grid-item{
+      .entry-content{
+        padding: 20px;
+        .portfolio-title-link{
+          font-size: 23px;
+        }
+      }
+    }
+  }
+// Masonry
+  .fl-portfolio-masonry-style{
+    margin: 0 -20px;
+    margin-top: -20px;
+    .grid-sizer,
+    .fl-grid-item {
+      width: 33.33333%;
+    }
+    .fl-grid-item{
+      .entry-content{
+        padding: 20px;
+      }
+    }
+  }
+
+// Filter
+  .fl-filter-group-wrapper{
+    margin-bottom: 60px;
+      .filter-ul{
+        display: flex;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        li{
+          cursor: pointer;
+          font-size: 14px;
+          margin: 0 20px;
+          display: inline-flex;
+          text-transform: uppercase;
+          line-height: 1;
+          span{
+            position: relative;
+            &:before{
+              position: absolute;
+              left: 0;
+              bottom: -5px;
+              content: "";
+              height: 2px;
+              width: 100%;
+              transform: scaleX(0);
+              transform-origin: right center;
+              transition: transform 0.2s ease-out 0s, -webkit-transform 0.2s ease-out 0s;
+            }
+          }
+          &.active{
+            border-radius: 18px;
+            padding: 10px 25px;
+            margin-right: 0;
+            margin-left: 0;
+            span{
+              top: 1px;
+              color: #fff;
+              &:before{
+                display: none!important;
+              }
+            }
+          }
+          &:not(.active){
+            &:hover{
+              span{
+                &:before{
+                  transform: scaleX(1);
+                  transform-origin: left center;
+                }
+              }
+            }
+          }
+        }
+      }
+  }
+
+// Portfolio Archive Style
+.fl--portfolio-content-wrap{
+  max-width: 1900px;
+  margin: 0 auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  .fl-pagination{
+    margin-top: 35px;
+  }
+}

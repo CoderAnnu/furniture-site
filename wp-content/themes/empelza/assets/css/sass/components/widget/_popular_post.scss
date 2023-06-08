@@ -1,0 +1,38 @@
+.widget_fl_theme_helper_popular_post{
+  .fl--last-post{
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid;
+    display: flex;
+    align-items: center;
+    &:last-child{
+      margin-bottom: 0;
+      padding-bottom: 0;
+      border-bottom: 0;
+    }
+    .fl-last-post-img{
+      flex-grow: 0;
+      margin-right: 20px;
+      img{
+        min-width: 80px;
+      }
+    }
+    .fl-last-post-info{
+      flex-grow: 1;
+      .fl-text-medium-style{
+        .fl-post-title{
+          font-size: 15px;
+          margin-bottom: 0;
+        }
+
+        line-height: 1.4;
+        a{
+          color: #222222;
+        }
+      }
+      .post-date{
+        font-size: 13px;
+      }
+    }
+  }
+}

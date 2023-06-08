@@ -1,0 +1,30 @@
+.fl-progress-bar{
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 14px;
+	color: #222222;
+	.fl-progress-title{
+		flex-grow: 1;
+	}
+	.fl-progress-bar__number{
+		flex-grow: 0;
+	}
+	.fl-progress-wrapper{
+		margin-top: 5px;
+		height: 5px;
+		width: 100%;
+		.fl-tracking-progress-bar{
+			position: relative;
+			background: #eeeeee;
+			width: 100%;
+			height: 100%;
+			.fl-tracking-progress-bar__item{
+				height: 100%;
+				position: absolute;
+				left: 0;
+				top: 0;
+			}
+		}
+	}
+}

@@ -1,0 +1,35 @@
+.header-search-form{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+  opacity: 0;
+  display: none;
+  .search-form-wrapper{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding-top: 50vh;
+      .search_global{
+        transform: translateY(-50%);
+        max-width: 500px;
+        margin: 0 auto;
+        input{
+          opacity: 0;
+          transform: translateY(-30px);
+          flex-grow: 1;
+          margin-bottom: 0;
+        }
+        .info-text{
+          transform: translateY(30px);
+          opacity: 0;
+          color: #fff;
+          margin-top: 15px;
+        }
+      }
+  }
+}

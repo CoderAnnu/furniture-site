@@ -1,0 +1,53 @@
+$span_color:#7b7d7f;
+$color-border: #eee;
+$color-children-link: #1c1f23;
+//Pages Widget
+.widget_pages {
+	ul{
+		li{
+			position: relative;
+			a{
+				color: $span_color;
+			}
+			span{
+				color: $span_color;
+				position: absolute;
+				top: 0;
+				right: 0;
+				font-size: 11px;
+			}
+		}
+	}
+	.page_item {
+		padding-bottom: 13px;
+		&:last-child {
+			padding-bottom: 0;
+		}
+		&.page_item_has_children {
+			padding-bottom: 0;
+			margin-bottom: 13px;
+			.children {
+				padding-top: 13px;
+			}
+
+			span{
+				top: 2px;
+			}
+		}
+	}
+	.page_item_has_children{
+		ul.children{
+			padding-left: 20px;
+		}
+		>.page_item_has_children {
+			padding-left: 0;
+			&:before {
+				display: none;
+			}
+		}
+		&:before{
+
+		}
+
+	}
+}

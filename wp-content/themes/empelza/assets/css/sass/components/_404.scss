@@ -1,0 +1,30 @@
+.page-404{
+  .top-text-404{
+    margin-bottom: 60px;
+    .error-top-title{
+      font-size: 70px;
+      line-height: 58px;
+      margin-bottom: 0;
+    }
+  }
+  .error-title-container{
+    margin-bottom: 55px;
+    .error-title{
+      letter-spacing: .4rem;
+      font-size: 240px;
+      line-height: 134px;
+    }
+  }
+  .info-404-text{
+    margin-bottom: 30px;
+    font-size: 22px;
+    color: #222222;
+  }
+  .btn-404-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+

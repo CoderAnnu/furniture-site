@@ -1,0 +1,709 @@
+/*
+Linearicons Free v1.0.0 - https://linearicons.com/free
+By Perxis - https://perxis.com
+(c) 2014-2015 Perxis.com
+License: https://linearicons.com/free/license
+*/
+@font-face {
+	font-family: Linearicons-Free;
+	src: url(../fonts/linearicons.eot);
+	src: url(../fonts/linearicons.eot?#iefix) format('embedded-opentype'),
+	url(../fonts/linearicons.woff2) format('woff2'),
+	url(../fonts/linearicons.ttf) format('truetype'),
+	url(../fonts/linearicons.woff) format('woff'),
+	url(../fonts/linearicons.svg#Linearicons-Free) format('svg');
+	font-weight: 400;
+	font-style: normal
+}
+
+.linearicons-font {
+	font-family: Linearicons-Free;
+	speak: none;
+	font-style: normal;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale
+}
+
+.linearicons-home:before {
+	content: "\e800"
+}
+
+.linearicons-apartment:before {
+	content: "\e801"
+}
+
+.linearicons-pencil:before {
+	content: "\e802"
+}
+
+.linearicons-magic-wand:before {
+	content: "\e803"
+}
+
+.linearicons-drop:before {
+	content: "\e804"
+}
+
+.linearicons-lighter:before {
+	content: "\e805"
+}
+
+.linearicons-poop:before {
+	content: "\e806"
+}
+
+.linearicons-sun:before {
+	content: "\e807"
+}
+
+.linearicons-moon:before {
+	content: "\e808"
+}
+
+.linearicons-cloud:before {
+	content: "\e809"
+}
+
+.linearicons-cloud-upload:before {
+	content: "\e80a"
+}
+
+.linearicons-cloud-download:before {
+	content: "\e80b"
+}
+
+.linearicons-cloud-sync:before {
+	content: "\e80c"
+}
+
+.linearicons-cloud-check:before {
+	content: "\e80d"
+}
+
+.linearicons-database:before {
+	content: "\e80e"
+}
+
+.linearicons-lock:before {
+	content: "\e80f"
+}
+
+.linearicons-cog:before {
+	content: "\e810"
+}
+
+.linearicons-trash:before {
+	content: "\e811"
+}
+
+.linearicons-dice:before {
+	content: "\e812"
+}
+
+.linearicons-heart:before {
+	content: "\e813"
+}
+
+.linearicons-star:before {
+	content: "\e814"
+}
+
+.linearicons-star-half:before {
+	content: "\e815"
+}
+
+.linearicons-star-empty:before {
+	content: "\e816"
+}
+
+.linearicons-flag:before {
+	content: "\e817"
+}
+
+.linearicons-envelope:before {
+	content: "\e818"
+}
+
+.linearicons-paperclip:before {
+	content: "\e819"
+}
+
+.linearicons-inbox:before {
+	content: "\e81a"
+}
+
+.linearicons-eye:before {
+	content: "\e81b"
+}
+
+.linearicons-printer:before {
+	content: "\e81c"
+}
+
+.linearicons-file-empty:before {
+	content: "\e81d"
+}
+
+.linearicons-file-add:before {
+	content: "\e81e"
+}
+
+.linearicons-enter:before {
+	content: "\e81f"
+}
+
+.linearicons-exit:before {
+	content: "\e820"
+}
+
+.linearicons-graduation-hat:before {
+	content: "\e821"
+}
+
+.linearicons-license:before {
+	content: "\e822"
+}
+
+.linearicons-music-note:before {
+	content: "\e823"
+}
+
+.linearicons-film-play:before {
+	content: "\e824"
+}
+
+.linearicons-camera-video:before {
+	content: "\e825"
+}
+
+.linearicons-camera:before {
+	content: "\e826"
+}
+
+.linearicons-picture:before {
+	content: "\e827"
+}
+
+.linearicons-book:before {
+	content: "\e828"
+}
+
+.linearicons-bookmark:before {
+	content: "\e829"
+}
+
+.linearicons-user:before {
+	content: "\e82a"
+}
+
+.linearicons-users:before {
+	content: "\e82b"
+}
+
+.linearicons-shirt:before {
+	content: "\e82c"
+}
+
+.linearicons-store:before {
+	content: "\e82d"
+}
+
+.linearicons-cart:before {
+	content: "\e82e"
+}
+
+.linearicons-tag:before {
+	content: "\e82f"
+}
+
+.linearicons-phone-handset:before {
+	content: "\e830"
+}
+
+.linearicons-phone:before {
+	content: "\e831"
+}
+
+.linearicons-pushpin:before {
+	content: "\e832"
+}
+
+.linearicons-map-marker:before {
+	content: "\e833"
+}
+
+.linearicons-map:before {
+	content: "\e834"
+}
+
+.linearicons-location:before {
+	content: "\e835"
+}
+
+.linearicons-calendar-full:before {
+	content: "\e836"
+}
+
+.linearicons-keyboard:before {
+	content: "\e837"
+}
+
+.linearicons-spell-check:before {
+	content: "\e838"
+}
+
+.linearicons-screen:before {
+	content: "\e839"
+}
+
+.linearicons-smartphone:before {
+	content: "\e83a"
+}
+
+.linearicons-tablet:before {
+	content: "\e83b"
+}
+
+.linearicons-laptop:before {
+	content: "\e83c"
+}
+
+.linearicons-laptop-phone:before {
+	content: "\e83d"
+}
+
+.linearicons-power-switch:before {
+	content: "\e83e"
+}
+
+.linearicons-bubble:before {
+	content: "\e83f"
+}
+
+.linearicons-heart-pulse:before {
+	content: "\e840"
+}
+
+.linearicons-construction:before {
+	content: "\e841"
+}
+
+.linearicons-pie-chart:before {
+	content: "\e842"
+}
+
+.linearicons-chart-bars:before {
+	content: "\e843"
+}
+
+.linearicons-gift:before {
+	content: "\e844"
+}
+
+.linearicons-diamond:before {
+	content: "\e845"
+}
+
+.linearicons-linearicons:before {
+	content: "\e846"
+}
+
+.linearicons-dinner:before {
+	content: "\e847"
+}
+
+.linearicons-coffee-cup:before {
+	content: "\e848"
+}
+
+.linearicons-leaf:before {
+	content: "\e849"
+}
+
+.linearicons-paw:before {
+	content: "\e84a"
+}
+
+.linearicons-rocket:before {
+	content: "\e84b"
+}
+
+.linearicons-briefcase:before {
+	content: "\e84c"
+}
+
+.linearicons-bus:before {
+	content: "\e84d"
+}
+
+.linearicons-car:before {
+	content: "\e84e"
+}
+
+.linearicons-train:before {
+	content: "\e84f"
+}
+
+.linearicons-bicycle:before {
+	content: "\e850"
+}
+
+.linearicons-wheelchair:before {
+	content: "\e851"
+}
+
+.linearicons-select:before {
+	content: "\e852"
+}
+
+.linearicons-earth:before {
+	content: "\e853"
+}
+
+.linearicons-smile:before {
+	content: "\e854"
+}
+
+.linearicons-sad:before {
+	content: "\e855"
+}
+
+.linearicons-neutral:before {
+	content: "\e856"
+}
+
+.linearicons-mustache:before {
+	content: "\e857"
+}
+
+.linearicons-alarm:before {
+	content: "\e858"
+}
+
+.linearicons-bullhorn:before {
+	content: "\e859"
+}
+
+.linearicons-volume-high:before {
+	content: "\e85a"
+}
+
+.linearicons-volume-medium:before {
+	content: "\e85b"
+}
+
+.linearicons-volume-low:before {
+	content: "\e85c"
+}
+
+.linearicons-volume:before {
+	content: "\e85d"
+}
+
+.linearicons-mic:before {
+	content: "\e85e"
+}
+
+.linearicons-hourglass:before {
+	content: "\e85f"
+}
+
+.linearicons-undo:before {
+	content: "\e860"
+}
+
+.linearicons-redo:before {
+	content: "\e861"
+}
+
+.linearicons-sync:before {
+	content: "\e862"
+}
+
+.linearicons-history:before {
+	content: "\e863"
+}
+
+.linearicons-clock:before {
+	content: "\e864"
+}
+
+.linearicons-download:before {
+	content: "\e865"
+}
+
+.linearicons-upload:before {
+	content: "\e866"
+}
+
+.linearicons-enter-down:before {
+	content: "\e867"
+}
+
+.linearicons-exit-up:before {
+	content: "\e868"
+}
+
+.linearicons-bug:before {
+	content: "\e869"
+}
+
+.linearicons-code:before {
+	content: "\e86a"
+}
+
+.linearicons-link:before {
+	content: "\e86b"
+}
+
+.linearicons-unlink:before {
+	content: "\e86c"
+}
+
+.linearicons-thumbs-up:before {
+	content: "\e86d"
+}
+
+.linearicons-thumbs-down:before {
+	content: "\e86e"
+}
+
+.linearicons-magnifier:before {
+	content: "\e86f"
+}
+
+.linearicons-cross:before {
+	content: "\e870"
+}
+
+.linearicons-menu:before {
+	content: "\e871"
+}
+
+.linearicons-list:before {
+	content: "\e872"
+}
+
+.linearicons-chevron-up:before {
+	content: "\e873"
+}
+
+.linearicons-chevron-down:before {
+	content: "\e874"
+}
+
+.linearicons-chevron-left:before {
+	content: "\e875"
+}
+
+.linearicons-chevron-right:before {
+	content: "\e876"
+}
+
+.linearicons-arrow-up:before {
+	content: "\e877"
+}
+
+.linearicons-arrow-down:before {
+	content: "\e878"
+}
+
+.linearicons-arrow-left:before {
+	content: "\e879"
+}
+
+.linearicons-arrow-right:before {
+	content: "\e87a"
+}
+
+.linearicons-move:before {
+	content: "\e87b"
+}
+
+.linearicons-warning:before {
+	content: "\e87c"
+}
+
+.linearicons-question-circle:before {
+	content: "\e87d"
+}
+
+.linearicons-menu-circle:before {
+	content: "\e87e"
+}
+
+.linearicons-checkmark-circle:before {
+	content: "\e87f"
+}
+
+.linearicons-cross-circle:before {
+	content: "\e880"
+}
+
+.linearicons-plus-circle:before {
+	content: "\e881"
+}
+
+.linearicons-circle-minus:before {
+	content: "\e882"
+}
+
+.linearicons-arrow-up-circle:before {
+	content: "\e883"
+}
+
+.linearicons-arrow-down-circle:before {
+	content: "\e884"
+}
+
+.linearicons-arrow-left-circle:before {
+	content: "\e885"
+}
+
+.linearicons-arrow-right-circle:before {
+	content: "\e886"
+}
+
+.linearicons-chevron-up-circle:before {
+	content: "\e887"
+}
+
+.linearicons-chevron-down-circle:before {
+	content: "\e888"
+}
+
+.linearicons-chevron-left-circle:before {
+	content: "\e889"
+}
+
+.linearicons-chevron-right-circle:before {
+	content: "\e88a"
+}
+
+.linearicons-crop:before {
+	content: "\e88b"
+}
+
+.linearicons-frame-expand:before {
+	content: "\e88c"
+}
+
+.linearicons-frame-contract:before {
+	content: "\e88d"
+}
+
+.linearicons-layers:before {
+	content: "\e88e"
+}
+
+.linearicons-funnel:before {
+	content: "\e88f"
+}
+
+.linearicons-text-format:before {
+	content: "\e890"
+}
+
+.linearicons-text-format-remove:before {
+	content: "\e891"
+}
+
+.linearicons-text-size:before {
+	content: "\e892"
+}
+
+.linearicons-bold:before {
+	content: "\e893"
+}
+
+.linearicons-italic:before {
+	content: "\e894"
+}
+
+.linearicons-underline:before {
+	content: "\e895"
+}
+
+.linearicons-strikethrough:before {
+	content: "\e896"
+}
+
+.linearicons-highlight:before {
+	content: "\e897"
+}
+
+.linearicons-text-align-left:before {
+	content: "\e898"
+}
+
+.linearicons-text-align-center:before {
+	content: "\e899"
+}
+
+.linearicons-text-align-right:before {
+	content: "\e89a"
+}
+
+.linearicons-text-align-justify:before {
+	content: "\e89b"
+}
+
+.linearicons-line-spacing:before {
+	content: "\e89c"
+}
+
+.linearicons-indent-increase:before {
+	content: "\e89d"
+}
+
+.linearicons-indent-decrease:before {
+	content: "\e89e"
+}
+
+.linearicons-pilcrow:before {
+	content: "\e89f"
+}
+
+.linearicons-direction-ltr:before {
+	content: "\e8a0"
+}
+
+.linearicons-direction-rtl:before {
+	content: "\e8a1"
+}
+
+.linearicons-page-break:before {
+	content: "\e8a2"
+}
+
+.linearicons-sort-alpha-asc:before {
+	content: "\e8a3"
+}
+
+.linearicons-sort-amount-asc:before {
+	content: "\e8a4"
+}
+
+.linearicons-hand:before {
+	content: "\e8a5"
+}
+
+.linearicons-pointer-up:before {
+	content: "\e8a6"
+}
+
+.linearicons-pointer-right:before {
+	content: "\e8a7"
+}
+
+.linearicons-pointer-down:before {
+	content: "\e8a8"
+}
+
+.linearicons-pointer-left:before {
+	content: "\e8a9"
+}

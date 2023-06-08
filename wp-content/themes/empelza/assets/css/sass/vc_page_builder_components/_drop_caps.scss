@@ -1,0 +1,17 @@
+.fl-drop-caps-wrapper-vc{
+	.first-letter{
+		float: left;
+		font-size: 40px;
+		color: #ffffff;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		padding: 15px 25px;
+		line-height: 1;
+		margin-bottom: 14px;
+		margin-right: 20px;
+	}
+	p+p{
+		margin-top: 5px;
+	}
+}

@@ -1,0 +1,68 @@
+#fl-page--preloader {
+  padding: 0 15px;
+  z-index: 1999;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; }
+  #fl-page--preloader .save_loader_bugs {
+    display: none; }
+  #fl-page--preloader .fl-top-progress {
+    position: absolute;
+    width: 100%;
+    top: 0; }
+    #fl-page--preloader .fl-top-progress .fl-loader_right {
+      opacity: 0.8;
+      position: absolute;
+      right: 100%;
+      z-index: 999;
+      height: 7px;
+      display: inline-block;
+      left: 50%;
+      width: 0;
+      transition: all 1000ms cubic-bezier(0.745, 0.12, 0.32, 1.275); }
+    #fl-page--preloader .fl-top-progress .fl-loader_left {
+      opacity: 0.8;
+      position: absolute;
+      z-index: 999;
+      height: 7px;
+      display: inline-block;
+      right: 50%;
+      width: 0;
+      transition: all 1000ms cubic-bezier(0.745, 0.12, 0.32, 1.275); }
+  #fl-page--preloader .fl--preloader-progress-bar {
+    height: 8px;
+    max-width: 650px;
+    padding: 3px 0;
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #eee; }
+    #fl-page--preloader .fl--preloader-progress-bar span {
+      float: left;
+      width: 0;
+      height: 100%;
+      display: inline-block; }
+  #fl-page--preloader .fl-preloader--text-percent {
+    margin-top: 45px;
+    font-size: 23px; }
+  #fl-page--preloader.fl-preloader-close {
+    transform: translateY(-1000%);
+    opacity: 0;
+    transition: opacity 0s ease-in ,transform 0s ease-in;
+    display: none; }
+  #fl-page--preloader .fl-top-background-preloader {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 50%; }
+  #fl-page--preloader .fl-bottom-background-preloader {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50%; }
+
+/*# sourceMappingURL=page-preloader.css.map */

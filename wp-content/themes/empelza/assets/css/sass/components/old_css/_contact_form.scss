@@ -1,0 +1,43 @@
+// Dealer Form
+.fl-dealer-form{
+  .input-form-wrapper{
+    label{
+      margin-bottom: 7px;
+      font-size: 12px;
+    }
+    input{
+      &:hover,&:focus,&:active{
+        box-shadow: 0 8px 22px 0 rgba(0,0,0,.1)!important;
+        transition: .3s ease;
+        border-color: transparent!important;
+        background: #fff!important;
+      }
+    }
+  }
+  .textarea-form-wrapper{
+    label{
+      margin-bottom: 7px;
+      font-size: 12px;
+    }
+    textarea{
+      max-height: 120px;
+      &:hover,&:focus,&:active{
+        border-color: transparent!important;
+        box-shadow: 0 8px 22px 0 rgba(0,0,0,.1)!important;
+        transition: .3s ease;
+        background: #fff!important;
+      }
+    }
+  }
+  .submit-btn-container{
+    >div{
+      display: inline-block;
+      width: 100%;
+      button{
+        width: 100%;
+        color: #fff;
+        text-align: center;
+      }
+    }
+  }
+}

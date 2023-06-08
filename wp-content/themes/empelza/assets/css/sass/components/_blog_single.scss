@@ -1,0 +1,90 @@
+.single-post-wrapper{
+  &.right-sidebar{
+    padding-right: 30px;
+  }
+  &.left-sidebar{
+    padding-left: 30px;
+  }
+  .post{
+    .post--title{
+      margin-bottom: 10px;
+    }
+    .post-top-info{
+      color: #222222;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      font-size: 14px;
+      i{
+        margin-right: 10px;
+        font-size: 16px;
+        top: -2px;
+        position: relative;
+      }
+      .post-date-content{
+        display: inline-flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-right: 20px;
+      }
+      .author-post-content{
+        display: inline-flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-right: 20px;
+        .author-prefix{
+          margin-right: 5px;
+        }
+      }
+      .post-info-category{
+        display: inline-flex;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-right: 20px;
+        .category-post{
+          display: inline-block;
+        }
+      }
+      .post-like-wrap{
+        display: inline-flex;
+        flex-wrap: wrap;
+        align-items: center;
+        a{
+          display: flex;
+        }
+      }
+    }
+    .post--holder{
+      margin-bottom: 35px;
+    }
+  }
+  a{
+    color: inherit;
+    transition: .3s ease;
+    &:hover{
+      transition: .3s ease;
+    }
+  }
+  .post-inner_content{
+    margin-top: 35px;
+  }
+}
+
+.post-tags-content{
+  margin-top: 50px;
+  padding: 30px;
+  text-align: center;
+  i{
+    margin-right: 3px;
+  }
+  .tags-content-text{
+    color: #222222;
+    margin-right: 5px;
+  }
+}
+
+.single-post-wrapper{
+  .post--holder{
+    margin-top: 25px;
+  }
+}

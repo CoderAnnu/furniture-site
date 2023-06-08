@@ -1,0 +1,83 @@
+.fl-page-heading{
+  min-height: 500px;
+  background: #1f1f1f;
+  position: relative;
+  overflow: hidden;
+  flex-wrap: wrap;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  z-index: 5;
+  .content_header{
+    z-index: 4;
+  }
+  .decor-image{
+    z-index: 3;
+    position: absolute;
+    background-position: center!important;
+    background-repeat: no-repeat!important;
+    background-size: contain!important;
+  }
+  .jarallax-img {
+    position: absolute;
+    object-fit: cover;
+    font-family: 'object-fit: cover;';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  .header--bg-shadow{
+    top: 0;
+    position: absolute;
+    height: 220px;
+    width: 100%;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 0%, #000000 100%);
+    opacity: .6;
+    z-index: 2;
+  }
+  .header-mask-bg{
+    height: 100%;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    opacity: .88;
+    z-index: 2;
+    &.blue-gradient-style{
+      opacity: .8;
+    }
+    &.purple-style{
+      opacity: .8;
+    }
+  }
+  .fl--page-header{
+    margin-top: 50px;
+    text-align: center;
+    .fl-pre--title-wrapper{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+      .fl--sub-title{
+        line-height: 1;
+        padding: 8px 22px;
+        border-radius: 12.5px;
+        background: #0A246A;
+        font-size: 12px;
+        text-transform: uppercase;
+      }
+    }
+    .header-title{
+      color: #fff;
+      margin-bottom: 10px;
+    }
+    .header-description-content{
+      color: #fff;
+      margin-top: 12px;
+      font-size: 24px;
+      line-height: 36px;
+    }
+  }
+}

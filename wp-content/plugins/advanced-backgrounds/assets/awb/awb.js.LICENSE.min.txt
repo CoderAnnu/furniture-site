@@ -1,0 +1,4 @@
+/*!
+ * Name    : Advanced WordPress Backgrounds
+ * Author  : nK https://nkdev.info
+ */

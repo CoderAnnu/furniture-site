@@ -1,0 +1,12 @@
+.fl-button-wrapper-vc{
+	display: flex;
+	&.text-center{
+		justify-content: center;
+	}
+	&.text-right{
+		justify-content: flex-end;
+	}
+	&.inline-display{
+		display: inline-flex;
+	}
+}

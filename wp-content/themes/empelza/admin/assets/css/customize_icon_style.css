@@ -1,0 +1,58 @@
+/**
+ * Customizer Icon
+ */
+
+
+
+#accordion-section-title_tagline .accordion-section-title:before{
+    font: normal normal normal 14px/1 FontAwesome;
+    vertical-align: baseline;
+    width: 25px;
+    text-align: left;
+    content: "\f015";
+    display: inline-block;
+}
+
+#accordion-panel-nav_menus .accordion-section-title:before{
+    font: normal normal normal 14px/1 FontAwesome;
+    vertical-align: baseline;
+    width: 25px;
+    text-align: left;
+    content: "\f0c9";
+    display: inline-block;
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    font: normal normal normal 14px/1 FontAwesome;
+    vertical-align: baseline;
+    width: 25px;
+    text-align: left;
+    content: "\f00b";
+    display: inline-block;
+}
+
+#accordion-section-static_front_page .accordion-section-title:before{
+    font: normal normal normal 14px/1 FontAwesome;
+    vertical-align: baseline;
+    width: 25px;
+    text-align: left;
+    content: "\f0ac";
+    display: inline-block;
+}
+#accordion-panel-woocommerce .accordion-section-title:before{
+    font: normal normal normal 14px/1 FontAwesome;
+    vertical-align: baseline;
+    width: 25px;
+    text-align: left;
+    content: "\f291";
+    display: inline-block;
+}
+
+#accordion-section-custom_css .accordion-section-title:before{
+    font: normal normal normal 14px/1 FontAwesome;
+    vertical-align: baseline;
+    width: 25px;
+    text-align: left;
+    content: "\f121";
+    display: inline-block;
+}
