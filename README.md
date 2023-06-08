@@ -1,8 +1,7 @@
 
 # Furniture-Site
 This is Furniture website based on word press (i have add some custom features in this theme )
-=======
-=======
+
 # Furniture Website  
 # Furniture Website  
 
