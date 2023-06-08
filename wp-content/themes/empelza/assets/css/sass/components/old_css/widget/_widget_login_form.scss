@@ -1,0 +1,53 @@
+.fl_login_form_widget{
+	.login-user{
+		margin-bottom: 10px;
+	}
+	.logout-btn-wrapper{
+		display: inline-block;
+		overflow: hidden;
+		.logout-btn{
+			padding: 7px 15px;
+			color: #fff;
+			font-size: 11px;
+			text-transform: uppercase;
+		}
+	}
+	.login-in{
+		min-width: auto;
+		margin-bottom: 0!important;
+		 form{
+			 input{
+				 &:hover{
+					 box-shadow: 0 8px 22px 0 rgba(0,0,0,.1)!important;
+					 transition: .3s ease;
+					 border-color: transparent!important;
+					 background: #fff!important;
+				 }
+			 }
+		 }
+	}
+	.fl-login-form-entry{
+		.login_form_title{
+			display: none;
+		}
+	}
+	.remember--lost-password-wrapper{
+		flex-wrap: wrap;
+		margin-bottom: 0;
+		.remember-login-checkbox-label{
+			visibility: hidden;
+			opacity: 0;
+		}
+		.lost-password-link{
+			width: 100%;
+			text-align: right;
+			margin-top: -24px;
+			&:hover{
+				color: #222222;
+			}
+			&:before{
+				display: none;
+			}
+		}
+	}
+}

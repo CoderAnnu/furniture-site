@@ -1,0 +1,33 @@
+.widget_fl_theme_helper_about_us{
+  text-align: center;
+  .about-image{
+    margin-bottom: 40px;
+  }
+  .fl-author-title{
+    font-size: 17px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  .fl-about-social-link{
+    line-height: 1;
+    li{
+      margin: 0 7px;
+      display: inline-block;
+      i{
+        font-size: 14px;
+      }
+      a{
+        transition: .3s ease;
+        color: rgba(102,102,102,.5);
+        &:hover{
+          transition: .3s ease;
+        }
+      }
+    }
+  }
+  .text{
+    margin-top: 20px;
+    font-size: 15px;
+  }
+
+}

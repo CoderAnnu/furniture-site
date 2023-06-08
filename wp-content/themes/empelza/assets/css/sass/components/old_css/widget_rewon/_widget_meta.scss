@@ -1,0 +1,15 @@
+.widget_meta {
+  ul {
+	padding: 35px;
+	background: #fff;
+	li {
+	  padding-bottom: 13px;
+	  a {
+	  }
+	  &:last-child {
+		padding-bottom: 0;
+	  }
+	}
+  }
+
+}

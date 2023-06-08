@@ -1,0 +1,218 @@
+footer{
+  background-position: center top!important;
+  background-size: cover!important;
+  &.fl--footer{
+    position: relative;
+    .footer__decor{
+      height: 47px;
+      clip-path: polygon(0 0, 100% 0, 94% 100%, 0 0);
+      position: absolute;
+      top: 0;
+      right: 84px;
+      left: 84px;
+      display: block;
+      background-color: #fff;
+    }
+    .footer__figure{
+      max-width: 22vw;
+      position: absolute;
+      z-index: 2;
+      top: -130px;
+      left: 0;
+    }
+    .top-content-footer{
+      padding: 160px 0 80px;
+    }
+
+    .bottom-content-footer{
+      border-top: 1px solid rgba(221, 221, 221,.1);
+      .fl-copyright--inner{
+        color: #999999;
+        padding: 35px 0 40px;
+      }
+    }
+
+  }
+}
+
+
+.footer-widget-area{
+  color: #999999;
+  padding-top: 10px;
+  &:first-child{
+    padding-top: 0;
+  }
+  .widget{
+    margin-top: 30px;
+    &:first-child{
+      margin-top: 0;
+    }
+    .widget--title{
+      font-size: 18px;
+      color: #fff;
+      margin-bottom: 30px;
+    }
+  }
+  // Decore Widget
+  .decor-widget{
+    .decor{
+      display: block;
+      height: 1px;
+      background: rgba(221, 221, 221,.1);
+    }
+  }
+  // Social Widget
+  .social-widget{
+    ul{
+      li{
+        display: inline-block;
+        a{
+          color: #fff;
+          font-size: 16px;
+          padding: 0 15px;
+            transition: .3s ease;
+          &:hover{
+            transition: .3s ease;
+          }
+
+        }
+        &:first-child{
+          a{
+            padding-left: 0;
+          }
+        }
+        &:last-child{
+          a{
+            padding-right: 0;
+          }
+        }
+      }
+    }
+  }
+  // Dealer info
+  .dealer-info-widget{
+    .hours--title{
+      color: #fff;
+    }
+  }
+  // Nav Menu
+  .widget_nav_menu{
+    ul{
+      li{
+        position: relative;
+        line-height: 1;
+        padding-top: 20px;
+        padding-left: 20px;
+        &:first-child{
+          padding-top: 0;
+        }
+        &:before{
+          transition: .3s ease;
+          position: absolute;
+          left: 0;
+          content: "\f105";
+          font: normal normal normal 14px/1 FontAwesome;
+        }
+        a{
+          display: block;
+          color: #999999;
+          transition: .3s ease;
+        }
+        &:hover{
+          a{
+            transition: .3s ease;
+          }
+          &:before{
+            transition: .3s ease;
+          }
+        }
+      }
+    }
+  }
+  // Footer Info
+  .footer-info-widget{
+    .address-info,.email-info,.contact-info{
+      line-height: 1;
+      margin-bottom: 15px;
+      display: flex;
+      align-items: center;
+    }
+    i{
+      margin-right: 10px;
+      color: #fff;
+      font-size: 14px;
+    }
+    a{
+      color: inherit;
+      transition: .3s ease;
+      &:hover{
+        transition: .3s ease;
+      }
+    }
+    .contact-info{
+      margin-bottom: 0;
+      a{
+        margin-left: 3px;
+        color: #fff;
+      }
+    }
+  }
+  // Subscribe
+  .widget_mc4wp_form_widget{
+    .widget--title{
+      margin-bottom: 20px;
+    }
+    .autlines-mailchimp-form{
+      position: relative;
+      .mailchimp-submit{
+        position: absolute;
+        right: 0;
+        top: 0;
+        padding: 0;
+        height: 100%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 40px;
+        font-size: 16px;
+        transition: .3s ease;
+        &:hover{
+          transition: .3s ease;
+        }
+      }
+      input{
+        font-size: 11px;
+        color: #999999;
+        text-transform: uppercase;
+        padding-right: 40px;
+        margin-bottom: 0;
+        &::placeholder{
+          color: inherit;
+        }
+      }
+    }
+  }
+  // Button Widget
+  .button_widget{
+    .widget-btn-wrapper{
+      display: inline-flex;
+      a{
+        line-height: 1;
+        overflow: hidden;
+        font-size: 13px;
+        text-transform: uppercase;
+        padding: 20px 30px;
+        border: 1px solid #999999;
+        color: #fff;
+        transition: .3s ease;
+        &:after{
+          background: #fff;
+        }
+        &:hover{
+          transition: .3s ease;
+
+        }
+      }
+    }
+  }
+}

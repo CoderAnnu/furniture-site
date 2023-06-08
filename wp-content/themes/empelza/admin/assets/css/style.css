@@ -1,0 +1,303 @@
+
+
+/**
+ * Customizer
+ */
+/*
+Save Icon Class for icon picker
+ */
+.dashicons-dashboard-icon,
+.dashboard-icon {
+    background-image: url(../images/dashboard-icon.png)!important;
+    background-size: 50%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.fip-grey.icons-selector .selected-icon i.fa,
+.fip-box i.fa{
+    font: 15px/1 FontAwesome!important;
+}
+
+.fip-grey.icons-selector .selected-icon i.disable,
+.fip-box i.disable:before{
+  font-family: iconpicker!important;
+  font-style: normal!important;
+}
+
+
+
+#customize-theme-controls .accordion-section-title .fa {
+    width: 20px;
+    text-align: left;
+}
+/* Hide icons on panels */
+#customize-theme-controls .control-subsection > .accordion-section-title .fa,
+#customize-controls .control-section .customize-section-title h3 .fa {
+    display: none;
+}
+/* Additional margin for controls and border */
+.customize-control {
+    margin-bottom: 15px;
+}
+.customize-control:after {
+    content: '';
+    display: block;
+    margin-top: 15px;
+    margin-left: -12px;
+    margin-right: -12px;
+    border-bottom: 1px solid #dedede;
+}
+#customize-theme-controls .fa.dashicons,
+#customize-theme-controls .fa.dashicons-before {
+    display: block;
+    font: inherit;
+    font-size: 14px;
+    font-weight: 600;
+}
+#customize-theme-controls .fa.dashicons:before,
+#customize-theme-controls .fa.dashicons-before:before {
+    font: normal normal normal 14px/1 FontAwesome;
+    vertical-align: baseline;
+    width: 25px;
+    text-align: left;
+}
+
+
+/* Theme Information */
+/*-------------------------------------------------------------------
+
+Clearfix
+
+-------------------------------------------------------------------*/
+
+.cf:before,.clearfix:before,
+.cf:after,.clearfix:after {
+    content: "";
+    display: table;
+}
+.cf:after,.clearfix:after {
+    clear: both;
+}
+.clear {
+    clear: both;
+}
+
+.wrap h1.theme_name{
+    margin: .2em 200px 0 0;
+    padding: 0;
+    color: #32373c;
+    line-height: 1.2em;
+    font-size: 2.3em;
+    font-weight: 600;
+}
+.wrap h1.theme_name .small_version_sup{
+    background: #fff;
+    padding: 5px;
+    color: #303030;
+    line-height: 1.2em;
+    font-size: 11px;
+    font-weight: 700;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.welcome_information p{
+    font-size: 14px;
+    margin: .2em 0 60px 0;
+}
+
+.fl-dashboard-widget{
+    background: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    width: 22.33%;
+    margin-right: 1.5%;
+}
+
+.fl-dashboard-information-widget-support{
+    background: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    display: block;
+    float: left;
+    box-sizing: border-box;
+    width: 21.33%;
+}
+.fl-dashboard-widget-title{
+    padding: 10px 20px 10px 20px;
+    background: #e0e0e0;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.fl-dashboard-widget-title mark{
+    background: transparent;
+    color: #303030;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.fl-dashboard-widget-content{
+    padding: 5px 20px 20px 20px;
+}
+
+.fl-drop-cont{
+    display: none;
+    position: absolute;
+    border-bottom: 5px solid transparent;
+    bottom: 106%;
+    left: -10px;
+    right: 0;
+    width: 310px;
+    z-index: 99;
+    color: #fff;
+}
+
+.fl-drop-cont .drop-info{
+    display: block;
+    background: #303030;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 400;
+}
+.fl-drop-cont .drop-info:after{
+    position: absolute;
+    content: "";
+    bottom: -16px;
+    left: 15%;
+    margin-bottom: 7px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10.3px 8px 0 8px;
+    border-color: #303030 transparent transparent transparent;
+    z-index: 99;
+}
+
+
+
+
+mark.fl-drop{
+    position: relative;
+    cursor: pointer;
+}
+
+mark.fl-drop:hover .fl-drop-cont{
+    display: block;
+}
+mark.yes{
+    background: transparent;
+    color: #579a33;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+mark.yes.no_problem{
+    font-size: 14px;
+}
+mark.error.fl-drop.some_problem{
+    font-size: 14px;
+    font-weight: 500;
+}
+mark.error.fl-drop.some_problem small{
+    color: #000000;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+mark.child-theme{
+    font-size: 14px;
+    background: transparent;
+}
+
+mark.yes i{
+    margin-right: 10px;
+}
+mark.error i{
+    margin-right: 10px;
+}
+mark.fl-drop i{
+    margin-right: 10px;
+}
+mark.error{
+    font-size: 1.2em;
+    background: transparent;
+    color: #b53b57;
+    font-weight: 600;
+}
+
+table.widefat{
+    border: none;
+    box-shadow:none;
+}
+
+.fl-dashboard-widget-title-badge.error{
+    float: right;
+    background: #b53b57;
+    color: #fff;
+    padding: 1px 8px 2px 8px;
+    position: relative;
+    bottom: 4px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.fl-dashboard-widget-title-badge.yes{
+    float: right;
+    background: #579a33;
+    color: #fff;
+    padding: 1px 8px 2px 8px;
+    position: relative;
+    bottom: 4px;
+    line-height: 24px;
+    font-weight: 400;
+}
+.fl-dashboard-widget-title-badge.yes i{
+    margin-right: 3px;
+}
+
+.widget img{
+ max-width: 100%;
+}
+
+.acf-postbox:before{
+    content: "";
+    display: table;
+}
+.acf-postbox:after{
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.acf-postbox{
+    margin-bottom: 20px!important;
+}
+/* menu*/
+
+
+.menu-item-edit-active .menu-item-settings:before,.menu-item-edit-active .menu-item-settings:after {
+    content: "";
+    display: table;
+}
+.menu-item-edit-active .menu-item-settings:after {
+    clear: both;
+}
+
+/* Grey Theme file for fontIconPicker {@link https://github.com/micc83/fontIconPicker} */
+.fip-grey.icons-selector{font-size:16px}.fip-grey.icons-selector .selector{border:1px solid #EDEDED;background-color:#fff}.fip-grey.icons-selector .selector-button{background-color:#F4F4F4;border-left:1px solid #E1E1E1}.fip-grey.icons-selector .selector-button:hover{background-color:#f1f1f1}.fip-grey.icons-selector .selector-button:hover i{color:#999}.fip-grey.icons-selector .selector-button i{color:#aaa;text-shadow:0 1px 0 #FFF}.fip-grey.icons-selector .selected-icon i{color:#404040}.fip-grey.icons-selector .selector-popup{-moz-box-shadow:0 1px 1px rgba(0,0,0,.04);-webkit-box-shadow:0 1px 1px rgba(0,0,0,.04);box-shadow:0 1px 1px rgba(0,0,0,.04);border:1px solid #E5E5E5}.fip-grey.icons-selector .selector-category select,.fip-grey.icons-selector .selector-search input[type=text]{border:1px solid #EDEDED;color:#404040;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;outline:0}.fip-grey.icons-selector input::-webkit-input-placeholder{color:#ddd}.fip-grey.icons-selector input:-moz-placeholder{color:#ddd}.fip-grey.icons-selector input::-moz-placeholder{color:#ddd}.fip-grey.icons-selector input:-ms-input-placeholder{color:#ddd!important}.fip-grey.icons-selector .selector-search i{color:#eee}.fip-grey.icons-selector .fip-icons-container{background-color:#fff;border:1px solid #EDEDED}.fip-grey.icons-selector .fip-icons-container .loading{color:#eee}.fip-grey.icons-selector .fip-box{border:1px solid #EFEFEF}.fip-grey.icons-selector .fip-box:hover{background-color:#f6f6f6}.fip-grey.icons-selector .selector-footer,.fip-grey.icons-selector .selector-footer i{color:#ddd}.fip-grey.icons-selector .selector-arrows i:hover{color:#777}.fip-grey.icons-selector span.current-icon,.fip-grey.icons-selector span.current-icon:hover{background-color:#2EA2CC;color:#fff;border:1px solid #298CBA}.fip-grey.icons-selector .icons-picker-error i:before{color:#eee}
+
+
+
+.nav-menus-php .item-edit{
+    visibility: hidden;
+}
+
+.nav-menus-php .item-edit:before{
+    visibility: visible;
+}
+
+
+#tgmpa-plugins .tgmpa-type-required > th {
+    border-left: 3px solid #dc3232;
+}

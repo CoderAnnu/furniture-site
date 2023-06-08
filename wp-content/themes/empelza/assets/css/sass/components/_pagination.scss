@@ -1,0 +1,115 @@
+.pagination{
+  margin-top: 60px;
+}
+.fl-default-pagination{
+  flex-wrap: wrap;
+  margin-top: 50px;
+  .page-numbers{
+    margin-top: 10px;
+    overflow: hidden;
+    height: 50px;
+    width: 50px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    margin-right: 10px;
+    position: relative;
+    color: #666666;
+    i{
+      font-size: 12px;
+    }
+    a{
+      color: inherit;
+      transition: .6s ease;
+    }
+    &:after{
+      content: "";
+      display: block;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      width: 140%;
+      left: -20%;
+      z-index: -1;
+      transform-origin: right;
+      transform: skew(-15deg) scaleX(0);
+      transition: transform .6s ease, -webkit-transform .6s ease;
+    }
+    &:before{
+      content: "";
+      display: block;
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -2;
+    }
+    &:hover,&.current{
+      color: #ffffff;
+      a{
+        transition: .6s ease;
+      }
+      &:after{
+        transform-origin: left;
+        transform: skew(-15deg) scaleX(1);
+      }
+    }
+  }
+}
+
+// Inner Pagination
+.post-inner-pagination,.page-inner-pagination{
+  margin-bottom: 0;
+  margin-top: 25px;
+  .pagination-text{
+    color: #222222;
+    margin-right: 6px;
+    font-weight: 500;
+
+  }
+  .post-page-numbers{
+    overflow: hidden;
+    height: 40px;
+    width: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    margin-right: 10px;
+    position: relative;
+    color: #666666;
+    font-weight: 500;
+    &:before{
+      content: "";
+      display: block;
+      width: 100%;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: -2;
+    }
+    &:after{
+      content: "";
+      display: block;
+      height: 100%;
+      position: absolute;
+      top: 0;
+      width: 140%;
+      left: -20%;
+      z-index: -1;
+      transform-origin: right;
+      transform: skew(-15deg) scaleX(0);
+      transition: transform .6s ease, -webkit-transform .6s ease;
+    }
+    &.current,&:hover{
+      color: #fff;
+      &:after{
+        transform-origin: left;
+        transform: skew(-15deg) scaleX(1);
+      }
+    }
+  }
+}

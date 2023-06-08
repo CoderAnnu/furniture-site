@@ -1,0 +1,19 @@
+.fl-video-btn-wrapper-vc{
+	display: flex;
+	align-items: center;
+	&.text-center{
+		justify-content: center;
+	}
+	&.text-right{
+		justify-content: flex-end;
+	}
+	&.inline-display{
+		display: inline-flex;
+		align-items: center;
+	}
+	.video-btn-text{
+		font-size: 14px;
+		color: #fff;
+		margin-left: 7px;
+	}
+}

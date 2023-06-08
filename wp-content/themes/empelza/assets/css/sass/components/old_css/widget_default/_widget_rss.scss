@@ -1,0 +1,51 @@
+.widget_rss {
+  .rsswidget img {
+	display: none;
+  }
+  ul{
+	li {
+	  padding-bottom: 15px;
+	  &:last-child {
+		padding-bottom: 0;
+	  }
+	  .rsswidget {
+		color: #222222;
+		display:block;
+		margin-bottom: 5px;
+		transition: .3s ease;
+		  &:hover{
+			  transition: .3s ease;
+		  }
+
+	  }
+	  .rss-date {
+		display:block;
+		margin-bottom: 5px;
+		color: #7b7d7f;
+		font-size: 12px;
+		  &:before{
+			  margin-right: 4px;
+			  content: "\f017";
+			  font: normal normal normal 11px/1 FontAwesome;
+			  position: relative;
+			  top: -1px;
+		  }
+	  }
+	  .rssSummary {
+		margin-bottom: 5px;
+	  }
+	  cite {
+		  font-size: 12px;
+		  text-align: right;
+		position:relative;
+		display:block;
+		font-style: normal;
+		  padding-left: 15px;
+		  color: #222222;
+
+	  }
+	}
+  }
+}
+
+

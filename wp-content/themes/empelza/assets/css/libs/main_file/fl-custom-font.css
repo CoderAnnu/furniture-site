@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'fl-custom-icon-font';
+    src: url('../fonts/fl-custom-icon-font/fl-custom-icon-font.eot?47884587');
+    src: url('../fonts/fl-custom-icon-font/fl-custom-icon-font.eot?47884587#iefix') format('embedded-opentype'),
+    url('../fonts/fl-custom-icon-font/fl-custom-icon-font.woff2?47884587') format('woff2'),
+    url('../fonts/fl-custom-icon-font/fl-custom-icon-font.woff?47884587') format('woff'),
+    url('../fonts/fl-custom-icon-font/fl-custom-icon-font.ttf?47884587') format('truetype'),
+    url('../fonts/fl-custom-icon-font/fl-custom-icon-font.svg?47884587#fl-custom-icon-font') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="fl-custom-icon-"]:before, [class*=" fl-custom-icon-"]:before {
+    font-family: "fl-custom-icon-font";
+    font-style: normal;
+    font-weight: normal;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fl-custom-icon-like:before { content: '\e800'; } /* '' */
+.fl-custom-icon-share:before { content: '\e801'; } /* '' */
+.fl-custom-icon-012-car-black-side-view-pointing-left:before { content: '\e802'; } /* '' */
+.fl-custom-icon-015-car-1:before { content: '\e803'; } /* '' */
+.fl-custom-icon-cancel-1:before { content: '\e804'; } /* '' */
+.fl-custom-icon-magnifying-glass-2:before { content: '\e805'; } /* '' */
+.fl-custom-icon-search-1:before { content: '\e806'; } /* '' */
+.fl-custom-icon-left-quotes-sign-1:before { content: '\e807'; } /* '' */
+.fl-custom-icon-two-quotes:before { content: '\e808'; } /* '' */
+.fl-custom-icon-right-quotes-symbol:before { content: '\e809'; } /* '' */
+.fl-custom-icon-right-quotation-sign:before { content: '\e80a'; } /* '' */
+.fl-custom-icon-left-quotes-sign-3:before { content: '\e80b'; } /* '' */
+.fl-custom-icon-quotes:before { content: '\e80c'; } /* '' */
+.fl-custom-icon-liked-1:before { content: '\e80d'; } /* '' */
+.fl-custom-icon-cancel:before { content: '\e81a'; } /* '' */
+.fl-custom-icon-cancel-2:before { content: '\e81b'; } /* '' */
+.fl-custom-icon-minus-symbol:before { content: '\e81c'; } /* '' */
+.fl-custom-icon-plus-symbol:before { content: '\e81d'; } /* '' */
+.fl-custom-icon-minus-sign-of-a-line-in-horizontal-position:before { content: '\e81e'; } /* '' */
+.fl-custom-icon-plus-sign:before { content: '\e81f'; } /* '' */
+.fl-custom-icon-garbage:before { content: '\e821'; } /* '' */
+.fl-custom-icon-heart-outline-1:before { content: '\e822'; } /* '' */
+.fl-custom-icon-like-2:before { content: '\e823'; } /* '' */
+.fl-custom-icon-magnifying-glass:before { content: '\e824'; } /* '' */
+.fl-custom-icon-list-1:before { content: '\e834'; } /* '' */
+.fl-custom-icon-th-list:before { content: '\e835'; } /* '' */
+.fl-custom-icon-chat-2:before { content: '\e836'; } /* '' */
+.fl-custom-icon-chat-three:before { content: '\e837'; } /* '' */
+.fl-custom-icon-chat-two:before { content: '\e838'; } /* '' */
+.fl-custom-icon-liked:before { content: '\e839'; } /* '' */
+.fl-custom-icon-spinner-circle:before { content: '\e83a'; } /* '' */
+.fl-custom-icon-reload:before { content: '\e83b'; } /* '' */
+.fl-custom-icon-reload-style-two:before { content: '\e83c'; } /* '' */
+.fl-custom-icon-share-1:before { content: '\e83d'; } /* '' */
+.fl-custom-icon-share-symbol:before { content: '\e83e'; } /* '' */
+.fl-custom-icon-share-two:before { content: '\e83f'; } /* '' */
+.fl-custom-icon-sharing-interface:before { content: '\e840'; } /* '' */
+.fl-custom-icon-message:before { content: '\e841'; } /* '' */
+.fl-custom-icon-broken:before { content: '\e842'; } /* '' */
+.fl-custom-icon-spinner:before { content: '\e843'; } /* '' */
+.fl-custom-icon-spinner-of-dots:before { content: '\e844'; } /* '' */
+.fl-custom-icon-slim-left:before { content: '\e845'; } /* '' */
+.fl-custom-icon-slim-right:before { content: '\e846'; } /* '' */
+.fl-custom-icon-heart-outline:before { content: '\e847'; } /* '' */
+.fl-custom-icon-like-1:before { content: '\e848'; } /* '' */
+.fl-custom-icon-left-quotes-sign-2:before { content: '\e84b'; } /* '' */
+.fl-custom-icon-right-quotes-symbol-1:before { content: '\e84c'; } /* '' */
+.fl-custom-icon-two-quotes-1:before { content: '\e84d'; } /* '' */
+.fl-custom-icon-001-car-of-hatchback-model:before { content: '\e852'; } /* '' */
+.fl-custom-icon-002-sedan-car-model:before { content: '\e853'; } /* '' */
+.fl-custom-icon-003-car-city-model:before { content: '\e854'; } /* '' */
+.fl-custom-icon-004-jeep:before { content: '\e855'; } /* '' */
+.fl-custom-icon-005-car:before { content: '\e856'; } /* '' */
+.fl-custom-icon-006-car-suv:before { content: '\e857'; } /* '' */
+.fl-custom-icon-007-minivan-car:before { content: '\e858'; } /* '' */
+.fl-custom-icon-008-coupe-car:before { content: '\e859'; } /* '' */
+.fl-custom-icon-009-sportive-car:before { content: '\e85a'; } /* '' */
+.fl-custom-icon-010-cabrio-car:before { content: '\e85b'; } /* '' */
+.fl-custom-icon-011-pick-up:before { content: '\e85c'; } /* '' */
+.fl-custom-icon-magnifying-glass-1:before { content: '\e85d'; } /* '' */
+.fl-custom-icon-013-timing-belt:before { content: '\e85e'; } /* '' */
+.fl-custom-icon-014-key:before { content: '\e85f'; } /* '' */
+.fl-custom-icon-search:before { content: '\e860'; } /* '' */
+.fl-custom-icon-016-fix-sign:before { content: '\e861'; } /* '' */
+.fl-custom-icon-017-gas:before { content: '\e862'; } /* '' */
+.fl-custom-icon-018-speedometer:before { content: '\e863'; } /* '' */
+.fl-custom-icon-019-fuel-station-pump:before { content: '\e864'; } /* '' */
+.fl-custom-icon-020-gears:before { content: '\e865'; } /* '' */
+.fl-custom-icon-021-gearshift:before { content: '\e866'; } /* '' */
+.fl-custom-icon-022-loan:before { content: '\e867'; } /* '' */
+.fl-custom-icon-023-car-2:before { content: '\e868'; } /* '' */
+.fl-custom-icon-024-car-3:before { content: '\e869'; } /* '' */
+.fl-custom-icon-025-calendar:before { content: '\e86a'; } /* '' */
+.fl-custom-icon-026-phone-call:before { content: '\e86b'; } /* '' */
+.fl-custom-icon-027-car-4:before { content: '\e86c'; } /* '' */
+.fl-custom-icon-028-tyre:before { content: '\e86d'; } /* '' */
+.fl-custom-icon-029-wrench:before { content: '\e86e'; } /* '' */
+.fl-custom-icon-030-car-5:before { content: '\e86f'; } /* '' */
+.fl-custom-icon-031-car-6:before { content: '\e870'; } /* '' */
+.fl-custom-icon-032-car-7:before { content: '\e871'; } /* '' */
+.fl-custom-icon-033-transport:before { content: '\e872'; } /* '' */
+.fl-custom-icon-034-car-8:before { content: '\e873'; } /* '' */
+.fl-custom-icon-035-car-9:before { content: '\e874'; } /* '' */
+.fl-custom-icon-036-car-repair:before { content: '\e875'; } /* '' */
+.fl-custom-icon-call:before { content: '\e876'; } /* '' */
+.fl-custom-icon-cancel-5:before { content: '\ec30'; } /* '' */
+.fl-custom-icon-list-style-2:before { content: '\f13e'; } /* '' */
+.fl-custom-icon-list-style-3:before { content: '\f13f'; } /* '' */
+.fl-custom-icon-list-style-4:before { content: '\f140'; } /* '' */
+.fl-custom-icon-list-style-5:before { content: '\f141'; } /* '' */
+.fl-custom-icon-list-style-6:before { content: '\f143'; } /* '' */

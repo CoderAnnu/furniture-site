@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'quote-font';
+    src: url('../fonts/quote-font.eot?4274339');
+    src: url('../fonts/quote-font.eot?4274339#iefix') format('embedded-opentype'),
+    url('../fonts/quote-font.woff2?4274339') format('woff2'),
+    url('../fonts/quote-font.woff?4274339') format('woff'),
+    url('../fonts/quote-font.ttf?4274339') format('truetype'),
+    url('../fonts/quote-font.svg?4274339#quote-font') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+[class^="fl-quote-"]:before, [class*=" fl-quote-"]:before {
+    font-family: "quote-font";
+    font-style: normal;
+    font-weight: normal;
+    speak: none;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: .2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fl-quote-left-quotes-sign:before { content: '\e84b'; } /* '' */
+.fl-quote-right-quotes-symbol:before { content: '\e84c'; } /* '' */
+.fl-quote-two-quotes:before { content: '\e84d'; } /* '' */
+.fl-quote-quote-1:before { content: '\e86e'; } /* '' */
+.fl-quote-quote-circled:before { content: '\e86f'; } /* '' */
+.fl-quote-quote-left-1:before { content: '\eb7a'; } /* '' */
+.fl-quote-quote-right-1:before { content: '\eb85'; } /* '' */
+.fl-quote-quote-left-alt:before { content: '\eb88'; } /* '' */
+.fl-quote-quote-right-alt:before { content: '\eb93'; } /* '' */
+.fl-quote-quote-left:before { content: '\f10d'; } /* '' */
+.fl-quote-quote-right:before { content: '\f10e'; } /* '' */

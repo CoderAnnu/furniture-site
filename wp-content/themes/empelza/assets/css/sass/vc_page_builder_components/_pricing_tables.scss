@@ -1,0 +1,98 @@
+.fl-pricing--table-wrapper{
+	.pricing--table{
+		transition: .3s ease;
+		padding: 50px 85px 60px 85px;
+		text-align: center;
+		.pricing-title{
+			font-size: 14px;
+			letter-spacing: 0.2em;
+			color: #222222;
+			position: relative;
+			padding-bottom: 10px;
+			margin-bottom: 30px;
+			&:before{
+				content: '';
+				height: 4px;
+				width: 40px;
+				background: #c6dde8;
+				position: absolute;
+				bottom: 0;
+				left: 50%;
+				transform: translateX(-20px);
+			}
+		}
+		.pricing{
+			font-size: 80px;
+			line-height: 50px;
+			.prefix-price{
+				color: #666666;
+				font-size: 16px;
+				margin-right: 10px;
+				position: relative;
+				top: -10px;
+				vertical-align: super;
+			}
+		}
+		.pricing-period{
+			color: #222222;
+			margin-top: 10px;
+			margin-bottom: 30px;
+		}
+		.pricing-list{
+			list-style: none;
+			margin: 0;
+			padding: 0;
+			margin-bottom: 20px;
+			li{
+				color: #222222;
+				font-size: 14px;
+				text-align: left;
+				list-style: none;
+				margin: 0;
+				padding: 0;
+				padding-top: 5px;
+				padding-bottom: 5px;
+				.left-content{
+					margin-right: 10px;
+				}
+			}
+		}
+
+		// Premium
+		&.premium-table{
+			padding-top: 75px;
+			border-top: 3px solid transparent;
+
+			.pricing-title{
+				color: #ffffff;
+				&:before{
+					background: #ffffff;
+				}
+			}
+			.pricing{
+				color: #fff;
+				.prefix-price{
+					color: #fff;
+				}
+			}
+			.pricing-period{
+				color: #fff;
+			}
+			.pricing-list{
+				li{
+					color: #fff;
+				}
+			}
+			.price-btn-wrap{
+				.fl-custom-btn{
+
+				}
+			}
+		}
+		&:hover{
+			box-shadow: 0 0 34px 6px rgba(0, 0, 0, 0.07);
+			transition: .3s ease;
+		}
+
+	}
+}

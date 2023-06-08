@@ -1,0 +1,186 @@
+.fl-team-vc{
+  &.hovered{
+    &.team-style-one{
+      .flipper-team-content{
+        transition: .6s;
+        transform: rotateY(180deg);
+      }
+    }
+    &.team-style-two{
+      .entry-content{
+        border: 1px solid transparent;
+        box-shadow: 0 0 34px 6px rgba(0, 0, 0, 0.07);
+        transition: .3s ease;
+        &:before{
+          transform: scaleX(1);
+          transform-origin: left;
+        }
+      }
+    }
+  }
+  &.team-style-one{
+    text-align: center;
+    .flipper-team-content{
+      transition: .6s;
+      transform-style: preserve-3d;
+      perspective: 1400px;
+      position: relative;
+    }
+    .entry-content{
+      border: 1px solid #e1e1e1;
+      border-radius: 5px;
+      padding: 50px 40px;
+      .team-image{
+        margin-bottom: 40px;
+        img{
+          display: inline-block;
+          border-radius: 50%;
+        }
+      }
+      .team-name{
+        text-transform: uppercase;
+        font-size: 17px;
+        color: #222222;
+        letter-spacing: 0.025em;
+      }
+      .team-profession{
+        font-size: 14px;
+        text-transform: uppercase;
+      }
+      .team-social-profiles{
+        margin-top: 25px;
+        margin-bottom: 0;
+        li{
+          margin: 0;
+          display: inline-flex;
+          a{
+            font-size: 14px;
+            padding: 0 10px;
+            color: #666666;
+            transition: .3s ease;
+            &:hover{
+              transition: .3s ease;
+            }
+          }
+        }
+      }
+      &.front-content{
+        backface-visibility: hidden;
+      }
+      &.back-content{
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        backface-visibility: hidden;
+        transform: rotateY(180deg);
+        .team-name{
+          color: #fff;
+        }
+        .team-profession{
+          color: #fff;
+        }
+        .team-description{
+          color: #fff;
+          margin-top: 20px;
+          font-size: 14px;
+        }
+        .team-phone-number-wrap{
+          margin-top: 20px;
+          font-size: 17px;
+          letter-spacing: 0.025em;
+          a{
+            color: #fff;
+            transition: .3s ease;
+            &:hover{
+              transition: .3s ease;
+            }
+          }
+        }
+        .team-social-profiles{
+          margin-bottom: 0;
+          li{
+            margin: 0;
+            a{
+              color: #fff;
+            }
+          }
+        }
+      }
+    }
+    &:hover{
+      .flipper-team-content{
+        transition: .6s;
+        transform: rotateY(180deg);
+      }
+    }
+  }
+  &.team-style-two{
+    .entry-content{
+      position: relative;
+      transition: .3s ease;
+      border: 1px solid #e1e1e1;
+      border-radius: 5px;
+      padding: 50px 40px;
+      text-align: center;
+      .team-image{
+        margin-bottom: 40px;
+        text-align: center;
+        img{
+          display: inline-block;
+          border-radius: 50%;
+        }
+      }
+      .team-name{
+        text-transform: uppercase;
+        font-size: 17px;
+        color: #222222;
+        letter-spacing: 0.025em;
+      }
+      .team-profession{
+        font-size: 14px;
+        text-transform: uppercase;
+      }
+      .team-social-profiles{
+        margin-top: 25px;
+        margin-bottom: 0;
+        li{
+          margin: 0;
+          display: inline-flex;
+          a{
+            font-size: 14px;
+            padding: 0 10px;
+            color: #666666;
+            transition: .3s ease;
+            &:hover{
+              transition: .3s ease;
+            }
+          }
+        }
+      }
+      &:before{
+        position: absolute;
+        left: 0;
+        bottom: -1px;
+        content: '';
+        height: 3px;
+        width: 100%;
+        transform: scaleX(0);
+        transform-origin: right;
+        transition: transform .2s ease-out,-webkit-transform .2s ease-out;
+      }
+    }
+    &:hover{
+      .entry-content{
+        border: 1px solid transparent;
+        box-shadow: 0 0 34px 6px rgba(0, 0, 0, 0.07);
+        transition: .3s ease;
+        &:before{
+          transform: scaleX(1);
+          transform-origin: left;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+.fl-tabs-wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  // Nav Tabs
+  .nav-tabs{
+    padding: 35px 0;
+    border-radius: 10px;
+    li{
+      list-style: none;
+      position: relative;
+      padding-left: 10px;
+      padding-top: 10px;
+      padding-bottom: 8px;
+      cursor: pointer;
+      margin: 0 20px;
+      border-bottom: 1px solid rgba(201, 230, 245, .2);
+      color: #fff;
+      &:first-child{
+        border-top: 1px solid rgba(201, 230, 245, .2);
+      }
+      &:after{
+        position: absolute;
+        content: '';
+        height: 100%;
+        width: 4px;
+        left: -20px;
+        top: 0;
+        background: #62bec9;
+        transform: scale(0);
+        transform-origin: 0 100%;
+        transition: transform .2s ease-out,-webkit-transform .2s ease-out;
+      }
+      .inner-content{
+        display: flex;
+        align-items: center;
+        .tab-title-content{
+          flex-grow: 1;
+        }
+        .icon-container{
+          transition: .3s ease;
+          flex-grow: 0;
+          width: 24px;
+          height: 24px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          border-radius: 50%;
+          i{
+            transition: .3s ease;
+            font-size: 10px;
+            color: rgba(255, 255, 255, .4);
+          }
+        }
+      }
+      &.active{
+        &:after{
+          transform-origin: 100% 0;
+          transform: scale(1);
+        }
+        .inner-content{
+          .icon-container{
+            transition: .3s ease;
+            i{
+              transition: .3s ease;
+              color: #ffffff;
+            }
+          }
+        }
+      }
+      &:hover{
+        &:after{
+          transform-origin: 100% 0;
+          transform: scale(1);
+        }
+      }
+    }
+  }
+  // Tab Content
+  .tab-content-container{
+    .tab-pane{
+      padding-left: 15px;
+      display: none;
+      &.active{
+        display: block;
+        position: relative;
+        animation: showTab 300ms ease-in-out both;
+      }
+    }
+  }
+}
+
+
+@keyframes showTab{
+  from {opacity: 0; top: 5px}
+  to {opacity: 1; top: 0;}
+}

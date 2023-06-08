@@ -1,0 +1,266 @@
+# Copyright (C) 2023 Advanced WordPress Backgrounds Team
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced WordPress Backgrounds 1.11.4\n"
+"Report-Msgid-Bugs-To: https://github.com/nk-o/awb/issues\n"
+"Last-Translator: nK\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-17T17:19:37+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: advanced-backgrounds\n"
+
+#. Plugin Name of the plugin
+#: classes/class-vc-extend.php:143
+msgid "Advanced WordPress Backgrounds"
+msgstr ""
+
+#. Description of the plugin
+msgid "Parallax, Video, Images Backgrounds"
+msgstr ""
+
+#. Author of the plugin
+msgid "Advanced WordPress Backgrounds Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpbackgrounds.com/?utm_source=wordpress.org&utm_medium=readme&utm_campaign=byline"
+msgstr ""
+
+#: classes/class-rest.php:71
+msgid "Sorry, you are not allowed to get the image for background."
+msgstr ""
+
+#: classes/class-rest.php:89
+msgid "Provide image ID."
+msgstr ""
+
+#: classes/class-rest.php:145
+msgid "Image not found."
+msgstr ""
+
+#: classes/class-settings.php:82
+msgid "AWB Settings"
+msgstr ""
+
+#: classes/class-settings.php:83
+msgid "AWB"
+msgstr ""
+
+#: classes/class-settings.php:99
+#: classes/class-vc-extend.php:140
+msgid "General"
+msgstr ""
+
+#: classes/class-settings.php:116
+msgid "Disable parallax"
+msgstr ""
+
+#: classes/class-settings.php:132
+msgid "Disable video"
+msgstr ""
+
+#: classes/class-settings.php:159
+msgid "Advanced WordPress Backgrounds Settings"
+msgstr ""
+
+#: classes/class-vc-extend.php:81
+msgid "Select File"
+msgstr ""
+
+#: classes/class-vc-extend.php:81
+msgid "&times;"
+msgstr ""
+
+#: classes/class-vc-extend.php:132
+#: classes/class-vc-extend.php:135
+msgid "Background [AWB]"
+msgstr ""
+
+#: classes/class-vc-extend.php:160
+msgid "Custom Classes"
+msgstr ""
+
+#: classes/class-vc-extend.php:177
+msgid "CSS"
+msgstr ""
+
+#: classes/class-vc-extend.php:179
+msgid "Design Options"
+msgstr ""
+
+#: classes/class-vc-extend.php:202
+msgid "Background Type"
+msgstr ""
+
+#: classes/class-vc-extend.php:204
+msgid "None"
+msgstr ""
+
+#: classes/class-vc-extend.php:205
+#: classes/class-vc-extend.php:487
+msgid "Color"
+msgstr ""
+
+#: classes/class-vc-extend.php:206
+#: classes/class-vc-extend.php:239
+msgid "Image"
+msgstr ""
+
+#: classes/class-vc-extend.php:207
+msgid "YouTube / Vimeo"
+msgstr ""
+
+#: classes/class-vc-extend.php:208
+msgid "Self Hosted Video"
+msgstr ""
+
+#: classes/class-vc-extend.php:222
+msgid "Stretch"
+msgstr ""
+
+#: classes/class-vc-extend.php:252
+msgid "Poster Image"
+msgstr ""
+
+#: classes/class-vc-extend.php:299
+msgid "Cover"
+msgstr ""
+
+#: classes/class-vc-extend.php:300
+msgid "Contain"
+msgstr ""
+
+#: classes/class-vc-extend.php:301
+msgid "Fill"
+msgstr ""
+
+#: classes/class-vc-extend.php:302
+msgid "Pattern"
+msgstr ""
+
+#: classes/class-vc-extend.php:317
+msgid "Image position. Example: 50% 50%"
+msgstr ""
+
+#: classes/class-vc-extend.php:335
+msgid "Youtube / Vimeo"
+msgstr ""
+
+#: classes/class-vc-extend.php:349
+msgid "Supported YouTube and Vimeo URLs"
+msgstr ""
+
+#: classes/class-vc-extend.php:367
+msgid "Video"
+msgstr ""
+
+#: classes/class-vc-extend.php:380
+msgid "MP4"
+msgstr ""
+
+#: classes/class-vc-extend.php:394
+msgid "WEBM"
+msgstr ""
+
+#: classes/class-vc-extend.php:408
+msgid "OGV"
+msgstr ""
+
+#: classes/class-vc-extend.php:422
+#: classes/class-vc-extend.php:581
+msgid "Enable on Mobile Devices"
+msgstr ""
+
+#: classes/class-vc-extend.php:439
+msgid "Start Time"
+msgstr ""
+
+#: classes/class-vc-extend.php:440
+msgid "Start time in seconds when video will be started (this value will be applied also after loop)"
+msgstr ""
+
+#: classes/class-vc-extend.php:454
+msgid "End Time"
+msgstr ""
+
+#: classes/class-vc-extend.php:455
+msgid "End time in seconds when video will be ended"
+msgstr ""
+
+#: classes/class-vc-extend.php:469
+msgid "Always play"
+msgstr ""
+
+#: classes/class-vc-extend.php:470
+msgid "Play video also when not in viewport."
+msgstr ""
+
+#: classes/class-vc-extend.php:500
+msgid "Overlay Color"
+msgstr ""
+
+#: classes/class-vc-extend.php:529
+msgid "Parallax"
+msgstr ""
+
+#: classes/class-vc-extend.php:542
+msgid "Type"
+msgstr ""
+
+#: classes/class-vc-extend.php:544
+msgid "Disabled"
+msgstr ""
+
+#: classes/class-vc-extend.php:545
+msgid "Scroll"
+msgstr ""
+
+#: classes/class-vc-extend.php:546
+msgid "Scale"
+msgstr ""
+
+#: classes/class-vc-extend.php:547
+msgid "Opacity"
+msgstr ""
+
+#: classes/class-vc-extend.php:548
+msgid "Opacity + Scroll"
+msgstr ""
+
+#: classes/class-vc-extend.php:549
+msgid "Opacity + Scale"
+msgstr ""
+
+#: classes/class-vc-extend.php:565
+#: classes/class-vc-extend.php:642
+msgid "Speed"
+msgstr ""
+
+#: classes/class-vc-extend.php:566
+msgid "Provide number from -1.0 to 2.0"
+msgstr ""
+
+#: classes/class-vc-extend.php:598
+msgid "Mouse Parallax"
+msgstr ""
+
+#: classes/class-vc-extend.php:611
+msgid "Enable"
+msgstr ""
+
+#: classes/class-vc-extend.php:626
+msgid "Size"
+msgstr ""
+
+#: classes/class-vc-extend.php:627
+msgid "pixels"
+msgstr ""
+
+#: classes/class-vc-extend.php:643
+msgid "milliseconds"
+msgstr ""

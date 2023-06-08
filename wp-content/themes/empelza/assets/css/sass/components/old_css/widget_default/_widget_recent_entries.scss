@@ -1,0 +1,19 @@
+.widget_recent_entries{
+	ul{
+		list-style: none;
+		margin: 0;
+		li{
+			padding-bottom: 3px;
+			margin-bottom: 10px;
+			border-bottom: 1px solid #dddddd;
+			a{
+				font-size: 12px;
+				line-height: 1;
+			}
+			&:last-child{
+				padding-bottom: 0;
+				border-bottom: none;
+			}
+		}
+	}
+}

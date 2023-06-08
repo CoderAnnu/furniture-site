@@ -1,0 +1,123 @@
+.fl--logo-container img {
+    max-width: 125px;
+}
+
+.fl--header .nav-menu li a {
+    font-family: Hind;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.fl-mega-menu>ul>li .sub-nav>ul.sub-menu-wide>li>a {
+    font-family: Hind;
+    font-size: 10px;
+    font-weight: 700;
+    color: #222222;
+}
+
+.fl--header .nav-menu li .sub-menu li a,
+.fl--header .nav-menu li .sub-menu li .sub-sub-menu {
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: none;
+}
+
+.fl--mobile-menu li a {
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.fl--mobile-menu li .sub-menu li a {
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: none;
+}
+
+body {
+    font-family: Hind;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    text-align: left;
+    text-transform: none;
+    color: #666666;
+}
+
+.fl-text-light-style {
+    font-family: Hind;
+    font-weight: 300;
+}
+
+.fl-text-regular-style,
+blockquote,.sidebar .widget ul li {
+    font-family: Hind;
+    font-weight: 400;
+}
+
+.fl-text-medium-style,
+.fl-custom-btn,
+.fl-default-pagination .page-numbers,
+.sidebar .widget_tag_cloud .tagcloud a,.sidebar .widget_calendar .calendar_wrap #wp-calendar tbody tr td{
+    font-family: Hind;
+    font-weight: 500;
+}
+
+.fl-text-bold-style {
+    font-family: Hind;
+    font-weight: 700;
+}
+
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6,
+.fl-text-title-style {
+    font-family: Hind;
+    font-weight: 700;
+    text-transform: none;
+    color: #222222;
+}
+
+h1,
+.h1 {
+    font-size: 64px;
+}
+
+h2,
+.h2 {
+    font-size: 44px;
+}
+
+h3,
+.h3 {
+    font-size: 36px;
+}
+
+h4,
+.h4 {
+    font-size: 32px;
+}
+
+h5,
+.h5 {
+    font-size: 26px;
+}
+
+h6,
+.h6 {
+    font-size: 24px;
+}
+

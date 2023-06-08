@@ -1,0 +1,287 @@
+.login-form{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background-color: rgba(0, 0, 0, .9);
+	z-index: 9999;
+	opacity: 0;
+	display: none;
+	text-align: center;
+	justify-content: center;
+	.login-gap{
+		display: block;
+		width: 100%;
+		&.top{
+			height: 100px;
+		}
+		&.bottom{
+			height: 300px;
+		}
+	}
+}
+
+.remember--lost-password-wrapper{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-top: 15px;
+	//
+	.remember-login-checkbox-label{
+		cursor: pointer;
+		margin-top: 0;
+		margin-right: 20px;
+		padding-left: 25px;
+		font-size: 12px;
+		display: flex;
+		align-items: center;
+		position: relative;
+		color: #fff;
+		input[type="checkbox"]{
+			border: 0;
+			padding: 0;
+			width: 0;
+			position: relative;
+			-webkit-appearance: none !important;
+			-moz-appearance: none !important;
+			-ms-appearance: none !important;
+			-o-appearance: none !important;
+			appearance: none !important;
+			&:before{
+				cursor: pointer;
+				top: -8px;
+				position: absolute;
+				left: -25px;
+				content: '';
+				display: block;
+				width: 15px;
+				height: 15px;
+				border: 1px solid #eaeaeb;
+			}
+		}
+		input[type="checkbox"]:checked{
+			&:after{
+				position: absolute;
+				top: -5px;
+				left: -22px;
+				font: 9px/1 FontAwesome;
+				content: '\f00c';
+				text-align: center;
+			}
+		}
+	}
+	a{
+		font-size: 12px;
+	}
+
+}
+
+.fl-login-sub-menu{
+
+	&.opened{
+		opacity: 1;
+		visibility: visible;
+		transition: .3s ease;
+		transform: translateY(0);
+	}
+	.fl-login-form-entry{
+		&.login-in{
+			.fl-login_form{
+				display: block;
+			}
+			.fl-register-sub-menu{
+				display: none;
+			}
+		}
+		&.register{
+			.fl-register-sub-menu{
+				display: block;
+			}
+			.fl-login_form{
+				display: none;
+			}
+		}
+		&.loading{
+			transition: all .4s ease-in-out;
+			opacity: 0.8;
+		}
+	}
+
+
+
+}
+
+
+// Login In
+.fl-login_form{
+	p+p{
+		margin-top: 20px;
+	}
+	.login_form_title{
+		font-size: 27px;
+		color: #fff;
+		text-align: center;
+	}
+	form{
+		input {
+			font-size: 12px;
+			padding: 10px;
+			border: 1px solid #eaeaeb;
+			margin-bottom: 0;
+		}
+		button{
+			justify-content: center;
+			display: flex;
+			width: 100%;
+			line-height: 1;
+			&:hover{
+				transition: .3s ease-in-out;
+			}
+		}
+		.title-registration{
+			font-size: 12px;
+		}
+		.remember--lost-password-wrapper{
+			.lost-password-link{
+				position: relative;
+				transition: all 0.3s;
+				color: #fff;
+				&:before{
+					content: '';
+					position: absolute;
+					width: 80%;
+					height: 1px;
+					bottom: 3px;
+					transform-origin: 0 50%;
+					transform: scale3d(0,1,1);
+					opacity: 0;
+					transition: all 0.3s;
+					transition-property: opacity, transform;
+				}
+				&:hover{
+					opacity: 1;
+					transition: all 0.3s;
+					&:before{
+						opacity: .8;
+						transform: scale3d(1,1,1);
+						transform-origin: left;
+						background: #fff;
+					}
+				}
+			}
+		}
+	}
+	.registration-text-wrapper{
+		margin-top: 15px;
+		font-size: 11px;
+		display: flex;
+		align-items: center;
+		.registration-text{
+			margin-right: 10px;
+		}
+		.registration-link{
+			position: relative;
+			transition: all 0.3s;
+			color: #1c1f23;
+			&:before{
+				content: '';
+				position: absolute;
+				width: 80%;
+				height: 1px;
+				bottom: 3px;
+				transform-origin: 0 50%;
+				transform: scale3d(0,1,1);
+				opacity: 0;
+				transition: all 0.3s;
+				transition-property: opacity, transform;
+			}
+			&:hover{
+				opacity: 1;
+				transition: all 0.3s;
+				&:before{
+					opacity: .8;
+					transform: scale3d(1,1,1);
+					transform-origin: left;
+				}
+			}
+		}
+	}
+
+}
+// Register
+.login-in{
+	display: inline-block;
+	margin: 0 auto;
+	min-width: 370px;
+	p+p{
+		margin-top: 20px;
+	}
+	.register_form_title{
+		font-size: 22px;
+		text-align: center;
+	}
+	form{
+		input {
+			font-size: 12px;
+			padding: 10px;
+			border: 1px solid #eaeaeb;
+			background-color: white;
+			margin-bottom: 0;
+		}
+		.register-submit-btn{
+			display: flex;
+			justify-content: center;
+			width: 100%;
+			font-size: 11px;
+			&:hover{
+				background: transparent!important;
+			}
+		}
+		.reg_passmail{
+			text-align: left;
+			font-size: 12px;
+			margin-top: 15px;
+			margin-bottom: 10px;
+		}
+		.register-text-link{
+			display: flex;
+			text-align: left;
+			font-size: 11px;
+			.registration-text{
+				margin-right: 10px;
+			}
+			.login-in-link{
+				position: relative;
+				transition: all 0.3s;
+				color: #1c1f23;
+				&:before{
+					content: '';
+					position: absolute;
+					width: 80%;
+					height: 1px;
+					bottom: 3px;
+					transform-origin: 0 50%;
+					transform: scale3d(0,1,1);
+					opacity: 0;
+					transition: all 0.3s;
+					transition-property: opacity, transform;
+				}
+				&:hover{
+					opacity: 1;
+					transition: all 0.3s;
+					&:before{
+						opacity: .8;
+						transform: scale3d(1,1,1);
+						transform-origin: left;
+					}
+				}
+			}
+		}
+		.login-in-btn{
+			color: #fff;
+			transition: color .3s ease;
+
+		}
+	}
+}

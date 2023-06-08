@@ -1,0 +1,44 @@
+.widget_search{
+  fieldset{
+	position: relative;
+		.searchinput{
+			margin-bottom: 0;
+			padding-right: 40px;
+		}
+	  .searchsubmit{
+		  position: absolute;
+		  z-index: 1;
+		  right: 0;
+		  top: 0;
+		  height: 100%;
+		  display: flex;
+		  align-items: center;
+		  justify-content: center;
+		  width: 40px;
+		  transition: .3s ease;
+		  input{
+			  display: flex;
+			  align-items: center;
+			  justify-content: center;
+			  z-index: 2;
+			  width: 100%;
+			  height: 100%;
+		  }
+		  i{
+			  position: absolute;
+			  left: 0;
+			  top: 0;
+			  display: flex;
+			  align-items: center;
+			  justify-content: center;
+			  width: 100%;
+			  height: 100%;
+		  }
+		  &:hover{
+			  opacity: .7;
+			  transition: .3s ease;
+		  }
+	  }
+  }
+
+}

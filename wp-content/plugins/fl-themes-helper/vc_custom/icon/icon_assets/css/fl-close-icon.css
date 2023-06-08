@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'close-font';
+  src: url('../fonts/close-font.eot?28963053');
+  src: url('../fonts/close-font.eot?28963053#iefix') format('embedded-opentype'),
+       url('../fonts/close-font.woff2?28963053') format('woff2'),
+       url('../fonts/close-font.woff?28963053') format('woff'),
+       url('../fonts/close-font.ttf?28963053') format('truetype'),
+       url('../fonts/close-font.svg?28963053#close-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ [class^="fl-close-"]:before, [class*=" fl-close-"]:before {
+  font-family: "close-font";
+     font-style: normal;
+     font-weight: normal;
+     speak: none;
+     display: inline-block;
+     text-decoration: inherit;
+     width: 1em;
+     margin-right: .2em;
+     text-align: center;
+     font-variant: normal;
+     text-transform: none;
+     line-height: 1em;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+}
+.fl-close-cancel-circled2:before { content: '\e822'; } /* '' */
+.fl-close-cancel-circled:before { content: '\e823'; } /* '' */
+.fl-close-cancel:before { content: '\e824'; } /* '' */
+.fl-close-cancel-1:before { content: '\e84c'; } /* '' */
+.fl-close-cancel-circled-1:before { content: '\e84d'; } /* '' */
+.fl-close-cancel-2:before { content: '\e9f2'; } /* '' */
+.fl-close-cancel-outline:before { content: '\e9f3'; } /* '' */
+.fl-close-cancel-3:before { content: '\eb6a'; } /* '' */
+.fl-close-cancel-circle:before { content: '\eb6b'; } /* '' */
+.fl-close-cancel-4:before { content: '\ebe4'; } /* '' */
+.fl-close-cancel-circle-1:before { content: '\ebeb'; } /* '' */
+.fl-close-cancel-5:before { content: '\ec30'; } /* '' */
+.fl-close-cancel-circled-3:before { content: '\f06e'; } /* '' */

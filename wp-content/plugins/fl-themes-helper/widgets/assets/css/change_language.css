@@ -1,0 +1,285 @@
+.language-selector.list-style-changer {
+  display: inline-flex;
+  padding-left: 7.5px;
+  position: relative;
+  align-items: center;
+  justify-content: center; }
+  .language-selector.list-style-changer a {
+    display: inline-flex;
+    align-items: center;
+    text-transform: uppercase; }
+    .language-selector.list-style-changer a .language-flag {
+      border-radius: 50%;
+      margin-right: 10px;
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+      background-size: cover !important; }
+  .language-selector.list-style-changer ul {
+    min-width: 150px;
+    transition: .3s ease;
+    opacity: 0;
+    visibility: hidden;
+    margin-top: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    border: 1px solid #eaeaeb;
+    padding: 10px 0;
+    z-index: 2;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    background: #fff;
+    transform: translate3d(-50%, 10px, 0); }
+    .language-selector.list-style-changer ul li {
+      display: flex; }
+      .language-selector.list-style-changer ul li a {
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+        line-height: 24px;
+        color: #222222 !important;
+        padding: 0 30px 10px 30px;
+        transition: .3s ease; }
+        .language-selector.list-style-changer ul li a:hover {
+          transition: .3s ease; }
+          .language-selector.list-style-changer ul li a:hover .language-flag {
+            transition: .3s ease;
+            opacity: .8; }
+        .language-selector.list-style-changer ul li a .language-flag {
+          border-radius: 50%;
+          margin-right: 10px;
+          width: 15px;
+          height: 15px;
+          display: inline-block;
+          background-size: cover !important; }
+      .language-selector.list-style-changer ul li:last-child a {
+        padding-bottom: 0; }
+    .language-selector.list-style-changer ul.opened {
+      transform: translate3d(-50%, 0, 0);
+      transition: .3s ease;
+      opacity: 1;
+      visibility: visible; }
+.language-selector.inline-style-changer {
+  display: inline-flex;
+  padding-left: 7.5px;
+  position: relative;
+  align-items: center;
+  justify-content: center; }
+  .language-selector.inline-style-changer > a {
+    transform: translateX(0);
+    transition: -webkit-transform .3s ease, transform .3s ease, opacity .3s ease, visibility .3s ease;
+    position: relative;
+    z-index: 3; }
+  .language-selector.inline-style-changer a {
+    display: inline-flex;
+    align-items: center; }
+    .language-selector.inline-style-changer a .language-flag {
+      width: 18px;
+      height: 18px;
+      display: inline-block;
+      margin-right: 5px;
+      border-radius: 50%;
+      background-size: cover !important; }
+    .language-selector.inline-style-changer a .language-name {
+      color: #fff;
+      font-size: 12px;
+      text-transform: uppercase; }
+  .language-selector.inline-style-changer ul {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    width: 100%;
+    height: 100%; }
+    .language-selector.inline-style-changer ul li {
+      display: flex;
+      align-items: center;
+      opacity: 0;
+      visibility: hidden; }
+      .language-selector.inline-style-changer ul li:nth-child(1) {
+        transform: translateX(0);
+        transition: all .5s ease,opacity .6s ease; }
+      .language-selector.inline-style-changer ul li:nth-child(2) {
+        transform: translateX(-50%);
+        transition: all .5s ease,opacity .6s ease;
+        margin-left: 4px; }
+      .language-selector.inline-style-changer ul li:nth-child(3) {
+        transform: translateX(-100%);
+        transition: all .5s ease .05s,opacity .6s ease;
+        margin-left: 4px; }
+  .language-selector.inline-style-changer:hover > a {
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-20px); }
+  .language-selector.inline-style-changer:hover ul li {
+    opacity: .5;
+    visibility: visible;
+    transform: translateX(0); }
+    .language-selector.inline-style-changer:hover ul li:hover {
+      opacity: 1;
+      transition: all .5s ease,opacity .6s ease;
+      transform: scale(1.3); }
+    .language-selector.inline-style-changer:hover ul li.active-language {
+      opacity: 1; }
+
+.demo-language-selector.list-style-changer {
+  display: inline-flex;
+  padding-left: 7.5px;
+  position: relative;
+  align-items: center;
+  justify-content: center; }
+  .demo-language-selector.list-style-changer > a {
+    display: inline-flex;
+    align-items: center;
+    text-transform: uppercase; }
+    .demo-language-selector.list-style-changer > a .language-flag {
+      background: transparent url(../images/usa-flag.png) center center no-repeat;
+      border-radius: 50%;
+      margin-right: 10px;
+      width: 15px;
+      height: 15px;
+      display: inline-block;
+      background-size: cover !important; }
+    .demo-language-selector.list-style-changer > a:after {
+      margin-top: -2px;
+      content: "\f078";
+      font: normal normal normal 8px/1 FontAwesome;
+      margin-left: 7px; }
+  .demo-language-selector.list-style-changer ul {
+    min-width: 150px;
+    transition: .3s ease;
+    opacity: 0;
+    visibility: hidden;
+    margin-top: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    border: 1px solid #eaeaeb;
+    padding: 10px 0;
+    z-index: 2;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    background: #fff;
+    transform: translate3d(-50%, 10px, 0); }
+    .demo-language-selector.list-style-changer ul li {
+      display: flex; }
+      .demo-language-selector.list-style-changer ul li a {
+        text-transform: uppercase;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+        line-height: 24px;
+        color: #222222 !important;
+        padding: 0 30px 10px 30px;
+        transition: .3s ease; }
+        .demo-language-selector.list-style-changer ul li a:hover {
+          transition: .3s ease; }
+          .demo-language-selector.list-style-changer ul li a:hover .language-flag {
+            transition: .3s ease;
+            opacity: .8; }
+        .demo-language-selector.list-style-changer ul li a .language-flag {
+          border-radius: 50%;
+          margin-right: 10px;
+          width: 15px;
+          height: 15px;
+          display: inline-block;
+          background-size: cover !important; }
+      .demo-language-selector.list-style-changer ul li:last-child a {
+        padding-bottom: 0; }
+      .demo-language-selector.list-style-changer ul li:nth-child(1) .language-flag {
+        background: transparent url(../images/france-flag.png) center center no-repeat; }
+      .demo-language-selector.list-style-changer ul li:nth-child(2) .language-flag {
+        background: transparent url(../images/usa-flag.png) center center no-repeat; }
+      .demo-language-selector.list-style-changer ul li:nth-child(3) .language-flag {
+        background: transparent url(../images/germany-flag.png) center center no-repeat; }
+    .demo-language-selector.list-style-changer ul.opened {
+      transform: translate3d(-50%, 0, 0);
+      transition: .3s ease;
+      opacity: 1;
+      visibility: visible; }
+.demo-language-selector.inline-style-changer {
+  display: inline-flex;
+  align-items: center;
+  padding-left: 7.5px;
+  position: relative;
+  top: 2px; }
+  .demo-language-selector.inline-style-changer ul li {
+    display: inline-block; }
+    .demo-language-selector.inline-style-changer ul li a {
+      display: inline-flex; }
+    .demo-language-selector.inline-style-changer ul li span {
+      opacity: .5;
+      transition: .5s ease;
+      margin-right: 7px;
+      width: 20px;
+      height: 20px;
+      display: inline-block; }
+    .demo-language-selector.inline-style-changer ul li:nth-child(1) span {
+      background: transparent url(../images/usa-flag.png) center center no-repeat;
+      background-size: cover; }
+    .demo-language-selector.inline-style-changer ul li:nth-child(2) span {
+      background: transparent url(../images/germany-flag.png) center center no-repeat;
+      background-size: cover; }
+    .demo-language-selector.inline-style-changer ul li:nth-child(3) span {
+      background: transparent url(../images/france-flag.png) center center no-repeat;
+      background-size: cover;
+      margin-right: 0; }
+    .demo-language-selector.inline-style-changer ul li:hover span {
+      transition: .5s ease;
+      transform: scale(1.2); }
+      .demo-language-selector.inline-style-changer ul li:hover span:hover {
+        opacity: 1; }
+    .demo-language-selector.inline-style-changer ul li.active-language span {
+      opacity: 1; }
+
+.demo-currency-selector {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center; }
+  .demo-currency-selector > a {
+    display: inline-flex;
+    align-items: center;
+    text-transform: uppercase; }
+    .demo-currency-selector > a:after {
+      margin-top: -2px;
+      content: "\f078";
+      font: normal normal normal 8px/1 FontAwesome;
+      margin-left: 7px; }
+  .demo-currency-selector ul {
+    min-width: 150px;
+    transition: .3s ease;
+    opacity: 0;
+    visibility: hidden;
+    margin-top: 10px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    border: 1px solid #eaeaeb;
+    padding: 10px 0;
+    z-index: 2;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    background: #fff;
+    transform: translate3d(-50%, 10px, 0); }
+    .demo-currency-selector ul li {
+      display: flex; }
+      .demo-currency-selector ul li a {
+        text-transform: uppercase;
+        font-size: 10px;
+        display: flex;
+        align-items: center;
+        line-height: 24px;
+        color: #222222 !important;
+        padding: 0 30px 10px 30px;
+        transition: .3s ease; }
+        .demo-currency-selector ul li a:hover {
+          transition: .3s ease; }
+      .demo-currency-selector ul li:last-child a {
+        padding-bottom: 0; }
+    .demo-currency-selector ul.opened {
+      transform: translate3d(-50%, 0, 0);
+      transition: .3s ease;
+      opacity: 1;
+      visibility: visible; }
+
+/*# sourceMappingURL=change_language.css.map */

@@ -1,0 +1,317 @@
+
+/*-------------------------------------------------------------------
+
+==  max-width 1600px
+
+-------------------------------------------------------------------*/
+
+@media screen and (max-width: 1600px) {
+  .fl-action-content-wrapper-vc .vc-fl-action-content .action-image{
+    max-width: 28vw;
+  }
+}
+/*-------------------------------------------------------------------
+
+==  max-width 1170px
+
+-------------------------------------------------------------------*/
+
+@media screen and (max-width: 1170px) {
+
+}
+/*-------------------------------------------------------------------
+
+==  max-width 1024px
+
+-------------------------------------------------------------------*/
+
+@media screen and (max-width: 1024px) {
+  .fl-action-content-wrapper-vc .vc-fl-action-content .action-image{
+    max-width: 26vw;
+  }
+  .fl-services-slider-container-content{
+    margin: 60px -224px 30px 25px;
+  }
+}
+/*-------------------------------------------------------------------
+
+==  max-width 992px
+
+-------------------------------------------------------------------*/
+@media (max-width: 992px) {
+  .fl-partner-wrapper .partner-content .partner-item{
+    width: 50%;
+  }
+  .fl-vc-vehicle-search .vc-auto-search{
+    flex-wrap: wrap;
+  }
+  .fl-vc-vehicle-search .vc-auto-search .select{
+    margin-top: 25px;
+    &:first-child{
+      margin-top: 0;
+    }
+  }
+  .fl-vc-vehicle-search .vc-auto-search .btn{
+    margin-top: 25px;
+    width: 100%;
+  }
+  .vc-number-content-container .number-div-content.reflect-element .inner-content .number{
+    order: 1;
+  }
+  .vc-number-content-container .number-div-content.reflect-element .inner-content .number-content, .vc-number-content-container .number-div-content.reflect-element .inner-content .number-title{
+    order: 2;
+  }
+  .vc-number-content-container .number-div-content:nth-child(even){
+    padding-top: 20px;
+  }
+  .vc-number-content-container .number-div-content{
+    padding-top: 20px;
+  }
+  .fl-vc-custom-title-container .custom-title-content-wrapper .back-text{
+    font-size: 70px;
+  }
+  .fl-vc-custom-title-container .custom-title-content-wrapper .font-text{
+    font-size: 30px;
+  }
+  .custom-title-cars{
+    .fl-title-vc{
+      margin-top: -30px!important;
+    }
+  }
+  .fl-header-decor-text-wrapper-vc .decor-header-text{
+    font-size: 20px;
+  }
+  .fl-phone-number-wrapper-vc.phone-style-two .phone-style-two-content{
+    margin-top: 15px;
+  }
+
+
+
+  .fl-services-slider-container-content{
+    margin: 0 0 0 0;
+  }
+  .fl-tabs {
+    .nav-tabs{
+      padding-left: 0;
+      padding-right: 0;
+      li{
+        .tab-link-content{
+          margin-left: 20px;
+
+        }
+        &:nth-child(2n+1){
+          .tab-link-content{
+            margin-left: 0;
+          }
+        }
+      }
+    }
+    .tab-content{
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+}
+/*-------------------------------------------------------------------
+
+==  max-width 870px
+
+-------------------------------------------------------------------*/
+@media (max-width: 870px) {
+
+}
+/*-------------------------------------------------------------------
+
+max-width 782px
+
+-------------------------------------------------------------------*/
+@media screen and (max-width: 782px) {
+  .decor-main-cl-left,.decor-main-cl-right, .decor-white-bottom-left,.decor-white-left{
+
+    height: 22px!important;
+  }
+  .vc-offer-slider .offer-slider-slide .offer-slide-inner-content .offer-slider-bottom-content .offer-slider-image{
+    display: none!important;
+  }
+  .vc-offer-slider .slick-arrow{
+    display: none!important;
+  }
+  .custom-title-cars{
+    .fl-title-vc{
+      margin-top: -20px!important;
+    }
+  }
+  .fl-about-us-form .input-container{
+    width: 100%;
+  }
+  .fl-home-page-posts-content-vc .home-page-post-container article .right-content .top-post-content{
+    flex-wrap: wrap;
+  }
+  .fl-home-page-posts-content-vc .home-page-post-container article .right-content .top-post-content .author-wrap{
+    border-right: 0;
+    margin-right: 10px;
+    padding-right: 0;
+  }
+  .fl-home-page-posts-content-vc .home-page-post-container article{
+    padding: 25px 30px;
+  }
+  .fl-home-page-posts-content-vc .home-page-post-container article .right-content .post-title{
+    font-size: 20px;
+  }
+}
+/*-------------------------------------------------------------------
+
+max-width 768px
+
+-------------------------------------------------------------------*/
+@media screen and (max-width: 768px) {
+  .fl-home-page-posts-content-vc .home-page-post-container article .left-content{
+    display: none;
+  }
+  .fl-icon-box-vc.icon-box-style-two .icon-box-inner-wrap .icon-box-btn{
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  .fl-counter-wrapper .fl-counter-pref-styles{
+    font-size: 40px;
+  }
+  .fl-tabs .nav-tabs li{
+    .tab-link-content{
+      margin-top: 20px;
+    }
+    &:first-child{
+      .tab-link-content{
+        margin-top: 0!important;
+      }
+    }
+  }
+  .vc-offer-slider .offer-slider-slide .offer-slide-inner-content .offer-slider-bottom-content{
+    clip-path: none;
+    padding-top: 0;
+    min-height: 220px;
+    .offer-slider-content{
+      padding-right: 35px;
+      padding-left: 35px;
+    }
+  }
+  .vc-number-content-container .number-div-content:after{
+    display: none;
+  }
+  .vc-number-content-container .number-div-content .inner-content .number{
+    font-size: 80px;
+  }
+  .vc-number-content-container{
+    .number-div-content{
+      &:first-child{
+        padding-top: 0;
+      }
+    }
+  }
+  .fl-phone-number-wrapper-vc.phone-style-one .phone-text{
+    margin-right: 8px;
+  }
+  .fl-phone-number-wrapper-vc.phone-style-one .phone-number-link{
+    font-size: 13px;
+    padding: 13px 17px;
+  }
+}
+/*-------------------------------------------------------------------
+
+max-width 720px
+
+-------------------------------------------------------------------*/
+@media screen and (max-width: 720px) {
+    .home-page-post-container .blog-post{
+      margin-top: 25px;
+      &:first-child{
+        margin-top: 0;
+      }
+    }
+  .home-page-post-container .blog-post-default{
+    margin-top: 25px;
+    &:first-child{
+      margin-top: 0;
+    }
+  }
+  .fl-vc-custom-title-container .custom-title-content-wrapper .back-text{
+    font-size: 60px;
+  }
+  .fl-vc-custom-title-container .custom-title-content-wrapper .font-text{
+    font-size: 25px;
+  }
+}
+
+/*-------------------------------------------------------------------
+
+==  max-width 680px
+
+-------------------------------------------------------------------*/
+@media (max-width: 680px) {
+  .fl-action-content-wrapper-vc .vc-fl-action-content .action-image{
+    display: none;
+  }
+  .fl-phone-number-wrapper-vc.phone-style-one{
+    flex-wrap: wrap;
+
+  }
+  .fl-vc-car-detail-wrapper .car-detail-slider .car-detail-slide .slider-content{
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+  .fl-vc-car-detail-wrapper .car-detail-slider .car-detail-slide .slider-content .bottom-slide-content .bottom-car-info .icon-content-info-wrapper{
+    margin-top: 15px;
+  }
+  .vc-number-content-container .number-div-content .inner-content .number:after{
+    display: none!important;
+  }
+  .fl-header-decor-text-wrapper-vc .decor-header-text{
+    font-size: 17px;
+  }
+  .fl-semi-circle-progress-container-content{
+    justify-content: center;
+  }
+  .fl-semi-circle-progress-container-content .semi-circle-progress-bar-wrapper-vc{
+    margin-top: 20px;
+  }
+  .fl-tabs .nav-tabs li .tab-link-content{
+      margin-left: 0!important;
+  }
+}
+/*-------------------------------------------------------------------
+
+==  max-width 630px
+
+-------------------------------------------------------------------*/
+@media (max-width: 630px) {
+}
+/*-------------------------------------------------------------------
+
+==  max-width 570px
+
+-------------------------------------------------------------------*/
+@media (max-width: 570px) {
+}
+/*-------------------------------------------------------------------
+
+==  max-width 500px
+
+-------------------------------------------------------------------*/
+@media (max-width: 500px) {
+}
+/*-------------------------------------------------------------------
+
+==  max-width 400px
+
+-------------------------------------------------------------------*/
+@media (max-width: 400px) {
+
+}
+/*-------------------------------------------------------------------
+
+==  max-width 360
+
+-------------------------------------------------------------------*/
+@media (max-width: 360px) {
+}

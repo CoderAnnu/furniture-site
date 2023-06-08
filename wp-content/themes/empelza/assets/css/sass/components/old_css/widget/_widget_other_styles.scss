@@ -1,0 +1,157 @@
+$color-border: #eee;
+$color-children-link: #b2b2b2;
+
+//Menu Widget
+.widget_nav_menu{
+	ul{
+		li{
+			padding-top: 11px;
+			span.fl-before-icon{
+				position: relative;
+
+			}
+			a{
+				font-size: 12px;
+				font-weight: 400;
+
+				&:hover{
+					font-weight: 600;
+					&:before{
+						color: #b67c5a;
+					}
+				}
+			}
+		}
+	}
+}
+.has-submenu{
+	a{
+	}
+	span.fl-before-icon{
+		&:before{
+			font: bold 14px FontAwesome;
+			top: 1px!important;
+			width: 6px;
+			height: 6px;
+			border: none!important;
+			content: '\f105'!important;
+			margin-right: 5px;
+		}
+	}
+	ul.sub-menu{
+		display: none;
+		.sub-nav-item{
+			span.fl-before-icon{
+				&:before{
+					content: ""!important;
+				}
+			}
+		}
+		.has-submenu{
+			a{
+			}
+			span.fl-before-icon{
+				&:before{
+					font: bold 14px FontAwesome;
+					top: 1px!important;
+					width: 6px;
+					height: 6px;
+					border: none!important;
+					content: '\f105'!important;
+					margin-right: 5px;
+				}
+			}
+			ul.sub-menu{
+				display: none;
+				.sub-nav-item{
+					span.fl-before-icon{
+						&:before{
+							content: ""!important;
+						}
+					}
+				}
+				.has-submenu{
+					a{
+					}
+					span.fl-before-icon{
+						&:before{
+							font: bold 14px FontAwesome;
+							top: 1px!important;
+							width: 6px;
+							height: 6px;
+							border: none!important;
+							content: '\f105'!important;
+							margin-right: 5px;
+						}
+					}
+					.has-submenu{
+						a{
+						}
+						span.fl-before-icon{
+							&:before{
+								font: bold 14px FontAwesome;
+								top: 1px!important;
+								width: 6px;
+								height: 6px;
+								border: none!important;
+								content: '\f105'!important;
+								margin-right: 5px;
+							}
+						}
+						ul.sub-menu{
+							display: none;
+							.fl-category-no-children{
+								a{
+									&:before{
+										content: ""!important;
+										border: 1px solid #cccecf!important;
+										top: 6px!important;
+									}
+								}
+							}
+							.has-submenu{
+								a{
+								}
+								span.fl-before-icon{
+									&:before{
+										font: bold 14px FontAwesome;
+										top: 1px!important;
+										width: 6px;
+										height: 6px;
+										border: none!important;
+										content: '\f105'!important;
+										margin-right: 5px;
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+
+	}
+}
+ul.fl--open{
+	padding-left: 15px;
+	display: block!important;
+	li{
+		a{
+			font-size: 12px;
+			opacity: 1;
+		}
+	}
+}
+ul.fl--close{
+	padding-left: 15px;
+	display: none!important;
+	li{
+		a{
+			font-size: 12px;
+			opacity: 1;
+		}
+	}
+}
+.widget a:hover{
+	font-weight: 700;
+}

@@ -1,0 +1,49 @@
+/**
+ * acf-extended-color-picker CSS
+ */
+
+.acf-color_picker .wp-color-result{
+	height: 44px!important;
+	padding: 0 0 0 45px!important;
+}
+
+.acf-color_picker .wp-color-result .wp-color-result-text{
+	height: 43px!important;
+	line-height: 43px!important;
+}
+
+.acf-color_picker .wp-color-result .color-alpha{
+	height: 43px!important;
+	width: 45px!important;
+}
+.acf-color_picker .wp-color-picker{
+	min-width: 80px!important;
+}
+.acf-color_picker .wp-picker-clear{
+	height: 44px!important;
+}
+
+
+
+
+.acf-field-extended-color-picker .wp-picker-container .wp-color-result > span {
+	border-radius: 0!important;
+}
+
+.acf-field-extended-color-picker .iris-picker .iris-square,
+.acf-field-extended-color-picker .iris-picker .iris-slider,
+.acf-field-extended-color-picker .iris-picker .iris-square-inner,
+.acf-field-extended-color-picker .iris-picker .iris-palette,
+.acf-field-extended-color-picker .iris-picker .iris-square-horiz,
+.acf-field-extended-color-picker .iris-picker .iris-square-vert,
+.acf-field-extended-color-picker .iris-picker .iris-strip,
+.acf-field-extended-color-picker .iris-picker .iris-slider-offset {
+	border-radius: 0px!important;
+	box-shadow: none!important;
+	box-sizing: border-box;
+}
+
+.acf-field-extended-color-picker .iris-palette-container a.iris-palette,
+.acf-field-color-picker .iris-palette-container a.iris-palette {
+	border: 1px solid #ccc;
+}

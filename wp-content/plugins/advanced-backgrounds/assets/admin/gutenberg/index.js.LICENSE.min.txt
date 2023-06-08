@@ -1,0 +1,11 @@
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*!
+ * Video Worker v2.1.5 (https://github.com/nk-o/video-worker)
+ * Copyright 2022 nK <https://nkdev.info>
+ * Licensed under MIT (https://github.com/nk-o/video-worker/blob/master/LICENSE)
+ */

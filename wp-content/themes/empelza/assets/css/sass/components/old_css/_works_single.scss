@@ -1,0 +1,90 @@
+.fl-works-inner-related-works-wrapper{
+  margin-bottom: 10px;
+  padding-top: 75px;
+  padding-bottom: 30px;
+  .fl-works-related-contain{
+    .fl-related-works-title-arrow-contain{
+      display: flex;
+      position: relative;
+      padding-bottom: 25px;
+      .fl-resent-work-arrows{
+        display: flex;
+        position: absolute;
+        right: 0;
+        top: -10px;
+        .fl-recent-work-arrow-left{
+          display: flex;
+          width: 40px;
+          height: 40px;
+          transition: all .3s;
+          text-align: center;
+          opacity: .5;
+          cursor: pointer;
+          align-items: center;
+          justify-content: center;
+          border: 1px solid #eaeaeb;
+          &:hover{
+            opacity: 1;
+          }
+        }
+        .fl-recent-work-arrow-right{
+          display: flex!important;
+          width: 40px;
+          height: 40px;
+          transition: all .3s;
+          text-align: center;
+          opacity: .5;
+          cursor: pointer;
+          align-items: center;
+          justify-content: center;
+          border: 1px solid #eaeaeb;
+          &:hover{
+            opacity: 1;
+          }
+        }
+      }
+    }
+    .fl-resent-works-project-list-slider{
+      overflow: hidden;
+      padding-bottom: 50px;
+      padding-left: 10px;
+      padding-right: 10px;
+      margin: auto -20px;
+      article.fl-resent-works-item{
+        float: left;
+        padding: 10px 10px 0;
+        background-color: transparent;
+        text-align: center;
+        -webkit-transition: all 0.3s;
+        transition: all 0.3s;
+        &:hover{
+          background-color: #fff;
+          box-shadow: 0 5px 30px rgba(4, 4, 4, 0.1);
+        }
+        .fl-resent-works-info{
+          .fl-resent-works-title{
+            font-size: 14px;
+            margin-bottom: 25px;
+            color: #1f1f1f;
+            a{
+              transition: .3s ease;
+              color: inherit;
+              &:hover{
+                transition: .3s ease;
+              }
+            }
+          }
+          .fl-resent-work-category{
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: .1em;
+          }
+        }
+        .fl-resent-works-img{
+          margin-bottom: 16px;
+        }
+      }
+    }
+  }
+}
+

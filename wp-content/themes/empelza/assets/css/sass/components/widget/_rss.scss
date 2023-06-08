@@ -1,0 +1,37 @@
+.widget_rss {
+  .rsswidget img {
+    display: none;
+  }
+  ul{
+    li {
+      padding-bottom: 15px;
+      &:last-child {
+        padding-bottom: 0;
+      }
+      .rsswidget {
+        font-weight: 500;
+        color: #222222;
+        opacity: .8;
+        display:block;
+        margin-bottom: 5px;
+        margin-right: 5px;
+      }
+      .rss-date {
+        display:block;
+        margin-bottom: 5px;
+      }
+      .rssSummary {
+        margin-bottom: 10px;
+      }
+      .rss-date {
+        color: #7b7d7f;
+      }
+      cite {
+        position:relative;
+        display:block;
+        font-style: normal;
+        color: #7b7d7f;
+      }
+    }
+  }
+}

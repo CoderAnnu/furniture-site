@@ -1,0 +1,111 @@
+// Standard Style
+.fl--work-style-standard{
+	padding-top: 10px;
+	.fl-works--item{
+		width: 25%;
+		text-align: center;
+		padding-top: 5px;
+		.empty-content{
+			padding: 10px;
+			transition: all 0.3s;
+			&:hover{
+				transition: all 0.3s;
+				background-color: #fff;
+				box-shadow: 0 5px 30px rgba(4, 4, 4, 0.1);
+			}
+		}
+		  .fl-gallery-category{
+		  	margin-top: 12px;
+		  	font-size: 10px;
+		  	text-transform: uppercase;
+			  a{
+				letter-spacing: .1em;
+				color: #7b7d7f;
+				transition: .3s ease-in-out;
+				  &:hover{
+					  transition: .3s ease-in-out;
+				  }
+				&:after{
+					  content: ',';
+				}
+				&:last-child{
+				  &:after{
+				  	  content: '';
+				  }
+				}
+			  }
+		  }
+		  .fl-gallery-title{
+		  	margin-bottom: 14px;
+		  	font-size: 14px;
+		  	line-height: 24px;
+			  a{
+				  color: #1c1f23;
+				  transition: .3s ease-in-out;
+				  &:hover{
+					  transition: .3s ease-in-out;
+				  }
+			  }
+		  }
+
+	}
+}
+// Masonry Style
+.fl--work-style-masonry{
+	padding-top: 10px;
+	.fl-works--item{
+		width: 33.33%;
+		float: left;
+		.empty-content{
+			padding: 10px;
+			transition: all 0.3s;
+			&:hover{
+				transition: all 0.3s;
+				background-color: #fff;
+				box-shadow: 0 5px 30px rgba(4, 4, 4, 0.1);
+			}
+		}
+	}
+}
+// Metro Style
+.fl--work-style-metro{
+	padding-top: 10px;
+	.fl-works--item{
+		width: 20%;
+		float: left;
+		transition: all 0.3s;
+		.empty-content{
+			position: relative;
+			&:after{
+				position: absolute;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				z-index: 1;
+				content: '';
+				-webkit-transition: all 0.3s;
+				transition: all 0.3s;
+			}
+		}
+		&:hover{
+			.empty-content{
+				&:after{
+					box-shadow: 0 0 0 10px #fff, 0 5px 30px rgba(4, 4, 4, 0.15);
+				}
+			}
+			a{
+				position: relative;
+				z-index: 2;
+			}
+
+		}
+	}
+	.fl-works--item-width2{
+		width: 40%;
+	}
+}
+// Pagination
+.fl-work-post-pagination{
+	margin-top: 20px;
+}

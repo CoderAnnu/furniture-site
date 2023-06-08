@@ -1,0 +1,28 @@
+// Last Post Widget
+.fl-popular-posts-widget{
+  .fl-widget-popular-posts-wrapper{
+	.fl--last-post{
+
+	  margin-top: 25px;
+		.fl-last-post-img{
+			margin-bottom: 15px;
+		}
+	  .fl-last-post-info{
+		.fl-post-title{
+		  display: block;
+		  line-height: 18px;
+		  letter-spacing: 0;
+		  text-transform: none;
+		  font-size: 12px;
+		  margin-bottom: 0.40rem;
+		  a{
+			color: #1c1f23;
+		  }
+		}
+	  }
+		&:first-child{
+			margin-top: 0;
+		}
+	}
+  }
+}

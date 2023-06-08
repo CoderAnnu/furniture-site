@@ -1,0 +1,29 @@
+.widget_recent_comments {
+  .recentcomments {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    &:last-child {
+
+      margin: 0;
+      border: none;
+    }
+    &:last-child {
+      padding-bottom: 0;
+    }
+    >a{
+      margin-left: 5px;
+    }
+    .comment-author-link{
+      font-weight: 600;
+      color: #222222;
+      margin-right: 5px;
+      &:before{
+        content: "\f2c0";
+        font: normal normal normal 13px/1 FontAwesome;
+        margin-right: 8px;
+        position: relative;
+        top: -1px;
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+// Hamburger menu
+.fl--hamburger-menu,.fl--hamburger-menu-wrapper{
+  display: inline-flex;
+  cursor: pointer;
+  .fl-flipper-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.6s;
+    transform-style: preserve-3d;
+    width: 16px;
+    height: 16px;
+    line-height: 16px;
+    perspective: 40px;
+    position: relative;
+    //Font Content
+    .fl-front-content{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+      backface-visibility: hidden;
+      justify-content: center;
+      position: absolute;
+      top: 2px;
+      left: 0;
+      width: 16px;
+      height: 16px;
+      z-index: 2;
+      span{
+        margin-top: 5px;
+        width: 100%;
+        height: 1px;
+        background: #1c1f23;
+        &:first-child{
+          margin-top: 0;
+        }
+      }
+    }
+    //Font Content
+    .fl-back-content{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      backface-visibility: hidden;
+      position: absolute;
+      top: 2px;
+      left: 0;
+      transform: rotateY(180deg);
+      width: 16px;
+      height: 16px;
+      .fl-close-icon{
+        &:before,&:after{
+          position: absolute;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          top: calc(50% - 2px);
+          background: #1c1f23;
+          width: 100%;
+          height: 2px;
+          display: inline-block;
+          content: '';
+        }
+        &:before{
+          transform: rotate(45deg);
+        }
+        &:after{
+          transform: rotate(-45deg);
+        }
+      }
+    }
+  }
+  &.opened{
+    .fl-flipper-icon{
+      transition: 0.6s;
+      transform: rotateY(180deg);
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.widget_archive{
+  ul{
+    list-style: none;
+    margin: 0;
+    li{
+      position: relative;
+      span{
+        position: absolute;
+        top: 0;
+        right: 0;
+        min-width: 23px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        line-height: 1;
+        color: #7b7d7f;
+        border-radius: 3px;
+        transition: .3s ease-in;
+        font-size: 13px;
+        height: 100%;
+      }
+      &:last-child{
+        padding-bottom: 0;
+        border-bottom: none;
+      }
+    }
+  }
+}
